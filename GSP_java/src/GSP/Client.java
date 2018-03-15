@@ -10,16 +10,16 @@ import java.io.IOException;
 public class Client {
 	public static void main(String[] args) throws IOException{
 		//String filePath = "./data/testInput.txt";
-		String filePath = "./data/sorted_10000.csv";
+		String filePath = "./data/sorted_registerSubmit.csv";
 		//String filePath = "./data/sorted_firstday.csv";
-		String mapPath = "./data/idx_eid_10000.json";
+		String mapPath = "./data/idx_eid_registerSubmit.json";
 		
 		//最小支持度阈值
 		int minSupportCount = 50;
 		//时间最小间隔
 		int min_gap = 1;
 		//施加最大间隔
-		int max_gap = 5;
+		int max_gap = 3;
 		
 		long timeStart = System.currentTimeMillis();
 		 

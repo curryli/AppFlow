@@ -1,0 +1,81 @@
+﻿	
+注册流程（H5）	
+用户行为	对应的埋点
+登录页中，点击“立即注册”	event_id：registerApply
+输入手机号后，点击“注册”按钮	event_id：registerSubmit
+输入短信验证码后，点击“确认”	event_id：registerCode
+输入登录密码后，点击“确认”	event_id：registerPwd
+注册成功事件	event_id：registerSuccess
+	key-value对：<uid,统一用户的userID>
+注册失败	event_id：registerFail
+	event_label: 具体的失败原因（错误码）
+手机号已被注册，但是不正确，点击“换个号码，重新注册”	event_id：registerApply
+	
+	
+登录流程	
+用户行为	对应的埋点
+登录页的访问	pagename：LoginView
+登陆界面，用户输入用户名且至少输入一位时	event_id:login_user
+登陆界面，用户输入密码且至少输入一位时	event_id:login_pwd
+登录页面点击“登录常见问题"	event_id:loginMeetProblem
+输入用户信息后，点击“登录”按钮，	event_id: loginSubmit
+登录成功事件	event_id: loginSuccess
+	key-value对：<uid,统一用户的userID>
+登录失败事件	event_id: loginFail
+	event_label: 具体的失败原因（错误码）
+	
+	
+	
+解锁(5月19日IOS上线审核)	
+用户行为	对应的埋点
+锁屏页的访问	pagename：PatternLockView
+锁屏时-点击“登录其他账户”	event_id:gesturePatternOther
+锁屏时-点击“忘记手势密码”	event_id:gesturePatternForget
+手势解锁成功	event_id：unlockPatternSuccess
+	key-value对：<uid,统一用户的userID >
+指纹识别成功（安卓没有）	"event_id: patternLockByFingerprint
+key-value对：<uid,统一用户的userID>"
+	
+	
+	
+	
+忘记密码流程（2月23日版本的）	
+用户行为	对应的埋点
+点击“忘记密码”	"event_id:login_forget_pwd
+已修改为：forgetPasswordApply"
+点击“忘记密码”	event_id:forgetPasswordApply
+找回密码用户名，点击“下一步”	event_id:refind_pwd_submit
+找回密码手机验证时获取短信验证码	event_id:refind_pwd_get_msg
+输入短信验证码后，点击“下一步”	event_id:refind_pwd_msg_submit
+选择“通过安全问题找回”	event_id:forgetPasswordMethod               
+选择“验证银行卡找回”（实名、未实名）	event_id:forgetPasswordBank
+重置密码页面，输入新密码后，点击“提交”	event_id:reset_pwd_submit
+重置密码成功	event_id:reset_pwd_success
+重置密码失败	event_id:reset_pwd_fail
+	
+	
+	
+	
+开机活动（广告）页	
+用户行为	对应的埋点
+显示开机广告页	event_id:close_start_page
+开机活动（广告）页面	"event_id: startAdsPage
+event_label: 图片的AppID"
+点击进入活动的按钮	event_id: startAdsPageEnter
+点击跳过	event_id: startAdsPageSkip
+	
+	
+	
+退出登录	
+用户行为	对应的埋点
+点击“退出登录”	event_id:logoutApply
+点击“确认”	event_id:logoutConfirm
+退出成功	event_id:logoutSuccess
+	
+	
+城市选择	
+用户行为	对应的埋点
+城市列表页	pagename:MainCityView
+城市选择界面，搜索框输入至少一位时	event_id:city_search
+城市选择成功	event_id:city_select
+定位城市与最近保存的城市不一致，需要提醒用户切换城市	event_id:city_autoselect

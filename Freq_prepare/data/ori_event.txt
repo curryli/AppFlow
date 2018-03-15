@@ -1,0 +1,2030 @@
+点击 手机充值	"event_id：473AtLifeChnlPg(命名规则:appId+At页面名,下同,此处473仅为示例,实际以后台给出的为准)
+点击 公缴缴费	event_id：472AtLifeChnlPg
+点击 商城	event_id：468AtLifeChnlPg
+点击 信用卡还款	event_id：429AtLifeChnlPg
+点击 转账	event_id：350AtLifeChnlPg
+点击 拍拍卡（只有安卓有此功能）	event_id：102AtLifeChnlPg
+点击 晒单	event_id：480AtLifeChnlPg
+点击 开发票	event_id：690AtLifeChnlPg
+点击 交通违章	event_id：63AtLifeChnlPg
+点击 国税缴纳	event_id：61AtLifeChnlPg
+点击 天津国税	event_id：81AtLifeChnlPg
+点击 广东智惠停车	event_id：653AtLifeChnlPg
+点击 学费缴纳	event_id：132AtLifeChnlPg
+点击 青岛社保查询	event_id：364AtLifeChnlPg
+点击 深圳企业信用查询	event_id：129AtLifeChnlPg
+点击 社保缴纳	event_id：67AtLifeChnlPg
+点击 纳税黑名单查询	event_id：249AtLifeChnlPg
+完成信息填写后，点击“确认还款”	event_id: CrdtCrdPaySubmit
+弹出手续费提示弹层（输入的卡号为“转账模式”信用卡中心）	"event_id: CrdtCrdFeeRmd
+在手续费提示弹层中点击“继续”	event_id: CrdtCrdPayConf
+进入无卡支付控件（备注：银联在线支付）	event_id: CrdtCrdUnionPay
+进入ApplePay支付控件（备注：想统计有多少人用ApplePay支付）	event_id: CrdtCrdApplePay
+信用卡还款，支付成功	event_id: CrdtCrdPaySucc
+信用卡还款，支付控件后支付失败（原因）	"event_id: CrdtCrdPayFail
+进入“汇率计算”应用后，用户点击右上角的问号（业务说明）	event_id：exchRtIstr
+“汇率计算”页面→“交易币种”输入栏输入 	event_id：exchRtCompute
+请求汇率计算(切换交易币种）时，计算成功	event_id：exchRtCptSucc
+请求汇率计算（切换交易币种）时，计算失败，并说明失败原因	event_id：exchRtCptFail 
+进入“退税”应用后，用户点击“国家名”进入具体的国家退税攻略	"event_id：taxRebateCountry
+进入“退税”应用后，用户点击底部“退税攻略”	event_id：taxRebateStrategy
+进入“退税”应用后，用户点击底部“退税查询”，且用户是没有银行卡的情况	event_id：taxRebateInquiry
+进入“退税”应用后，用户点击底部“退税查询”，且用户是有银行卡	event_id：taxRebateInquiry
+用户进行具体查询时，点击“查询”按钮	event_id：taxRebateInquiryButton
+拍卡查询余额输入密码	event_id:paipaicard_inputPwd
+拍卡查询余额成功	event_id:paipaicard_queryBalanceSuccess
+拍卡首页点击电子现金充值	event_id:paipaicard_eCashRecharge
+现金充值拍卡	event_id:paipaicard_eCashRecharge_detectCard
+现金充值弹出密码框	event_id:paipaicard_eCashRecharge_inputPwd
+现金充值点击电子现金充值	event_id:paipaicard_eCashRecharge_submit
+拍拍卡，现金充值点击电子现金查询	event_id:paipaicard_eCashRecharge_queryBalance
+现金充值点击电子现金查询成功	event_id:paipaicard_eCashRecharge_queryBalanceSuccess
+拍拍卡，现金充值成功	event_id:paipaicard_eCashRecharge_success
+拍卡首页点击信用卡还款	event_id:paipaicard_creditcardRepay
+拍卡首页点击转账	event_id:paipaicard_transferMoney
+拍卡转账点击确认	event_id:Paipaicard_transferMoney_submit
+拍卡转账成功	event_id:paipaicard_transferMoney_success	
+点击查看“晒单规则”	event_id：shaidan_checkRules
+点击“查询”按钮	event_id：shaidan_inquiryRecords
+点击左下按钮“我要晒单”	event_id：shaidan_iWant
+点击右下按钮“我的历史晒单”	event_id：shaidan_myHistory
+进入“我要晒单”页面，点击某一条交易记录，进入自动晒单	event_id：shaidan_action
+进入“我要晒单”页面，点击底部“手工晒单”按钮	event_id：shaidan_action
+输入完晒单信息后，点击“提交”按钮	event_id：shaidan_submit
+进入“手机充值”页面	event_id: mobileFeeStart
+点击“通讯录”头像	event_id:mobileContacts
+点击“确认支付”	event_id: mobileFeeSubmit
+点击“更多充值”里面的应用	event_id:moreRecharge
+点击“充值记录”	event_id:mobileRechargeRecord
+手机充值，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+手机充值，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+手机充值，支付成功	event_id: mobileFeePaySuccess
+手机充值，支付失败	event_id: mobileFeePayFail
+水费，完成信息填写时，点击“查询”	event_id: waterFeeInquiry
+水费，查询成功 	event_id: waterFeeInquirySuccess
+水费，确认支付	event_id: waterFeePayConfirm
+水费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+水费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+水费，支付成功	event_id: waterFeePaySuccess
+燃气费，完成信息填写时，点击“查询”	event_id: gasFeeInquiry
+燃气费，查询成功 	event_id: gasFeeInquirySuccess
+燃气费，确认支付	event_id: gasFeePayConfirm
+燃气费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+燃气费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+燃气费，支付成功	event_id: gasFeePaySuccess
+电费，完成信息填写时，点击“查询”	event_id: electricFeeInquiry
+电费，查询成功 	event_id: electricFeeInquirySuccess
+电费，确认支付	event_id: electricFeePayConfirm
+电费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+电费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+电费，支付成功	event_id: electricFeePaySuccess
+物业费，完成信息填写时，点击“查询”	event_id: propertyFeeInquiry
+物业费，查询成功 	event_id: propertyFeeInquirySuccess
+物业费，确认支付	event_id: propertyFeePayConfirm
+物业费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+物业费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+物业费，支付成功	event_id: propertyFeePaySuccess
+进入移动缴费应用后，点击“确认支付”	event_id: chinaMobileFeePayConfirm
+移动缴费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+移动缴费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+移动缴费，支付成功	event_id: chinaMobileFeePaySuccess
+进入联通缴费应用后，点击“确认支付”	event_id: chinaUnicomFeePayConfirm
+联通缴费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+联通缴费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+联通缴费，支付成功	event_id: chinaUnicomFeePaySuccess
+进入电信缴费应用后，点击“确认支付”	event_id: chinaTelecomFeePayConfirm
+电信缴费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+电信缴费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+电信缴费，支付成功	event_id: chinaTelecomFeePaySuccess
+进入违章代办应用后，完成信息填写时，点击“查询” 	event_id: carPenaltyInquiry
+查询成功，有罚款记录	event_id: carPenaltyInquirySuccess
+确认支付	event_id: carPenaltyPayConfirm
+违章代办，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+违章代办，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+支付成功	event_id: carPenaltyPaySuccess
+公缴营销入口	event_id: publicPayMarket
+进入加油卡充值页面	event_id：InRefuelCardPg
+点击“历史加油卡号”	event_id：oldRefuelCard
+用户输入加油卡充值卡号正确	event_id：correctRefuelCardNO
+点击“确认支付”	event_id：refuelCardPayConfirm
+加油卡充值成功	event_id：refuelCardPaySuccess
+加油卡充值失败	event_id：refuelCardPayFail
+有线电视费，完成信息填写时，点击“查询”	event_id: cableTVInquiry
+有线电视费，查询成功 	event_id: cableTVInquirySuccess
+有线电视费，确认支付	event_id: cableTVPayConfirm
+有线电视费，支付成功	event_id: cableTVPaySuccess
+进入 可申请卡列表页面	event_id：applyCardPg
+点击卡申请进度查询	event_id：applyCardStage
+进入 申卡进度详情页面	event_id：applyCardStageDtlPg
+点击 立即申请（多个）	"event_id：applyCardApply
+event_lable：返回能标识不同卡的字段"
+信息提示，点击 同意	event_id：agreeApplyCardInfo
+信息提示，点击 不同意	event_id：disagreeApplyCardInfo
+补全信息，点击 下一步	event_id：applyCardSubmit
+缴费成功，点击“查看你的优惠权益，抽奖领现金”	"event_id：P2PLotteryAtPublicPay
+event_lable：可以区分不同公缴应用的字段"
+充值成功，点击“查看你的优惠权益，抽奖领现金”	event_id：P2PLotteryAtMobileFee
+进入 本地服务页面	event_id：localServicePg
+点击 搜索	event_id：localServiceSearch
+点击 本地服务页面中的banner图	event_id：localServiceBanner
+点击 本地服务页面中的某个应用（包含热门应用和标题栏目的应用）	event_id：moduleInLocalService
+有公告时，点击“公告”	event_id：creditCardRepayNotice
+点击“添加信用卡”	event_id: newCreditCardAdd
+点击“确认添加”	event_id: newCreditCardAddConfirm
+点击卡列表中的“银行卡”	event_id: creditCardClick
+点击右上方“。。。”	event_id: creditCardRepayMore
+点击“还款记录”	event_id: creditCardRecord
+点击右上角的“筛选图标”	event_id：creditCardRecordFilter
+还款记录筛选，点击“确认”	event_id：creditCardRecordFilterConfirm
+点击“历史还款信用卡”	event_id: OldcreditCard
+点击“验证卡片”	event_id: creditCardVerify
+验证成功	event_id: creditCardVerifySuccess
+点击“删除卡片”（本人卡和非本人卡时）	event_id: creditCardCancel
+删除卡片的弹窗中，点击“删除”	event_id: creditCardCancelConfirm
+点击“支持银行卡列表”	event_id: creditCardSupportList
+点击“帮助中心”	event_id: creditCardHelp
+信用卡还款（即金额录入页）（9月20日）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入信用卡还款页面（输入金额的界面）	pagename：creditCardPayPg
+点击金额输入的“编辑”	event_id:creditCardPayAmount
+在弹层中，输入还款金额后，点击“确认”	event_id:creditCardPayAmountConfirm
+完成信息填写后，点击“确认还款”	"event_id:creditCardPaySubmit
+event_lable：free或者charge（free代表无手续费，charge代表有手续费）"
+在弹窗中，选择“银联在线支付”	event_id:creditCardUnionPay
+在弹窗中，选择“ApplePay支付”	event_id:creditCardApplePay
+在弹窗中，选择“暂不支付”	event_id:creditCardPayCancel
+信用卡还款，付款成功	event_id:creditCardPaySuccess
+信用卡还款，支付控件后支付失败	event_id:creditCardPayFail
+在信用卡管理界面，点击“还款记录”(指某个银行)	event_id:creditCardPayRecord
+统一APP云闪付（HCE）	
+用户行为	埋点名称
+点击“新手指南”	event_id:cloudpayGuide
+点击“支持银行”	event_id:cloudpaySupportBank
+点击“添加云闪付卡”	"event_id:cloudpayBindcard
+event_lable：nocard"
+点击“升级为云闪付卡”	"event_id:cloudpayBindcard
+event_lable：havecard"
+卡号输入后，点击“下一步”	event_id:cloudpayCardNO
+开通云闪付，验证卡要素，点击“下一步”	event_id:cloudpayElementNext
+点击“重新获取”	event_id:cloudpayGetCode
+输入验证码，点击“下一步”（可关闭）	"event_id:cloudpayActiveCode
+event_lable：openingProcess"
+用户不输入验证码，点击右上角的χ“关闭”	event_id:cloudpayActiveCancel
+云闪付开通成功	event_id:cloudpayOpenSuccess
+点击“云闪付卡未开通”	event_id:cloudCardBindcard
+点击“NFC未打开”	event_id:cloudCardNFC
+点击“默认付款APP”	event_id:DefaultAPP
+点击“设置默认卡”	event_id:DefaultCardSet
+选择要设置的卡后，点击“确认”	event_id:DefaultCardSetConfirm
+设置默认卡成功	event_id:DefaultCardSetSucc
+我的云闪付卡页面，点击“激活”	event_id:cloudpayActive
+输入验证码，点击“下一步”	"event_id:cloudpayActiveCode
+event_lable：myCardlist"
+云闪付激活成功	event_id:cloudpayActiveSuccess
+
+
+
+用户行为	对应的埋点
+登录页中，点击“立即注册”	event_id：registerApply
+输入手机号后，点击“注册”按钮	event_id：registerSubmit
+输入短信验证码后，点击“确认”	event_id：registerCode
+输入登录密码后，点击“确认”	event_id：registerPwd
+注册成功事件	event_id：registerSuccess
+	key-value对：<uid,统一用户的userID>
+注册失败	event_id：registerFail
+	event_label: 具体的失败原因（错误码）
+手机号已被注册，但是不正确，点击“换个号码，重新注册”	event_id：registerApply
+	
+	
+登录流程	
+用户行为	对应的埋点
+登录页的访问	pagename：LoginView
+登陆界面，用户输入用户名且至少输入一位时	event_id:login_user
+登陆界面，用户输入密码且至少输入一位时	event_id:login_pwd
+登录页面点击“登录常见问题"	event_id:loginMeetProblem
+输入用户信息后，点击“登录”按钮，	event_id: loginSubmit
+登录成功事件	event_id: loginSuccess
+	key-value对：<uid,统一用户的userID>
+登录失败事件	event_id: loginFail
+	event_label: 具体的失败原因（错误码）
+	
+	
+	
+解锁(5月19日IOS上线审核)	
+用户行为	对应的埋点
+锁屏页的访问	pagename：PatternLockView
+锁屏时-点击“登录其他账户”	event_id:gesturePatternOther
+锁屏时-点击“忘记手势密码”	event_id:gesturePatternForget
+手势解锁成功	event_id：unlockPatternSuccess
+	key-value对：<uid,统一用户的userID >
+指纹识别成功（安卓没有）	"event_id: patternLockByFingerprint
+key-value对：<uid,统一用户的userID>"
+	
+	
+	
+	
+忘记密码流程（2月23日版本的）	
+用户行为	对应的埋点
+点击“忘记密码”	"event_id:login_forget_pwd
+已修改为：forgetPasswordApply"
+点击“忘记密码”	event_id:forgetPasswordApply
+找回密码用户名，点击“下一步”	event_id:refind_pwd_submit
+找回密码手机验证时获取短信验证码	event_id:refind_pwd_get_msg
+输入短信验证码后，点击“下一步”	event_id:refind_pwd_msg_submit
+选择“通过安全问题找回”	event_id:forgetPasswordMethod               
+选择“验证银行卡找回”（实名、未实名）	event_id:forgetPasswordBank                event_lable:authen                            event_lable:unauthen
+重置密码页面，输入新密码后，点击“提交”	event_id:reset_pwd_submit
+重置密码成功	event_id:reset_pwd_success
+重置密码失败	event_id:reset_pwd_fail
+	
+	
+	
+	
+开机活动（广告）页	
+用户行为	对应的埋点
+显示开机广告页	event_id:close_start_page
+开机活动（广告）页面	"event_id: startAdsPage
+event_label: 图片的AppID"
+点击进入活动的按钮	event_id: startAdsPageEnter
+点击跳过	event_id: startAdsPageSkip
+	
+	
+	
+退出登录	
+用户行为	对应的埋点
+点击“退出登录”	event_id:logoutApply
+点击“确认”	event_id:logoutConfirm
+退出成功	event_id:logoutSuccess
+	
+	
+城市选择	
+用户行为	对应的埋点
+城市列表页	pagename:MainCityView
+城市选择界面，搜索框输入至少一位时	event_id:city_search
+城市选择成功	event_id:city_select
+定位城市与最近保存的城市不一致，需要提醒用户切换城市	event_id:city_autoselect
+
+
+
+
+
+	
+	
+【1】页面访问	
+用户行为	"对应的埋点
+（页面名或事件名）"
+访问精选频道页	pagename：IdxMainPg
+	
+	
+	
+【2】重叠时上方的应用	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 扫一扫	event_id：topright_saoma
+点击 付款码	event_id：topright_fukuan
+	
+	
+	
+【3】顶部四个应用区	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 扫一扫	event_id：28AtIdxMainPg(命名规则:appId+At页面名,下同,此处28仅为示例,实际以后台给出的为准)
+点击 付款码	"event_id：9AtIdxMainPg
+"
+点击 云闪付（0930下线）	"event_id：134AtIdxMainPg
+"
+点击 附近	"event_id：271AtIdxMainPg
+"
+点击 收款（0930上线）	event_id：381AtIdxMainPg
+	
+	
+	
+【4】分类区域（可滑动）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 钱包商城	event_id：62AtIdxMainPg(命名规则:appId+At页面名,下同,此处62仅为示例,实际以后台给出的为准)
+点击 公共缴费	"event_id：281AtIdxMainPg
+"
+点击 我要办卡	"event_id：10AtIdxMainPg
+"
+点击 权益	"event_id：25AtIdxMainPg
+"
+点击 优计划优惠	"event_id：243AtIdxMainPg
+"
+点击 转账	"event_id：15AtIdxMainPg
+"
+点击 信用卡还款	"event_id：53AtIdxMainPg
+"
+点击 手机充值	"event_id：130AtIdxMainPg
+"
+点击 数娱中心	event_id：367AtIdxMainPg
+点击 全民运动	"event_id：111AtIdxMainPg
+"
+点击 汇率计算	"event_id：20AtIdxMainPg
+"
+点击 晒单	"event_id：90AtIdxMainPg
+"
+点击 开发票	"event_id：165AtIdxMainPg
+"
+点击 退税查询	"event_id：83AtIdxMainPg
+"
+点击 海外用卡	"event_id：18AtIdxMainPg
+"
+点击 电影票	"event_id：290AtIdxMainPg（六二之前是121）
+"
+点击 车险礼遇	event_id：233AtIdxMainPg
+点击 手机闪付	event_id：134AtIdxMainPg
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+付款码（5月29日上线）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击“境内付款码”	event_id：fukuanHome
+点击“扫码付”	event_id：fukuanScanCode
+点击“定时自动更新”	event_id：fukuanRefresh
+点击“境外付款码”	event_id：fukuanOverseas
+点击“。。。”	event_id：fukuanOtherIfor
+点击“小额免密支付”	event_id：fukuanWithoutPwd
+点击“支持银行列表”	event_id：fukuanSupportBank
+点击“使用说明”	event_id：fukuanInstr
+点击付款后，用户无符合条件的银行卡，发送该事件	event_id: fukuan
+	event_label: nocard
+用户无符合条件的银行卡，点击底部添加银行卡	event_id：bindCard
+	event_label：byFukuan
+点击付款后，用户有符合条件的银行卡，发送该事件	event_id: fukuan
+	event_label: havecard
+二维码被扫描成功	event_id: fukuanScan
+判断为不需要输入密码	event_id：fukuanPassword
+	event_label: pwdfree
+免密付款成功	event_id：fukuanSuccess
+	event_label: pwdfree
+	key-value对：<money，支付的金额 >
+判断为需要输入密码	event_id：fukuanPassword
+	event_label: needpwd
+需要输密码时，付款成功	event_id：fukuanSuccess
+	event_label: needpwd
+	key-value对：<money，支付的金额 >
+	
+	
+	
+扫一扫（8月28日上线）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+扫码页面	Pagename：QRCodeView
+扫描“订单”二维码成功（例如支付网关上的订单二维码）	event_id: saomaSuccess
+	event_label: order
+扫描其它不符合预期二维码	event_id: saomaSuccess
+	event_label: otherUncorrectQr
+扫描“收款”二维码成功	event_id: saomaSuccess
+	event_label: shoukuan
+点击“相册”	event_id:saomaPhoto
+点击“去设置（iOS）”	event_id:saomaToSetPhoto
+点击“确认付款”	event_id：saomaPayConfirm
+点击“添加银行卡付款”	event_id：addCrdAtCrdLstPg
+	event_label: QRview
+二维码付款成功	event_id：saomaPaySuccess
+	event_label: 支付的金额(后台返)
+"二维码付款失败
+（lable为各种失败原因）"	event_id：saomaPayFail
+	event_lable：失败原因（后台返）
+	
+	
+	
+	
+云闪付	
+用户行为	"对应的埋点
+（页面名或事件名）"
+银联云闪付专区页面	pagename:applepayprefectureView 
+点击“banner” （4个相同的event_id）	event_id：banner_applepay  
+点击“云闪付优惠券”	event_id：applepayCoupons
+点击“支持云闪付商户”	event_id：applepayMerchants
+点击“我的银联云闪付卡”（无卡时）	"event_id：cloudpaycardlis
+event_label：nocard"
+点击“我的银联云闪付卡”（有卡时）	"event_id：cloudpaycardlis 
+event_label：havecard"
+点击“云闪付常见问题”	event_id：cloudpaycommonproblem
+点击“申请云闪付”	"event_id：cloudcardApply
+event_label：Applepay_fromprefecture"
+	
+	
+	
+收款（9月7日上线）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入收款页面	event_id：shoukuanEnter
+点击“添加银行卡”	event_id：addCrdAtCrdLstPg
+	event_label: shoukuan
+点击“设置金额”	event_id：shoukuanSetAccount
+输入金额后，点击“确定”	event_id：shoukuanAccountConfirm
+点击“保存图片”	"event_id：saveShoukuanCode
+event_lable:picture"
+保存成功	event_id：saveShoukuanCodeSucc
+点击“收款记录”	event_id：shoukuanRecord
+点击“清除金额”	event_id：clearShoukuanAccount
+点击 “添加银行卡收款”	event_id：addCrdAtCrdLstPg
+	event_label: shoukuan
+收款成功	event_id：shoukuanSuccess
+	event_label: 支付的金额(后台返)
+
+	
+	
+	
+【2】生活精选	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 手机充值	"event_id：473AtLifeChnlPg(命名规则:appId+At页面名,下同,此处473仅为示例,实际以后台给出的为准)
+"
+点击 公缴缴费	event_id：472AtLifeChnlPg
+点击 商城	event_id：468AtLifeChnlPg
+点击 信用卡还款	event_id：429AtLifeChnlPg
+点击 转账	event_id：350AtLifeChnlPg
+点击 拍拍卡（只有安卓有此功能）	event_id：102AtLifeChnlPg
+点击 晒单	event_id：480AtLifeChnlPg
+点击 开发票	event_id：690AtLifeChnlPg
+点击 交通违章	event_id：63AtLifeChnlPg
+点击 国税缴纳	event_id：61AtLifeChnlPg
+点击 天津国税	event_id：81AtLifeChnlPg
+点击 广东智惠停车	event_id：653AtLifeChnlPg
+点击 学费缴纳	event_id：132AtLifeChnlPg
+点击 青岛社保查询	event_id：364AtLifeChnlPg
+点击 深圳企业信用查询	event_id：129AtLifeChnlPg
+点击 社保缴纳	event_id：67AtLifeChnlPg
+点击 纳税黑名单查询	event_id：249AtLifeChnlPg
+	
+	
+还款-信用卡还款（即卡号、姓名、金额录入页）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入信用卡还款页面	pagename：CrdtCrdPayPg
+完成信息填写后，点击“确认还款”	event_id: CrdtCrdPaySubmit
+弹出手续费提示弹层（输入的卡号为“转账模式”信用卡中心）	"event_id: CrdtCrdFeeRmd
+"
+在手续费提示弹层中点击“继续”	event_id: CrdtCrdPayConf
+进入无卡支付控件（备注：银联在线支付）	event_id: CrdtCrdUnionPay
+进入ApplePay支付控件（备注：想统计有多少人用ApplePay支付）	event_id: CrdtCrdApplePay
+信用卡还款，支付成功	event_id: CrdtCrdPaySucc
+信用卡还款，支付控件后支付失败（原因）	"event_id: CrdtCrdPayFail
+event_label:上送error包含的CODE（即数据和字母信息）"
+	
+	
+	
+汇率计算（2月23日H5版本）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入“汇率计算”应用后，用户点击右上角的问号（业务说明）	event_id：exchRtIstr
+“汇率计算”页面→“交易币种”输入栏输入 	event_id：exchRtCompute
+请求汇率计算(切换交易币种）时，计算成功	event_id：exchRtCptSucc
+请求汇率计算（切换交易币种）时，计算失败，并说明失败原因	event_id：exchRtCptFail                                    event_label：失败原因（errocode）
+	
+	
+	
+海外退税（之前有的,是H5的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入“退税”应用后，用户点击“国家名”进入具体的国家退税攻略	"event_id：taxRebateCountry
+event_label：对应的国家英文名
+例如：
+瑞士-Switzerland
+英国-UK
+法国-France
+韩国-Korea
+新加坡-Singapore
+意大利-Italy
+德国-Germany
+荷兰-Holland
+西班牙-Spain"
+进入“退税”应用后，用户点击底部“退税攻略”	event_id：taxRebateStrategy
+进入“退税”应用后，用户点击底部“退税查询”，且用户是没有银行卡的情况	event_id：taxRebateInquiry
+	event_label：nocard
+进入“退税”应用后，用户点击底部“退税查询”，且用户是有银行卡	event_id：taxRebateInquiry
+	event_label：havecard
+用户进行具体查询时，点击“查询”按钮	event_id：taxRebateInquiryButton
+	
+	
+	
+拍拍卡（之前有的,是Android的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+"点击拍拍卡之后拍卡
+"	event_id:paipaicard_dectectCard
+拍卡查询余额输入密码	event_id:paipaicard_inputPwd
+拍卡查询余额成功	event_id:paipaicard_queryBalanceSuccess
+拍卡首页点击电子现金充值	event_id:paipaicard_eCashRecharge
+现金充值拍卡	event_id:paipaicard_eCashRecharge_detectCard
+现金充值弹出密码框	event_id:paipaicard_eCashRecharge_inputPwd
+现金充值点击电子现金充值	event_id:paipaicard_eCashRecharge_submit
+拍拍卡，现金充值点击电子现金查询	event_id:paipaicard_eCashRecharge_queryBalance
+现金充值点击电子现金查询成功	event_id:paipaicard_eCashRecharge_queryBalanceSuccess
+拍拍卡，现金充值成功	event_id:paipaicard_eCashRecharge_success
+拍卡首页点击信用卡还款	event_id:paipaicard_creditcardRepay
+拍卡首页点击转账	event_id:paipaicard_transferMoney
+拍卡转账点击确认	event_id:Paipaicard_transferMoney_submit
+拍卡转账成功	event_id:paipaicard_transferMoney_success
+	
+	
+	
+晒单（之前有的,是H5的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击查看“晒单规则”	event_id：shaidan_checkRules
+点击“查询”按钮	event_id：shaidan_inquiryRecords
+点击左下按钮“我要晒单”	event_id：shaidan_iWant
+点击右下按钮“我的历史晒单”	event_id：shaidan_myHistory
+进入“我要晒单”页面，点击某一条交易记录，进入自动晒单	event_id：shaidan_action
+	event_label：auto
+进入“我要晒单”页面，点击底部“手工晒单”按钮	event_id：shaidan_action
+	event_label：hand
+输入完晒单信息后，点击“提交”按钮	event_id：shaidan_submit
+	
+	
+	
+手机充值(7月13日上线)	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入“手机充值”页面	event_id: mobileFeeStart
+	event_label：mobileFee/mobileFlow（mobileFee代表话费充值，mobileFlow代表流量充值）
+点击“通讯录”头像	event_id:mobileContacts
+点击“确认支付”	event_id: mobileFeeSubmit
+	event_label：mobileFee/mobileFlow（mobileFee代表话费充值，mobileFlow代表流量充值）
+点击“更多充值”里面的应用	event_id:moreRecharge
+	event_label：后台返的应用的名称（流量充值/公缴，或者其他）流量充值hot/公缴hot
+点击“充值记录”	event_id:mobileRechargeRecord
+手机充值，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bymobileFee
+手机充值，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bymobileFee
+手机充值，支付成功	event_id: mobileFeePaySuccess
+	key-value对：<money，支付的金额>
+	event_label：mobileFee/mobileFlow（mobileFee代表话费充值，mobileFlow代表流量充值）
+手机充值，支付失败	event_id: mobileFeePayFail
+	event_lable：失败原因
+	
+	
+	
+公共缴费-水费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+水费，完成信息填写时，点击“查询”	event_id: waterFeeInquiry
+水费，查询成功 	event_id: waterFeeInquirySuccess
+水费，确认支付	event_id: waterFeePayConfirm
+水费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bywaterFee
+水费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bywaterFee
+水费，支付成功	event_id: waterFeePaySuccess
+	key-value对：<money，支付的金额 >
+	
+	
+	
+公共缴费-燃气费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+燃气费，完成信息填写时，点击“查询”	event_id: gasFeeInquiry
+燃气费，查询成功 	event_id: gasFeeInquirySuccess
+燃气费，确认支付	event_id: gasFeePayConfirm
+燃气费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bygasFee
+燃气费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bygasFee
+燃气费，支付成功	event_id: gasFeePaySuccess
+	key-value对：<money，支付的金额 >
+	
+	
+	
+公共缴费-电费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+电费，完成信息填写时，点击“查询”	event_id: electricFeeInquiry
+电费，查询成功 	event_id: electricFeeInquirySuccess
+电费，确认支付	event_id: electricFeePayConfirm
+电费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：byelectricFee
+电费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：byelectricFee
+电费，支付成功	event_id: electricFeePaySuccess
+	key-value对：<money，支付的金额 >
+	
+	
+	
+公共缴费-物业费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+物业费，完成信息填写时，点击“查询”	event_id: propertyFeeInquiry
+物业费，查询成功 	event_id: propertyFeeInquirySuccess
+物业费，确认支付	event_id: propertyFeePayConfirm
+物业费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bypropertyFee
+物业费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bypropertyFee
+物业费，支付成功	event_id: propertyFeePaySuccess
+	key-value对：<money，支付的金额>
+	
+	
+	
+公共缴费-移动缴费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入移动缴费应用后，点击“确认支付”	event_id: chinaMobileFeePayConfirm
+移动缴费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bychinaMobileFee
+移动缴费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bychinaMobileFee
+移动缴费，支付成功	event_id: chinaMobileFeePaySuccess
+	key-value对：<money，支付的金额>
+	
+	
+	
+公共缴费-联通缴费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入联通缴费应用后，点击“确认支付”	event_id: chinaUnicomFeePayConfirm
+联通缴费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bychinaUnicomFee
+联通缴费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bychinaUnicomFee
+联通缴费，支付成功	event_id: chinaUnicomFeePaySuccess
+	key-value对：<money，支付的金额>
+	
+	
+	
+公共缴费-电信缴费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入电信缴费应用后，点击“确认支付”	event_id: chinaTelecomFeePayConfirm
+电信缴费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bychinaTelecomFee
+电信缴费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bychinaTelecomFee
+电信缴费，支付成功	event_id: chinaTelecomFeePaySuccess
+	key-value对：<money，支付的金额>
+	
+	
+	
+	
+	
+违章代办（交通罚款）（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入违章代办应用后，完成信息填写时，点击“查询” 	event_id: carPenaltyInquiry
+查询成功，有罚款记录	event_id: carPenaltyInquirySuccess
+确认支付	event_id: carPenaltyPayConfirm
+违章代办，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bycarPenalty
+违章代办，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bycarPenalty
+支付成功	event_id: carPenaltyPaySuccess
+	key-value对：<money，支付的金额 >
+	
+	
+	
+公缴营销入口（8月15日上线）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+公缴营销入口	event_id: publicPayMarket
+	
+	
+	
+加油卡充值（8月15日上线）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入加油卡充值页面	event_id：InRefuelCardPg
+点击“历史加油卡号”	event_id：oldRefuelCard
+用户输入加油卡充值卡号正确	event_id：correctRefuelCardNO
+点击“确认支付”	event_id：refuelCardPayConfirm
+加油卡充值成功	event_id：refuelCardPaySuccess
+	money: 支付的金额
+加油卡充值失败	event_id：refuelCardPayFail
+	event_lable：失败原因
+	
+	
+	
+公共缴费-有线电视（8月15日上线）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+有线电视费，完成信息填写时，点击“查询”	event_id: cableTVInquiry
+有线电视费，查询成功 	event_id: cableTVInquirySuccess
+有线电视费，确认支付	event_id: cableTVPayConfirm
+有线电视费，支付成功	event_id: cableTVPaySuccess
+	key-value对：<money，支付的金额 >
+	
+	
+	
+在线申卡需求（11月底版本）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入 可申请卡列表页面	event_id：applyCardPg
+点击卡申请进度查询	event_id：applyCardStage
+进入 申卡进度详情页面	event_id：applyCardStageDtlPg
+点击 立即申请（多个）	"event_id：applyCardApply
+event_lable：返回能标识不同卡的字段"
+信息提示，点击 同意	event_id：agreeApplyCardInfo
+信息提示，点击 不同意	event_id：disagreeApplyCardInfo
+补全信息，点击 下一步	event_id：applyCardSubmit
+	
+	
+	
+生活版营销功能埋点需求（11月底版本）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+缴费成功，点击“查看你的优惠权益，抽奖领现金”	"event_id：P2PLotteryAtPublicPay
+event_lable：可以区分不同公缴应用的字段"
+充值成功，点击“查看你的优惠权益，抽奖领现金”	event_id：P2PLotteryAtMobileFee
+	
+	
+	
+本地服务需求（11月底版本）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入 本地服务页面	event_id：localServicePg
+点击 搜索	event_id：localServiceSearch
+点击 本地服务页面中的banner图	event_id：localServiceBanner
+点击 本地服务页面中的某个应用（包含热门应用和标题栏目的应用）	"event_id：moduleInLocalService
+event_lable：后台返的能标识某个应用的字段或名称"
+
+
+
+	
+以下为实例（可作为后期测试案例及维护表）	
+【1】页面访问	
+用户行为	"对应的埋点
+（页面名或事件名）"
+访问卡包频道页	pagename：IdxMainPg
+	
+	
+【2】TopBar顶部工具	
+ 	"对应的埋点
+（页面名或事件名）"
+点击 搜索	event_id：searchAtIdxMainPg
+点击 消息	event_id：messageAtIdxMainPg
+点击 开户	event_id：685AtTopBar
+点击 扫一扫	event_id：178AtTopBar
+点击 付款	event_id：179AtTopBar
+点击 收款	event_id：682AtTopBar
+	
+	
+【3】热门支付场景	
+ 	"对应的埋点
+（页面名或事件名）"
+点击 周边优惠	event_id：174AtHotPay
+点击 电影票	event_id：484AtHotPay
+点击 海外用卡	event_id：483AtHotPay
+点击 优计划	event_id：482AtHotPay
+点击 全民运动	event_id：481AtHotPay
+点击 晒单	event_id：480AtHotPay
+点击 汇率计算	event_id：479AtHotPay
+点击 权益	event_id：474AtHotPay
+点击 手机充值	event_id：473AtHotPay
+点击 公共缴费	event_id：472AtHotPay
+点击 还款	event_id：429AtHotPay
+点击 商城	event_id：468AtHotPay
+点击 账本	event_id：378AtHotPay
+点击 转账	event_id：350AtHotPay
+点击 数娱中心	event_id：478AtHotPay
+点击 保险礼遇	event_id：765AtHotPay
+	
+	
+【4】银行服务专区—基础服务	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 右上方卡列表	event_id：crdLstAtIdxMainPg
+点击 右上方添卡	event_id：addCrdAtCrdLstPg
+	event_label：fromIdxMainPg
+点击 卡面	event_id：toBankCardDetl
+请登录你的账户	event_id：loginAtIdxMainPg
+点击 立即添加您的银行卡	event_id：addCrdAtCrdLstPg
+	event_label：fromIdxMainPg
+	
+	
+【5】银行服务专区—痛点权益	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 具体权益	event_id：bankCardPrivilegeDetl
+	event_label：fromIdxMainPg
+	key_value：<string:权益名称>
+	
+	
+【6】银行服务专区—自定义服务	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 缤纷生活APP	event_id：28AtBankServ(命名规则:appId+AtBankServ下同,此处28仅为示例,实际以后台给出的为准)
+点击 办贷款	event_id：?AtBankServ
+点击 理财	event_id：?AtBankServ
+…	event_id：?AtBankServ
+	
+	
+【7】banner区	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 云闪付 重大升级（-1221）	event_id:696AtBanner
+点击 银联二维码双日活动（1213-1221）	event_id:113AtBanner
+点击 新客驾到（1206-）	event_id：152AtBanner
+点击 品牌联动营销（1221-1231）	event_id：459AtBanner
+点击 P2P转账（1211-1212）	event_id：433AtBanner
+点击 银联迪士尼5折狂欢（1218-）0101-	event_id：162AtBanner
+点击 三人成团（1221-）	event_id：308AtBanner
+点击 数字娱乐（1212-1231）	event_id：372AtBanner
+点击 iTunes 5折活动（1204-0107）	event_id：322AtBanner
+点击 双旦盛惠（-0101）	event_id：698AtBanner
+点击 银联母婴节（0108-）	event_id：115AtBanner
+点击 机场特惠（0109-）	event_id：298AtBanner
+点击 申请兴业银行信用卡活动（0109-）	event_id：579AtBanner
+点击 Hertz租车权益（0116-0118）	event_id：114AtBanner
+点击 新年出境游（0119-）	event_id：592AtBanner
+点击 商城年货节（0119-）	event_id：184AtBanner
+	
+	
+【8】banner下方活动专区	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 邀请活动0927（邀请有礼，荐者有份）	event_id:140AtActArea
+点击 单日满5元 双日立减5元	event_id:365AtActArea
+点击 三人成团（1118-1231）	event_id:308AtActArea
+点击 真心实惠（立减30元）	event_id:221AtActArea
+点击 iphoneX直降200	event_id:224AtActArea 
+点击 1元风暴（0111-0119）	event_id:69AtActArea 
+点击 激励金（0119-）	event_id：697AtActArea 
+	
+	
+【9】商城精选	
+ 	"对应的埋点
+（页面名或事件名）"
+点击 YSL	event_id：329AtActTheme
+点击 试用馆	event_id：227AtActTheme
+点击 GODIVA	event_id：306AtActTheme
+点击 1元风暴	event_id：184AtActTheme
+点击 网易考拉	event_id：175AtActTheme
+点击 试用馆	event_id：543AtActTheme
+点击 联合利华（-1231）	event_id：327AtActTheme
+点击 网易严选（-1231）	event_id：450AtActTheme
+点击 网易考拉专场（-1231）	event_id：216AtActTheme
+点击 周生生专场（-1231）	event_id：80AtActTheme
+点击 天喔礼包（0101-0123）	event_id：147AtActTheme
+点击 试用馆（0101-0108）	event_id：360AtActTheme
+点击 折扣街（0101-0108）	event_id：205AtActTheme
+点击 郑恺联名潮牌（0101-）	event_id：195AtActTheme
+点击 试用馆（0109-0115）	event_id：363AtActTheme
+点击 周生生转运季（0109-0115）	event_id：358AtActTheme
+点击 试用馆（0116-0123）	event_id：163AtActTheme
+点击 折扣街（0116-0119）	event_id：202AtActTheme
+点击 一元风暴（0119-）	event_id：74AtActTheme
+点击 试用馆（0123-0130）	event_id：181AtActTheme
+点击 真心实惠（0123-）	event_id：201AtActTheme
+点击 严选年货节（0123—）	event_id：180AtActTheme
+	
+	
+	
+【10】新年狂欢、爱逛超市	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 家乐福	event_id：200AtActTheme
+点击 屈臣氏	event_id：187AtActTheme
+点击 卜蜂莲花	event_id：272AtActTheme
+点击 万宁	event_id：357AtActTheme
+点击 迪士尼5折	event_id：187AtActTheme
+点击 中国联通9折	event_id：272AtActTheme
+点击 乐刻运动5折	event_id：357AtActTheme
+点击 CGV影城（0112-）	event_id：587AtActTheme
+	
+	
+【11】出行立减、便利生活	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 7-11	event_id：325AtActTheme
+点击 快客	event_id：377AtActTheme
+点击 全家	event_id：359AtActTheme
+点击 12306（满30最高减30）	event_id：325AtActTheme
+点击 神州专车（买80得128）	event_id：377AtActTheme
+点击 东方航空（会员日立减62元）-0104	event_id：359AtActTheme
+点击 曹操专车（充100得125）0105-0123	event_id：172AtActTheme
+点击 滴滴出行（5折30元封顶）0105-0123	event_id：186AtActTheme
+	
+	
+	
+【12】花样美食	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 好利来	event_id：27AtActTheme
+点击 香格里拉	event_id：60AtActTheme
+点击 小辉哥	event_id：70AtActTheme
+点击 味千拉面	event_id：210AtActTheme
+点击 太平洋（6.2元享挂耳）1231-	event_id：70AtActTheme
+点击 爱茜茜里（10元享单品）1231-	event_id：210AtActTheme
+	
+	
+消息流程	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入消息中心页	event_id:messageCenter
+点击 支付助手	event_id:payAssistant
+点击 卡片区域	event_id:transDetailApply
+点击 查看账单	event_id:checkBill
+点击 支付密码设置	event_id:setPayPassword
+点击 账单服务	event_id:billInformation
+	
+	
+	
+付款码（5月29日上线）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击“境内付款码”	event_id：fukuanHome
+点击“扫码付”	event_id：fukuanScanCode
+点击“定时自动更新”	event_id：fukuanRefresh
+点击“境外付款码”	event_id：fukuanOverseas
+点击“。。。”	event_id：fukuanOtherIfor
+点击“小额免密支付”	event_id：fukuanWithoutPwd
+点击“支持银行列表”	event_id：fukuanSupportBank
+点击“使用说明”	event_id：fukuanInstr
+点击付款后，用户无符合条件的银行卡，发送该事件	event_id: fukuan
+	event_label: nocard
+用户无符合条件的银行卡，点击底部添加银行卡	event_id：bindCard
+	event_label：byFukuan
+点击付款后，用户有符合条件的银行卡，发送该事件	event_id: fukuan
+	event_label: havecard
+二维码被扫描成功	event_id: fukuanScan
+判断为不需要输入密码	event_id：fukuanPassword
+	event_label: pwdfree
+免密付款成功	event_id：fukuanSuccess
+	event_label: pwdfree
+	key-value对：<money，支付的金额 >
+判断为需要输入密码	event_id：fukuanPassword
+	event_label: needpwd
+需要输密码时，付款成功	event_id：fukuanSuccess
+	event_label: needpwd
+	key-value对：<money，支付的金额 >
+	
+	
+	
+扫一扫（8月28日上线）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+扫码页面	Pagename：QRCodeView
+扫描“订单”二维码成功（例如支付网关上的订单二维码）	event_id: saomaSuccess
+	event_label: order
+扫描其它不符合预期二维码	event_id: saomaSuccess
+	event_label: otherUncorrectQr
+扫描“收款”二维码成功	event_id: saomaSuccess
+	event_label: shoukuan
+点击“相册”	event_id:saomaPhoto
+点击“去设置（iOS）”	event_id:saomaToSetPhoto
+点击“确认付款”	event_id：saomaPayConfirm
+点击“添加银行卡付款”	event_id：addCrdAtCrdLstPg
+	event_label: QRview
+二维码付款成功	event_id：saomaPaySuccess
+	event_label: 支付的金额(后台返)
+"二维码付款失败
+（lable为各种失败原因）"	event_id：saomaPayFail
+	event_lable：失败原因（后台返）
+	
+	
+	
+	
+云闪付	
+用户行为	"对应的埋点
+（页面名或事件名）"
+银联云闪付专区页面	pagename:applepayprefectureView 
+点击“banner” （4个相同的event_id）	event_id：banner_applepay  
+点击“云闪付优惠券”	event_id：applepayCoupons
+点击“支持云闪付商户”	event_id：applepayMerchants
+点击“我的银联云闪付卡”（无卡时）	"event_id：cloudpaycardlis
+event_label：nocard"
+点击“我的银联云闪付卡”（有卡时）	"event_id：cloudpaycardlis 
+event_label：havecard"
+点击“云闪付常见问题”	event_id：cloudpaycommonproblem
+点击“申请云闪付”	"event_id：cloudcardApply
+event_label：Applepay_fromprefecture"
+	
+	
+	
+收款（9月7日上线）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入收款页面	event_id：shoukuanEnter
+点击“添加银行卡”	event_id：addCrdAtCrdLstPg
+	event_label: shoukuan
+点击“设置金额”	event_id：shoukuanSetAccount
+输入金额后，点击“确定”	event_id：shoukuanAccountConfirm
+点击“保存图片”	"event_id：saveShoukuanCode
+event_lable:picture"
+保存成功	event_id：saveShoukuanCodeSucc
+点击“收款记录”	event_id：shoukuanRecord
+点击“清除金额”	event_id：clearShoukuanAccount
+点击 “添加银行卡收款”	event_id：addCrdAtCrdLstPg
+	event_label: shoukuan
+收款成功	event_id：shoukuanSuccess
+	event_label: 支付的金额(后台返)
+	
+
+		
+以下为实例（可作为后期测试案例及维护表）	
+【1】卡管家基本流程	
+用户行为	"对应的埋点
+（页面名或事件名）"
+访问卡列表页	event_id：CrdLstPg
+点击 立即添加您的银行卡/最右上方添加图标	event_id：addCrdAtCrdLstPg
+	event_label：fromCrdLstPg
+点击 查看本机其他云卡（只有安卓有）	event_id：otherCloudCard
+初始化失败，点击刷新（只有安卓有）	event_id：hceFresh
+初始化失败（只有安卓有）	event_id：hceFail
+初始化成功（只有安卓有）	event_id：hceSuccess
+手机闪付功能未设置，点击去设置（只有安卓有）	event_id：quickPassSet
+当前手机闪付未开通，点击去开通（只有安卓有）	event_id:cloudCardBindcard
+当前NFC未打开，点击去打开（只有安卓有）	event_id:cloudCardNFC
+当前未设置默认付款APP，点击去设置（只有安卓有）	event_id:DefaultAPP
+	
+	
+【2】银行卡信息查看与管理	
+用户行为	"对应的埋点
+（页面名或事件名）"
+具体卡详情页的访问	event_id：bankCardDtl
+	event_label：银行名称（具体以后台返回的为准）
+点击 明细	event_id: anlsToDtl
+点击 分析	event_id: dtlToAnls
+点击右上角卡片管理中的卸载卡片	event_id：functionInCardDetail
+	event_label：delete
+点击右上角卡片管理中的编辑卡面	event_id：bankCardEdit
+点击右上角卡片管理中的设为默认闪付卡（只有安卓有）	event_id：defaultCardSet
+设置默认闪付卡成功	event_id：defaultCardSetSucc
+点击 立即还款（只有符合要求的信用卡时有）	event_id：crdtCrdRepay
+	event_label：银行名称（具体以后台返回的为准）
+点击各具体权益	event_id：bankCardPrivilegeDetl
+	event_label：fromCrdDtlPg
+	key_value：<string:权益名称>
+点击 查看卡详情	event_id：toCardDetail
+	
+	
+【3】非银行卡添加流程	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击添卡图标	event_id：virtualAcctAdd
+点击 各个账户类型	event_id：virtualAcctClick
+	"event_label：
+cashAccount(现金账户)\onlineAccount(在线支付账户)\storedValue(储值账户)\moneyManagement(理财账户)\stockAccount(股票账户)\fundAccount(基金账户)\debtAccount(负债账户)\creditorRright(债权账户)\otherAccount(其他账户)"
+点击 确认添加	event_id：virtualAcctAddConf
+	"event_label：
+cashAccount(现金账户)\onlineAccount(在线支付账户)\storedValue(储值账户)\moneyManagement(理财账户)\stockAccount(股票账户)\fundAccount(基金账户)\debtAccount(负债账户)\creditorRright(债权账户)\otherAccount(其他账户)"
+	
+	
+	
+	
+	
+	
+	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 开通手机闪付（卡详情页/开户）	"event_id：quickPassApply
+event_lable：bankCardDtl/openAccount
+(bankCardDtl：详情页
+ openAccount： 开户)"
+开通手机闪付选卡页面，点击 下一步	event_id：quickPassSelectCard
+开通手机闪付选卡页面，点击 添加银行卡	"event_id：addCrdAtCrdLstPg
+event_lable：fromQuickPass"
+开通手机闪付（信用卡/储蓄卡），点击 下一步	event_id：quickPassNext
+开通支付认证_短信验证码，点击 add to Apple Wallet	event_id：quickPassSubmit
+手机闪付开通成功	event_id：quickPassSucc
+手机闪付开通失败	event_id：quickPassFail
+点击 开通手机闪付（卡详情页/开户）	"event_id：quickPassApply
+event_lable：bankCardDtl/openAccount
+(bankCardDtl：详情页
+ openAccount： 开户)"
+开通手机闪付选卡页面，点击 下一步	event_id：quickPassSelectCard
+开通手机闪付选卡页面，点击 添加银行卡	"event_id：addCrdAtCrdLstPg
+event_lable：fromQuickPass"
+开通手机闪付（信用卡/储蓄卡），点击 下一步	event_id：quickPassNext
+开通支付认证_短信验证码，点击 下一步	event_id：quickPassSubmit
+点击 同意	event_id：quickPassBankAgreement
+手机闪付开通成功	event_id：quickPassSucc
+手机闪付开通失败	"event_id：quickPassFail
+event_lable：返回错误的中文含义（如果没有中文含义，就返错误码）"
+	
+	
+	
+	
+用户行为	"对应的埋点
+（页面名或事件名）"
+开户，点击 开通II/III类银行账户	"event_id：bankAccountApply
+event_lable：openAccount（开户页面）/addCard（添卡页面）"
+选择银行卡后，点击 下一步	event_id：bankAccountApplyCard
+点击 添加银行卡	"event_id:addCrdAtCrdLstPg
+event_lable：fromBankAccount"
+选择认证银行卡后，点击 下一步	"event_id:bankAccountSelectCard
+event_lable：返回银行名称或者银行机构号等可以区分不同银行的字段"
+输入短信验证码，点击 确认	event_id：bankAccountApplySms
+账户开立失败	event_id：bankAccountApplyFai
+账户开立成功	event_id：bankAccountApplySucc
+卡详情页，点击 转入	event_id：bankAccountInto
+点击 确认转入	event_id：bankAccountIntoConfirm
+转入成功	event_id：bankAccountIntoSucc
+卡详情页，点击 转出	event_id：bankAccountOut
+点击 确认转出	event_id：bankAccountOutConfirm
+转出成功	event_id：bankAccountOutSucc
+	
+	
+	
+	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 添加银行卡	event_id:addCrdAtCrdLstPg
+点击 卡面（拍照识别卡）	event_id:bindTakeCardNO
+点击 选卡	event_id:bindSelectCard
+点击 卡面（更换卡样）	event_id:bindSelectCardAppearance
+卡号完成后，点击 下一步（右图中标有1、2、3的地方）	event_id: bindcardCardno
+拍照识别卡中，点击 手动输入卡片信息	event_id: bindInputCardNO
+拍照识别卡_卡号确认，点击 下一步	event_id：bindTakeCardNOConfirm
+点击 再次拍卡	event_id:bindTakeCardNOAgain
+点击 默认卡面	event_id:bindDefaultCardAppearance
+输入身份证信息后，点击“下一步”	"event_id: realnameSubmit
+event_lable:区分身份证、护照、台胞证、回乡证的字段(按顺序01、02、03、04)"
+护照、台胞证、回乡证验证，点击 拍照	event_id:realnameTakeCredentials 
+点击 上传验证	event_id:realnameUploadCredentials 
+"账户实名验证成功
+/添加成功（区分两者）"	"event_id: realnameSuccess
+/event_id: bindcardSuccess"
+账户实名失败	"event_id: realnameFail
+event_lable:后台返的失败原因码"
+输入卡要素，点击 下一步	event_id：bindUnionPaySubmit
+输入短信验证码，点击 下一步	event_id：bindUnionPayConfirm
+银联支付开通成功	event_id：bindUnionPaySucc
+进入设置支付密码页面	event_id：setPayPasswordPg
+支付密码设置成功	event_id：setPayPasswordSucc
+	
+	
+	
+	
+	
+【1】优惠频道页面	
+用户行为	埋点名称
+优惠频道页面	pagename：CouponChnlPg
+点击“去新版”	event_id: toNewVersion
+点击“回旧版”	event_id: backOldVersion
+	
+	
+	
+【2】分类列表/【3】筛选区域---9月20日上线	
+用户行为	埋点名称
+点击“线上”	event_id：newOnline
+点击“本地”	event_id：newNative
+本地中，筛选区域，选中某些专享后，点击“确认”	event_id：couponFilterNative                                                                             event_lable：选中的专享的拼接（后台返回的对应关系：银联钱包专享（forUnionpayWallet）、云闪付专享（forQucikPass）、二维码支付（forQRcode）和新用户专享（forNewer））
+本地中，在分类列表中，确定选择了某个筛选项	"event_id: 分类代表编号（A0、B0、C0、D0、E0、F0等）FilterNative (比如：industryNo+FilterNative)
+event_label: 二级分类的返回值SubNo"
+线上，筛选区域，选中某些专享后，点击“确认”	event_id：couponFilterOnline                                                                             event_lable：选中的专享的拼接（后台返回的对应关系：银联钱包专享（forUnionpayWallet）、云闪付专享（forQucikPass）、二维码支付（forQRcode）和新用户专享（forNewer））
+线上，在分类列表中，确定选择了某个筛选项	"event_id: 分类代表编号（A0、B0、C0、D0、E0、F0等）FilterOnline  (比如：industryNo+FilterOnline )
+event_label: 二级分类的返回值SubNo"
+	
+	
+	
+【4】优惠券详情/品牌详情/门店详情	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入 优惠详情页（不包含秒杀券）	"event_id: CouponDtl
+event_lable：返回票券ID"
+进入 品牌详情页	event_id: BrandDtl
+进入 门店详情页	event_id: StoreDtl
+点击“直达链接”模块中的链接（只有线上有）	"event_id：MoreLinkAtOnline
+event_lable：链接的名称（后台传）"
+	
+	
+	
+优惠详情页（优惠券下载）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+"点击 获券按钮
+（区分放入钱包、抢券、购买等）"	"event_id: getCpnAtActCpn
+event_label: free或者buy（放入钱包：free、立即购买：buy）"
+	
+	
+	
+优惠券下载结果（新老版本公用的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+放入免费优惠券成功（有符合条件的卡）	event_id: freeGetCouponSuccess
+放入钱包时，没有符合条件的卡	event_id: freeGetCouponFail
+	event_label: 错误码是1（1对应的是noCard）
+点击“放入钱包”时，失败	event_id: freeGetCouponFail
+	event_label: 具体失败的原因（错误码）
+有价票券，点击“提交订单”	event_id: buyCouponSubmit
+有价票券，提交订单后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bycoupon
+有价票券，提交订单后，选择“Applepay支付”	event_id：Applepay
+	event_label：bycoupon
+有价票券，提交订单后，选择“取消”	event_id：cancelpayment
+	event_label：bycoupon
+提交订单后，在弹出的提示框中点击“现在就去支付”	event_id：buyCouponImmediately
+购买成功	event_id：buyCouponSuccess
+	event_label：direct
+	key-value对：<money，支付的金额 >
+点击“立即够买”时，失败	event_id: buyCouponFail
+	event_label: 具体失败的原因（错误码）
+	
+	
+	
+优惠详情页（优惠券下载）---老版	
+用户行为	埋点名称
+点击“放入钱包”（免费）	event_id：freeGetCoupon
+点击“立即购买”（付费）	event_id：buyCoupon
+具体优惠券详情页的访问	event_id: couponsDetail
+	key-value对：<couponID，具体的优惠券id>
+	key-value对：<cityCD,具体的城市>
+优惠搜索界面，输入查询内容，点击搜索按钮时	event_id：youhui_search
+	
+	
+	
+优惠首页	
+	用户行为
+客户端（该部分11月底不上线）	点击 城市（此处可以区分时从精选点击还是从优惠点击）
+	点击 搜索
+	点击 主题区域（本地/线上）
+	点击 某个具体的品牌
+	点击 某个品牌下的票券
+	点击 右上角的分享图标（分享有品牌、门店和票券的分享，不能区分）
+	
+	
+	
+品牌详情页	
+	用户行为
+前端	点击 某个票券
+	点击“直达链接”模块中的链接
+	点击 B端入口（商户APP入口或引导下载）
+	
+	
+	
+门店详情页	
+	用户行为
+前端	点击 某个票券
+	点击 B端入口（商户APP入口或引导下载）
+	
+	
+	
+优惠详情页	
+	用户行为
+前端	点击 服务说明 模块
+	点击 适用于此优惠的银行卡模块
+	权益详情页，点击 我要投保/我要洗车/查询停车位
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+页面访问	
+用户行为	"对应的埋点
+（页面名或事件名）"
+访问生活频道页	pagename：LifeChnlPg
+	
+	
+	
+【1】Banner区域	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 从禾精选 强势回馈	"event_id：64AtLifeChnlPg(命名规则:appId+At页面名,下同,此处64仅为示例,实际以后台给出的为准)
+
+"
+点击 华夏银联信用卡_网购真减单	"event_id：292AtLifeChnlPg
+"
+点击 银联转账 实时提醒	event_id：15AtLifeChnlPg
+点击 NIKE入驻钱包商城活动	event_id:357AtLifeChnlPg
+点击 云闪付送36元红包	event_id:328AtLifeChnlPg
+点击 从禾精选，强势回归	event_id:64AtLifeChnlPg
+点击 公缴营销0510	event_id:314AtLifeChnlPg
+点击 华夏0425	event_id:292AtLifeChnlPg
+点击 商场-nike-生活	event_id:343AtLifeChnlPg
+点击 商城活动-真新实惠	event_id:335AtLifeChnlPg
+点击 机场退税	event_id:215AtLifeChnlPg
+点击 真新实惠（5.7折）	event_id:350AtLifeChnlPg
+点击 约惠6+2	event_id:149AtLifeChnlPg
+点击 银联卡购车险	event_id:213AtLifeChnlPg
+点击 公缴返现（p2p抽奖）1209-1212	event_id:458AtLifeChnlPg
+点击 新华保险1201	event_id:385AtLifeChnlPg
+	
+	
+	
+【2】生活精选	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 在线商城	"event_id：62AtLifeChnlPg(命名规则:appId+At页面名,下同,此处62仅为示例,实际以后台给出的为准)
+"
+点击 转账	event_id：15AtLifeChnlPg
+点击 信用卡还款	event_id：53AtLifeChnlPg
+点击 公缴缴费	event_id：281AtLifeChnlPg
+点击 手机充值（新）	event_id：130AtLifeChnlPg
+点击 权益	event_id：25AtLifeChnlPg
+点击 开发票	event_id：165AtLifeChnlPg
+点击 交通罚款	event_id：101AtLifeChnlPg
+点击 收款	event_id：100AtLifeChnlPg
+点击 晒单	event_id：90AtLifeChnlPg
+点击 拍拍卡（只有安卓有此功能）	event_id：102AtLifeChnlPg
+点击 国税地税缴纳	event_id：106AtLifeChnlPg
+数娱中心	event_id：367AtLifeChnlPg
+学费缴纳	event_id：132AtLifeChnlPg
+企业信用查询	event_id：129AtLifeChnlPg
+深圳公积金	event_id：154AtLifeChnlPg
+纳税黑名单查询	event_id：249AtLifeChnlPg
+内蒙古高校缴费	event_id：379AtLifeChnlPg
+青岛社保缴纳	event_id：242AtLifeChnlPg
+青岛社保查询	event_id：364AtLifeChnlPg
+北京地税	event_id：356AtLifeChnlPg
+国税缴纳	event_id：330AtLifeChnlPg
+	
+	
+	
+【3】海外服务	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 汇率计算	"event_id：20AtLifeChnlPg(命名规则:appId+At页面名,下同,此处28仅为示例,实际以后台给出的为准)
+
+"
+点击 优计划优惠	event_id：243AtLifeChnlPg
+点击 海外退税	event_id：84AtLifeChnlPg（之前是83）
+点击 海外用卡	event_id：18AtLifeChnlPg
+	
+	
+	
+【4】第三方服务	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 全民运动	"event_id：111AtLifeChnlPg(命名规则:appId+At页面名,下同,此处111仅为示例,实际以后台给出的为准)
+"
+点击 电影票	event_id：290AtLifeChnlPg（之前是121）
+点击 数娱中心	event_id：367AtLifeChnlPg
+	
+	
+	
+还款-信用卡还款记录（即“历史转入卡”页）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入信用卡还款记录页面	pagename：CrdtCrdRepayPg
+选择历史还款卡片	event_id: oldCrdRepay
+点击“其他信用卡还款”	event_id: newCrdRepay
+	
+	
+	
+还款-信用卡还款（即卡号、姓名、金额录入页）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入信用卡还款页面	pagename：CrdtCrdPayPg
+完成信息填写后，点击“确认还款”	event_id: CrdtCrdPaySubmit
+弹出手续费提示弹层（输入的卡号为“转账模式”信用卡中心）	"event_id: CrdtCrdFeeRmd
+"
+在手续费提示弹层中点击“继续”	event_id: CrdtCrdPayConf
+进入无卡支付控件（备注：银联在线支付）	event_id: CrdtCrdUnionPay
+进入ApplePay支付控件（备注：想统计有多少人用ApplePay支付）	event_id: CrdtCrdApplePay
+信用卡还款，支付成功	event_id: CrdtCrdPaySucc
+信用卡还款，支付控件后支付失败（原因）	"event_id: CrdtCrdPayFail
+event_label:上送error包含的CODE（即数据和字母信息）"
+	
+	
+	
+汇率计算（2月23日H5版本）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入“汇率计算”应用后，用户点击右上角的问号（业务说明）	event_id：exchRtIstr
+“汇率计算”页面→“交易币种”输入栏输入 	event_id：exchRtCompute
+请求汇率计算(切换交易币种）时，计算成功	event_id：exchRtCptSucc
+请求汇率计算（切换交易币种）时，计算失败，并说明失败原因	event_id：exchRtCptFail                                    event_label：失败原因（errocode）
+	
+	
+	
+海外退税（之前有的,是H5的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入“退税”应用后，用户点击“国家名”进入具体的国家退税攻略	"event_id：taxRebateCountry
+event_label：对应的国家英文名
+例如：
+瑞士-Switzerland
+英国-UK
+法国-France
+韩国-Korea
+新加坡-Singapore
+意大利-Italy
+德国-Germany
+荷兰-Holland
+西班牙-Spain"
+进入“退税”应用后，用户点击底部“退税攻略”	event_id：taxRebateStrategy
+进入“退税”应用后，用户点击底部“退税查询”，且用户是没有银行卡的情况	event_id：taxRebateInquiry
+	event_label：nocard
+进入“退税”应用后，用户点击底部“退税查询”，且用户是有银行卡	event_id：taxRebateInquiry
+	event_label：havecard
+用户进行具体查询时，点击“查询”按钮	event_id：taxRebateInquiryButton
+	
+	
+	
+拍拍卡（之前有的,是Android的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+"点击拍拍卡之后拍卡
+"	event_id:paipaicard_dectectCard
+拍卡查询余额输入密码	event_id:paipaicard_inputPwd
+拍卡查询余额成功	event_id:paipaicard_queryBalanceSuccess
+拍卡首页点击电子现金充值	event_id:paipaicard_eCashRecharge
+现金充值拍卡	event_id:paipaicard_eCashRecharge_detectCard
+现金充值弹出密码框	event_id:paipaicard_eCashRecharge_inputPwd
+现金充值点击电子现金充值	event_id:paipaicard_eCashRecharge_submit
+拍拍卡，现金充值点击电子现金查询	event_id:paipaicard_eCashRecharge_queryBalance
+现金充值点击电子现金查询成功	event_id:paipaicard_eCashRecharge_queryBalanceSuccess
+拍拍卡，现金充值成功	event_id:paipaicard_eCashRecharge_success
+拍卡首页点击信用卡还款	event_id:paipaicard_creditcardRepay
+拍卡首页点击转账	event_id:paipaicard_transferMoney
+拍卡转账点击确认	event_id:Paipaicard_transferMoney_submit
+拍卡转账成功	event_id:paipaicard_transferMoney_success
+	
+	
+	
+晒单（之前有的,是H5的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击查看“晒单规则”	event_id：shaidan_checkRules
+点击“查询”按钮	event_id：shaidan_inquiryRecords
+点击左下按钮“我要晒单”	event_id：shaidan_iWant
+点击右下按钮“我的历史晒单”	event_id：shaidan_myHistory
+进入“我要晒单”页面，点击某一条交易记录，进入自动晒单	event_id：shaidan_action
+	event_label：auto
+进入“我要晒单”页面，点击底部“手工晒单”按钮	event_id：shaidan_action
+	event_label：hand
+输入完晒单信息后，点击“提交”按钮	event_id：shaidan_submit
+	
+	
+	
+手机充值(7月13日上线)	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入“手机充值”页面	event_id: mobileFeeStart
+	event_label：mobileFee/mobileFlow（mobileFee代表话费充值，mobileFlow代表流量充值）
+点击“通讯录”头像	event_id:mobileContacts
+点击“确认支付”	event_id: mobileFeeSubmit
+	event_label：mobileFee/mobileFlow（mobileFee代表话费充值，mobileFlow代表流量充值）
+点击“更多充值”里面的应用	event_id:moreRecharge
+	event_label：后台返的应用的名称（流量充值/公缴，或者其他）流量充值hot/公缴hot
+点击“充值记录”	event_id:mobileRechargeRecord
+手机充值，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bymobileFee
+手机充值，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bymobileFee
+手机充值，支付成功	event_id: mobileFeePaySuccess
+	key-value对：<money，支付的金额>
+	event_label：mobileFee/mobileFlow（mobileFee代表话费充值，mobileFlow代表流量充值）
+手机充值，支付失败	event_id: mobileFeePayFail
+	event_lable：失败原因
+	
+	
+	
+公共缴费-水费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+水费，完成信息填写时，点击“查询”	event_id: waterFeeInquiry
+水费，查询成功 	event_id: waterFeeInquirySuccess
+水费，确认支付	event_id: waterFeePayConfirm
+水费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bywaterFee
+水费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bywaterFee
+水费，支付成功	event_id: waterFeePaySuccess
+	key-value对：<money，支付的金额 >
+	
+	
+	
+公共缴费-燃气费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+燃气费，完成信息填写时，点击“查询”	event_id: gasFeeInquiry
+燃气费，查询成功 	event_id: gasFeeInquirySuccess
+燃气费，确认支付	event_id: gasFeePayConfirm
+燃气费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bygasFee
+燃气费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bygasFee
+燃气费，支付成功	event_id: gasFeePaySuccess
+	key-value对：<money，支付的金额 >
+	
+	
+	
+公共缴费-电费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+电费，完成信息填写时，点击“查询”	event_id: electricFeeInquiry
+电费，查询成功 	event_id: electricFeeInquirySuccess
+电费，确认支付	event_id: electricFeePayConfirm
+电费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：byelectricFee
+电费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：byelectricFee
+电费，支付成功	event_id: electricFeePaySuccess
+	key-value对：<money，支付的金额 >
+	
+	
+	
+公共缴费-物业费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+物业费，完成信息填写时，点击“查询”	event_id: propertyFeeInquiry
+物业费，查询成功 	event_id: propertyFeeInquirySuccess
+物业费，确认支付	event_id: propertyFeePayConfirm
+物业费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bypropertyFee
+物业费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bypropertyFee
+物业费，支付成功	event_id: propertyFeePaySuccess
+	key-value对：<money，支付的金额>
+	
+	
+	
+公共缴费-移动缴费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入移动缴费应用后，点击“确认支付”	event_id: chinaMobileFeePayConfirm
+移动缴费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bychinaMobileFee
+移动缴费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bychinaMobileFee
+移动缴费，支付成功	event_id: chinaMobileFeePaySuccess
+	key-value对：<money，支付的金额>
+	
+	
+	
+公共缴费-联通缴费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入联通缴费应用后，点击“确认支付”	event_id: chinaUnicomFeePayConfirm
+联通缴费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bychinaUnicomFee
+联通缴费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bychinaUnicomFee
+联通缴费，支付成功	event_id: chinaUnicomFeePaySuccess
+	key-value对：<money，支付的金额>
+	
+	
+	
+公共缴费-电信缴费（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入电信缴费应用后，点击“确认支付”	event_id: chinaTelecomFeePayConfirm
+电信缴费，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bychinaTelecomFee
+电信缴费，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bychinaTelecomFee
+电信缴费，支付成功	event_id: chinaTelecomFeePaySuccess
+	key-value对：<money，支付的金额>
+	
+	
+	
+收款（之前的）无此应用，暂不测试	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入收款应用时，用户无借记卡（储蓄卡），发送事件	event_id: shoukuan
+	event_label: nocard
+进入收款应用时，用户无借记卡时，点击“立即添加”	event_id: bindCard
+	event_label: byShoukuan
+进入收款应用时，用户有符合条件的借记卡（储蓄卡），发送事件	event_id: shoukuan
+	event_label: havecard
+	
+	
+	
+转账（5月17日上线）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+转账首页，点击“转账记录”	event_id: transferRecord
+点击“常见问题图标”	event_id: transferIssue
+点击“支持银行卡列表”	event_id: transferSupportCard
+点击“业务和手续费说明”	event_id: transferState
+进入转账应用后，点击“转到银行卡”	event_id: transferMoney
+	event_label: toCard
+进入转账应用后，点击“转到钱包用户”	event_id: transferMoney
+	event_label: toUser
+ 用户（新增），点击“通讯录图标”	event_id: transferToUser
+进入转账应用后，点击“转账到卡（历史记录）”	"event_id: transferMoney
+event_label: toOldCard"
+进入转账应用后，点击“转账钱包用户（历史记录）”	"event_id: transferMoney
+event_label: toOldUser"
+在转账信息填写页面中，点击“确认转账”	event_id: transferMoneyConfirm
+在确认转账的提示框中，点击“继续”	event_id: transferMoneyConfirmAgain
+	event_label: free或 charge（转账有手续费：charge，无手续费：free）
+转账成功	event_id: transferMoneySuccess
+	event_lable：数字
+	
+	
+	
+转账优化需求（12月5日）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+访问转账首页	event_id：transferMoneyPg
+点击 右上角 转账记录图标	event_id：transferRecord
+点击“转账到银行卡”	"event_id：transferMoney
+event_label：toCard"
+点击“转账到手机号”	"event_id：transferMoney
+event_label：toPhone"
+点击“业务和手续费说明”	event_id：transferState
+点击右上角的（？)	event_id：transferIssue
+换卡时，点击“添加银行卡付款”/无卡时，点击"添加银行卡"/弹层中，点击"去添卡“	"event_id：addCrdAtCrdLstPg
+event_lable：fromtransferMoney"
+未设置支付密码，点击 去设置	event_id：toSetPay
+转账到手机号时，点击“通讯录图标”	event_id：transferAddressBook
+在转账信息填写页面中，点击“确认转账”	event_id：transferMoneyConfirm
+输入短信验证码，点击 提交	event_id：transferMoneySubmit
+人脸识别支付，点击“了解，开始检测”	event_id：facePay
+人脸验证失败，点击  再试一次	event_id：facePayAgain
+转账成功	event_id：transferMoneySucc
+转账失败	"event_id：transferMoneyFail
+event_lable：后台返的失败原因（有汉语就返汉语，否则返错误码）"
+转账失败弹窗，点击“换卡支付”	event_id：changeCardTransferMoney
+转账成功页，点击 banner（营销入口）	"event_id：P2PLotteryAtTransferMoney
+event_lable：后台返的活动名称"
+	
+	
+	
+违章代办（交通罚款）（之前的）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入违章代办应用后，完成信息填写时，点击“查询” 	event_id: carPenaltyInquiry
+查询成功，有罚款记录	event_id: carPenaltyInquirySuccess
+确认支付	event_id: carPenaltyPayConfirm
+违章代办，点击“确认支付”后，选择“银联钱包支付”	event_id：unionpaywalletPay
+	event_label：bycarPenalty
+违章代办，点击“确认支付”后，选择“Applepay支付”	event_id：Applepay
+	event_label：bycarPenalty
+支付成功	event_id: carPenaltyPaySuccess
+	key-value对：<money，支付的金额 >
+	
+	
+	
+公缴营销入口（8月15日上线）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+公缴营销入口	event_id: publicPayMarket
+	
+	
+	
+加油卡充值（8月15日上线）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入加油卡充值页面	event_id：InRefuelCardPg
+点击“历史加油卡号”	event_id：oldRefuelCard
+用户输入加油卡充值卡号正确	event_id：correctRefuelCardNO
+点击“确认支付”	event_id：refuelCardPayConfirm
+加油卡充值成功	event_id：refuelCardPaySuccess
+	money: 支付的金额
+加油卡充值失败	event_id：refuelCardPayFail
+	event_lable：失败原因
+	
+	
+	
+公共缴费-有线电视（8月15日上线）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+有线电视费，完成信息填写时，点击“查询”	event_id: cableTVInquiry
+有线电视费，查询成功 	event_id: cableTVInquirySuccess
+有线电视费，确认支付	event_id: cableTVPayConfirm
+有线电视费，支付成功	event_id: cableTVPaySuccess
+	key-value对：<money，支付的金额 >
+	
+	
+	
+在线申卡需求（11月底版本）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入 可申请卡列表页面	event_id：applyCardPg
+点击卡申请进度查询	event_id：applyCardStage
+进入 申卡进度详情页面	event_id：applyCardStageDtlPg
+点击 立即申请（多个）	"event_id：applyCardApply
+event_lable：返回能标识不同卡的字段"
+信息提示，点击 同意	event_id：agreeApplyCardInfo
+信息提示，点击 不同意	event_id：disagreeApplyCardInfo
+补全信息，点击 下一步	event_id：applyCardSubmit
+	
+	
+	
+生活版营销功能埋点需求（11月底版本）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+缴费成功，点击“查看你的优惠权益，抽奖领现金”	"event_id：P2PLotteryAtPublicPay
+event_lable：可以区分不同公缴应用的字段"
+充值成功，点击“查看你的优惠权益，抽奖领现金”	event_id：P2PLotteryAtMobileFee
+	
+	
+	
+本地服务需求（11月底版本）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入 本地服务页面	event_id：localServicePg
+点击 搜索	event_id：localServiceSearch
+点击 本地服务页面中的banner图	event_id：localServiceBanner
+点击 本地服务页面中的某个应用（包含热门应用和标题栏目的应用）	"event_id：moduleInLocalService
+event_lable：后台返的能标识某个应用的字段或名称"
+	
+	
+	
+	
+	
+页面访问	
+用户行为	"对应的埋点
+（页面名或事件名）"
+访问卡管家首页-记账	pagename: TransHP
+访问卡管家-卡列表页	pagename: CrdLstPg
+访问卡详情页	pagename：CrdDtlPg
+	
+	
+	
+【2】卡列表	
+用户行为	"对应的埋点
+（页面名或事件名）"
+点击 银行卡	event_id：chkCrdAtCrdLstPg
+点击 添加银行卡	event_id：addCrdAtCrdLstPg
+访问卡管家-办卡页	event_id：applCrdPg
+	
+	
+	
+记账-首页	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入记账首页	pagename: TransHP
+点击小眼睛Icon（控制金额是否显示）	event_id: eyeAtTransHP
+点击“我的花销”	event_id: myExpAtTransHP
+点击“我的报表”	event_id: myRptAtTransHP
+点击“卡列表“	event_id: crdLstAtTransHP
+点击“今天”	event_id: tdyAtTransHP
+点击“本周”	event_id: wkAtTransHP
+点击“本月”	event_id: mnAtTransHP
+点击“本年”	event_id: yrAtTransHP
+点击“记一笔”	event_id: markButton
+点击“预算余额设置”	event_id: budEditAtTransHP
+预算余额设置成功	event_id: budSuccAtTransHP
+	
+	
+	
+记账-我的花销页/天/周/月/年页/报表（6个页面）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入我的花销页面	pagename：MyExpPg
+进入天花销详情	pagename：TdyExpPg
+进入周花销详情	pagename：WkExpPg
+进入月花销详情	pagename：MnExpPg
+进入年花销详情	pagename：YrExpPg
+进入报表（分析）页面	pagename：RptAnlsPg
+点击”账户筛选”（6个页面通用）	event_id: acctFilterStrt
+账户筛选完成（6个页面通用）	event_id: acctFilterSubmit
+点击“时间筛选”（6个页面通用）	event_id: timeFilterStrt
+时间筛选完成（6个页面通用）	event_id: timeFilterSubmit
+点击“记一笔”（6个页面通用）	event_id: markIcon
+点击交易流水（6个页面通用）	event_id: transDtlRec
+从分析进入明细（6个页面通用）	event_id: anlsToDtl
+从明细进入分析（6个页面通用）	event_id: dtlToAnls
+报表页中，点击条状图	event_id: barChartClick
+	
+	
+	
+记账-交易详情页	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入交易详情（系统）页面	pagename：TransSysPg
+进入交易详情（手工）页面	pagename：TransMnlPg
+点击Banner区的活动	event_id：bannerAtTransPg
+点击编辑（系统）	event_id: editAtTransSysPg
+点击编辑（手工）	"event_id: editAtTransMnlPg
+"
+点击删除（手工）	event_id: delMnlTransStrt
+删除（手工）成功	event_id: delMnlTransSucc
+	
+	
+	
+记账-记一笔 支出 收入 转账 （3个模块）h5	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入记一笔支出页	pagename：BookkeepingOutView
+进入记一笔收入页	pagename：BookkeepingInView
+进入记一笔支转账页(划拨页)	pagename：BookkeepingTransferView
+记一笔支出，点击保存	"event_id: bookkeepingSave
+event_label: 支出"
+记一笔支出，保存成功	"event_id: bookkeepingSuccess
+event_label: 支出"
+记一笔，保存失败（原因）【收入、支出、转账通用】（金额不输入点击保存）	"event_id: bookkeepingFailure
+event_lable:失败的原因（中文），例如金额/分类/账户未输入时不能保存"
+“分类”选择，用户点击确认后，记录下用户选定的分类内容（3个模块通用）	"event_id: selectTypeBookkeeping
+event_label：一级类别名称And二级类别名称"
+“成员”选择中，用户点击确认后，记录用户选定的成员内容（3个模块通用）	"event_id: selectMemberBookkeeping
+event_label: 成员的具体名称"
+	
+	
+	
+卡详情页 	
+用户行为	"对应的埋点
+（页面名或事件名）"
+具体卡详情页的访问	event_id：bankCardDtl
+	event_label：银行名称（具体以后台返回的为准）
+在卡详情中，点击“附件的ATM”	event_id：functionInCardDetail
+	event_label：nearbyATM
+	key-value对：<bankName, 银行的英文简写>
+在卡详情中，点击右上角“卸载卡”	event_id：functionInCardDetail
+	event_label：delete
+在卡详情中，点击“客服电话”	event_id：functionInCardDetail
+	event_label：callcenter
+	key-value对：<bankName, 银行的英文简写>
+在卡详情中，点击“短信服务”	event_id：functionInCardDetail
+	event_label：smsService
+	key-value对：<bankName, 银行的英文简写>
+在卡详情中，点击“信用卡立即还款”	event_id：crdtCrdRepay
+在卡详情中，点击“专享权益”	event_id：functionInCardDetail
+	event_label：specialPrivilege
+	key-value对：<bankName, 银行的英文简写>
+卡详情页，点击“开通二维码支付”	event_id：functionInCardDetail
+	event_label：QRCodePayOpen
+	key-value对：<bankName, 银行的中文简写>
+卡详情页，点击“开通在线支付”	event_id：functionInCardDetail
+	event_label：unionpayOpen
+	key-value对：<bankName, 银行的中文简写>
+卡详情页，点击“开通云闪付”	event_id：functionInCardDetail
+	event_label：cloudcardApply
+	key-value对：<bankName, 银行的中文简写>
+卡详情页，点击“开通云闪付”	event_id：cloudcardApply
+	event_label：Applepay_fromcarddetail
+卡详情页，点击“实名认证”	event_id：functionInCardDetail
+	event_label：accountRealname
+	key-value对：<bankName, 银行的中文简写>
+	
+	
+	
+添加银行卡流程	
+用户行为	"对应的埋点
+（页面名或事件名）"
+添加银行卡界面，用户输入卡号且至少输入一位时	event_id:bankcard_link_input_cardNO
+卡包验证卡信息界面，有卡号且输入手机号成功时点击获取短信验证码	event_id:bankcard_link_click_get_msg
+卡包验证卡信息界面，用户输入短信验证码且至少输入一位时	event_id:bankcard_link_input_msg
+卡认证界面，用户输入手机号码且至少输入一位时	event_id:bankcard_link_input_phoneNO
+输入卡号点击“下一步”	event_id: bindcardCardno
+卡信息输入完成后，点击“提交”	event_id: bindcardSubmit
+	event_label: creditcard 或 debitcard或walletcard
+添加银行卡成功	event_id: bindcardSuccess
+	event_label: creditcard 或 debitcard或walletcard
+添加银行卡失败	event_id: bindcardFail
+	event_label: 具体的失败原因（错误码）
+	
+	
+	
+添加银行卡流程-Applepay相关的（之前的） 	
+用户行为	"对应的埋点
+（页面名或事件名）"
+在卡管家页面，已登录情况下，点击“添加银行卡”，选择“添加一张新卡”	event_id：bindCard
+	event_label：addnewcard
+"在卡管家页面，已登录情况下，点击“添加银行卡”，选择“从Apple wallet中添卡”
+或者从卡管家页面中间，点击“立即绑定”"	event_id：bindCard
+	event_label：fromwallet
+选择wallet中的一张卡，点击“添加”	event_id：addfromwallet
+支付认证中，点击“提交”	event_id：bindcardSubmit
+	event_lable：walletcard
+添加银行卡成功	event_id: bindcardSuccess
+	event_label: walletcard
+添加银行卡失败	event_id: bindcardFail
+	event_label: informationIncorrect
+	event_label: channelnotsupport
+添卡失败后，点击“更换银行卡”	event_id: changecardAdd
+卡详情页面中，点击“开通Applepay”	event_id：toapplewalletOpen
+	event_label：fromcardview
+	
+	
+	
+卡账户余额查询（3月20日上线） 	
+用户行为	"对应的埋点
+（页面名或事件名）"
+“卡详情”页面，点击“余额查询” 	event_id：crdBalInq
+余额查询界面中，点击“查询”	event_id：crdBalInqBtn
+账户余额查询成功	event_id：crdBalInqSucc
+账户余额查询失败	event_id：crdBalInqFail
+	
+	
+	
+卡管家的三个特殊事件（秦世琳要求）---TD埋点	
+用户行为	埋点名称
+点击“卡管家”按钮	event_id：CardManagerClick
+卡管家页浏览	"event_id：CardManagerView
+event_lable:子TAB名称(卡列表，记账，办卡)"
+卡详情页的访问	event_id：CardDetailClick_1
+	key-value:<cardType：卡类型（信用卡、储蓄卡）>
+	event_label：银行名称（具体以后台返回的为准）
+卡详情页的访问	event_id：CardDetailClick_2
+	key-value:<HasBillInfo：是否展示账单信息(0或者1)>
+	event_label：银行名称（具体以后台返回的为准）
+	
+	
+	
+卡管家的三个特殊事件（秦世琳要求）---神策埋点	
+用户行为	埋点名称
+点击“卡管家”按钮	event：CardManagerClick
+卡管家页浏览	"event：CardManagerView
+event_lable:子TAB名称(卡列表，记账，办卡)"
+卡详情页的访问	event：CardDetailClick
+	cardType：卡类型（信用卡、储蓄卡）
+	bankName：银行名称（具体以后台返回的为准）
+	HasBillInfo：是否展示账单信息(0或者1)
+	
+	
+	
+绑卡、实名认证流程	
+步骤	用户行为
+添加银行卡各入口	点击 添加银行卡
+输入卡号页面	点击 卡面（拍照识别卡）
+	点击 选卡
+	点击 卡面（更换卡样）
+	卡号完成后，点击 下一步（右图中标有1、2、3的地方）
+	拍照识别卡中，点击 手动输入卡片信息
+	拍照识别卡_卡号确认，点击 下一步
+	点击 再次拍卡
+	点击 默认卡面
+实名认证	输入身份证信息后，点击“下一步”
+	护照、台胞证、回乡证验证，点击 拍照
+	点击 上传验证
+	"账户实名验证成功
+/添加成功（区分两者）"
+	账户实名失败
+开通支付认证	输入卡要素，点击 下一步
+	输入短信验证码，点击 下一步
+	银联支付开通成功
+设置支付密码	进入设置支付密码页面
+	支付密码设置成功
+	
+	
+	
+	
+	
+	
+【2】展示类卡详情（不能申请办卡）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入 展示类卡详情（不能申请办卡）	event_id: infoCrdDtl
+	
+	
+	
+【3】非展示类卡详情（可申请办卡）	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入 非展示类卡详情（可申请办卡）	event_id: actCrdDtl
+	
+	
+	
+【4】权益详情	
+用户行为	"对应的埋点
+（页面名或事件名）"
+进入 权益详情页	event_id: pvlgDtl
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

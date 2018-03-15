@@ -1,0 +1,2804 @@
+<(wantInvite_NewUserAct ), >
+<(openBetaAreaAtMinePg ), >
+<(点击消息 ), >
+<(usedCpnAtMinePg ), >
+<(WalletPayPlugin ), >
+<(432AtActTheme ), >
+<(点击还款 ), >
+<(退出成功 ), >
+<(登录页的访问 ), >
+<(UPQRPaySuccessActivity ), >
+<(进入信用卡还款页面（输入金额的界面） ), >
+<(haveGot_NewYearAct ), >
+<(MyQueryBalance ), >
+<(IdentityInfo ), >
+<(startGet_NewYearAct ), >
+<(myReward_P2PActPg ), >
+<(inviteReord_NewUserAct ), >
+<(（lable为各种失败原因）" ), >
+<(WalletPayPasswordVerify ), >
+<(win_NewUserAct ), >
+<(openShare_NewYearAct ), >
+<(点击卡片区域 ), >
+<(toPayAuth_NewYearAct ), >
+<(锁屏页的访问 ), >
+<(signShare_NewYearAct ), >
+<(transDetailPg ), >
+<(NewCard ), >
+<(activityAtIdxMainPg ), >
+<(cashierAtMinePg ), >
+<(余额查询界面中，点击“查询” ), >
+<(signSucc_NewYearAct ), >
+<(myMoreAtMinePg ), >
+<(openSucc_NewYearAct ), >
+<(200AtIdxMainPg ), >
+<(点击账单服务 ), >
+<(找回密码用户名，点击“下一步” ), >
+<(707AtIdxMainPg ), >
+<(bankConf_P2PActPg ), >
+<(LifeAppDelegate ), >
+<(moduleInLifeStyle ), >
+<(toBankCardLst ), >
+<(二维码被扫描成功 ), >
+<(703AtBanner ), >
+<(点击开户 ), >
+<(SecurityRelativeView ), >
+<(MinePg ), >
+<(MyMessageList ), >
+<(点击各具体权益 ), >
+<(703AtIdxMainPg ), >
+<(creditCardRepayPg ), >
+<(701AtBanner ), >
+<(点击“更多充值”里面的应用 ), >
+<(具体卡详情页的访问 ), >
+<(serviceAtCouponDtl ), >
+<(ShareView ), >
+<(AccountType ), >
+<(点击“确认付款” ), >
+<(QRCodeView ), >
+<(MyDownloadView ), >
+<(WalletPaySuccess ), >
+<(startDraw_P2PActPg ), >
+<(CardDetailView ), >
+<(432AtIdxMainPg ), >
+<(QrCodePayOrderDetail ), >
+<(GuideBindCard ), >
+<(toRealName_NewYearAct ), >
+<(PointDetailView ), >
+<(myRewardAtMinePg ), >
+<(点击扫一扫 ), >
+<(手机号已被注册，但是不正确，点击“换个号码，重新注册” ), >
+<(登陆界面，用户输入用户名且至少输入一位时 ), >
+<(判断为需要输入密码 ), >
+<(指纹识别成功（安卓没有） ), >
+<(登录成功事件 ), >
+<(701AtIdxMainPg ), >
+<(707AtActArea ), >
+<(drawReord_NewUserAct ), >
+<(城市列表页 ), >
+<(访问转账首页 ), >
+<(Certification ), >
+<(点击“放入钱包”时，失败 ), >
+<(getSucc_QPReward ), >
+<(ScanPanView ), >
+<(WelcomeView ), >
+<(点击公缴缴费 ), >
+<(179AtIdxMainPg ), >
+<(访问卡管家-卡列表页 ), >
+<(输入卡要素，点击下一步 ), >
+<(访问卡包频道页 ), >
+<(输入短信验证码，点击下一步 ), >
+<(从分析进入明细（6个页面通用） ), >
+<(进入“手机充值”页面 ), >
+<(myOrdrAtMinePg ), >
+<(点击公共缴费 ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), >
+<(NewUserActPg ), >
+<(secAtMinePg ), >
+<(OrderDtlPg ), >
+<(进入消息中心页 ), >
+<(卡详情页，点击“实名认证” ), >
+<(放入免费优惠券成功（有符合条件的卡） ), >
+<(点击付款 ), >
+<(进入门店详情页 ), >
+<(点击商城 ), >
+<(goodsDetlPg ), >
+<(MyCostRecordView ), >
+<(添加银行卡成功 ), >
+<(bankCardPrivilege ), >
+<(toVirtualAcctPreview ), >
+<(win_P2PActPg ), >
+<(Web ), >
+<(城市选择成功 ), >
+<(优惠频道页面 ), >
+<(MoreView ), >
+<(702AtBanner ), >
+<(手机充值，支付成功 ), >
+<(点击“相册” ), >
+<(/添加成功（区分两者）" ), >
+<(signFail_NewYearAct ), >
+<(进入品牌详情页 ), >
+<(startDraw_NewUserAct ), >
+<(点击“退出登录” ), >
+<(需要输密码时，付款成功 ), >
+<(guideCancel_NewYearAct ), >
+<(点击“转账到手机号” ), >
+<(MyOrderView ), >
+<(youhui_share ), >
+<(输入身份证信息后，点击“下一步” ), >
+<(转账成功页，点击banner（营销入口） ), >
+<(扫描“收款”二维码成功 ), >
+<(QPRewardPg ), >
+<(myIDAtMinePg ), >
+<(点击“线上” ), >
+<(进入设置支付密码页面 ), >
+<(账户余额查询成功 ), >
+<(输入登录密码后，点击“确认” ), >
+<(点击“确认支付” ), >
+<(178AtIdxMainPg ), >
+<(点击商城 ), >
+<(点击家乐福 ), >
+<(访问生活频道页 ), >
+<(输入短信验证码后，点击“确认” ), >
+<(guidePg_NewYearAct ), >
+<(点击“通讯录”头像 ), >
+<(LoginMobileCheck ), >
+<(getSoon_P2PActPg ), >
+<(从明细进入分析（6个页面通用） ), >
+<(点击卡列表中的“银行卡” ), >
+<(click_advert ), >
+<(btnGift_QPReward ), >
+<(vMarketingInvtAtMinePg ), >
+<(MyMessageCenter ), >
+<(点击“扫码付” ), >
+<(myOrderDetail ), >
+<(点击收款 ), >
+<(输入用户信息后，点击“登录”按钮， ), >
+<(点击“确认” ), >
+<(手势解锁成功 ), >
+<(手机充值，支付失败 ), >
+<(定位城市与最近保存的城市不一致，需要提醒用户切换城市 ), >
+<(NewYearActPg ), >
+<(RemindView ), >
+<(进入记账首页 ), >
+<(473AtIdxMainPg ), >
+<(登录失败事件 ), >
+<(点击“直达链接”模块中的链接（只有线上有） ), >
+<(收款成功 ), >
+<(进入收款页面 ), >
+<(wantShare_P2PActPg ), >
+<(708AtIdxMainPg ), >
+<(点击“充值记录” ), >
+<(697AtIdxMainPg ), >
+<(转账成功 ), >
+<(orderApply ), >
+<(InMallHome ), >
+<(点击支付助手 ), >
+<(702AtIdxMainPg ), >
+<(请登录你的账户 ), >
+<(点击选卡 ), >
+<(reward_P2PActPg ), >
+<(luckMonyAtMinePg ), >
+<(UPQrShowingActivity ), >
+<(支付密码设置成功 ), >
+<(找回密码手机验证时获取短信验证码 ), >
+<(注册成功事件 ), >
+<(点击卡面（拍照识别卡） ), >
+<(toMerchLst1_QPReward ), >
+<(违章代办，点击“确认支付”后，选择“银联钱包支付” ), >
+<(708AtActArea ), >
+<(点击添加银行卡 ), >
+<(P2PActPg ), >
+<(点击曹操专车（充100得125）0105-0123 ), >
+<(显示开机广告页 ), >
+<(点击激励金（0119-） ), >
+<(bankDraw_P2PActPg ), >
+<(getSoon_NewYearAct ), >
+<(myInfoAtMinePg ), >
+<(PayPasswordInput ), >
+<(锁屏时-点击“登录其他账户” ), >
+<(点击开通手机闪付（卡详情页/开户） ), >
+<(输入短信验证码后，点击“下一步” ), >
+<(rules_P2PActPg ), >
+<(点击周边优惠 ), >
+<(在转账信息填写页面中，点击“确认转账” ), >
+<(点击转账 ), >
+<(MyPointView ), >
+<(进入优惠详情页（不包含秒杀券） ), >
+<(SetPatternView ), >
+<(输入卡号点击“下一步” ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(二维码付款成功 ), >
+<(705AtLifeChnlPg ), >
+<(进入交易详情（系统）页面 ), >
+<(700AtIdxMainPg ), >
+<(orderSubmit ), >
+<(billRmdAtMinePg ), >
+<(MySecuritySettings ), >
+<(myPntAtMinePg ), >
+<(点击搜索 ), >
+<(TutorialView ), >
+<(点击卡面 ), >
+<(点击“忘记密码” ), >
+<(172AtIdxMainPg ), >
+<(点击右上方卡列表 ), >
+<(unuseCpnAtMinePg ), >
+<(具体优惠券详情页的访问 ), >
+<(银联支付开通成功 ), >
+<(点击手机充值 ), >
+<(输入手机号后，点击“注册”按钮 ), >
+<(473AtLifeChnlPg ), >
+<(wantInvite_NewUserAct ), (haveGot_NewYearAct ), >
+<(wantInvite_NewUserAct ), (ShareView ), >
+<(wantInvite_NewUserAct ), (访问卡包频道页 ), >
+<(wantInvite_NewUserAct ), (Web ), >
+<(wantInvite_NewUserAct ), (youhui_share ), >
+<(openBetaAreaAtMinePg ), (MinePg ), >
+<(点击消息 ), (点击账单服务 ), >
+<(点击消息 ), (MyMessageList ), >
+<(点击消息 ), (访问卡包频道页 ), >
+<(点击消息 ), (进入消息中心页 ), >
+<(点击消息 ), (MyMessageCenter ), >
+<(点击消息 ), (点击支付助手 ), >
+<(usedCpnAtMinePg ), (MinePg ), >
+<(usedCpnAtMinePg ), (MyDownloadView ), >
+<(WalletPayPlugin ), (MinePg ), >
+<(WalletPayPlugin ), (WalletPaySuccess ), >
+<(WalletPayPlugin ), (点击扫一扫 ), >
+<(WalletPayPlugin ), (WelcomeView ), >
+<(WalletPayPlugin ), (访问卡包频道页 ), >
+<(WalletPayPlugin ), (myOrdrAtMinePg ), >
+<(WalletPayPlugin ), (MyOrderView ), >
+<(WalletPayPlugin ), (显示开机广告页 ), >
+<(432AtActTheme ), (432AtIdxMainPg ), >
+<(432AtActTheme ), (访问卡包频道页 ), >
+<(432AtActTheme ), (goodsDetlPg ), >
+<(432AtActTheme ), (Web ), >
+<(点击还款 ), (访问卡包频道页 ), >
+<(退出成功 ), (登录页的访问 ), >
+<(退出成功 ), (SecurityRelativeView ), >
+<(退出成功 ), (MinePg ), >
+<(退出成功 ), (手机号已被注册，但是不正确，点击“换个号码，重新注册” ), >
+<(退出成功 ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(退出成功 ), (WelcomeView ), >
+<(退出成功 ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(退出成功 ), (输入用户信息后，点击“登录”按钮， ), >
+<(退出成功 ), (myInfoAtMinePg ), >
+<(登录页的访问 ), (登录页的访问 ), >
+<(登录页的访问 ), (haveGot_NewYearAct ), >
+<(登录页的访问 ), (startGet_NewYearAct ), >
+<(登录页的访问 ), (activityAtIdxMainPg ), >
+<(登录页的访问 ), (找回密码用户名，点击“下一步” ), >
+<(登录页的访问 ), (二维码被扫描成功 ), >
+<(登录页的访问 ), (MinePg ), >
+<(登录页的访问 ), (GuideBindCard ), >
+<(登录页的访问 ), (点击扫一扫 ), >
+<(登录页的访问 ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(登录页的访问 ), (登录成功事件 ), >
+<(登录页的访问 ), (WelcomeView ), >
+<(登录页的访问 ), (179AtIdxMainPg ), >
+<(登录页的访问 ), (访问卡包频道页 ), >
+<(登录页的访问 ), (myOrdrAtMinePg ), >
+<(登录页的访问 ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(登录页的访问 ), (点击付款 ), >
+<(登录页的访问 ), (Web ), >
+<(登录页的访问 ), (702AtBanner ), >
+<(登录页的访问 ), (输入身份证信息后，点击“下一步” ), >
+<(登录页的访问 ), (输入登录密码后，点击“确认” ), >
+<(登录页的访问 ), (输入短信验证码后，点击“确认” ), >
+<(登录页的访问 ), (guidePg_NewYearAct ), >
+<(登录页的访问 ), (LoginMobileCheck ), >
+<(登录页的访问 ), (输入用户信息后，点击“登录”按钮， ), >
+<(登录页的访问 ), (NewYearActPg ), >
+<(登录页的访问 ), (702AtIdxMainPg ), >
+<(登录页的访问 ), (luckMonyAtMinePg ), >
+<(登录页的访问 ), (找回密码手机验证时获取短信验证码 ), >
+<(登录页的访问 ), (注册成功事件 ), >
+<(登录页的访问 ), (点击添加银行卡 ), >
+<(登录页的访问 ), (显示开机广告页 ), >
+<(登录页的访问 ), (myInfoAtMinePg ), >
+<(登录页的访问 ), (输入短信验证码后，点击“下一步” ), >
+<(登录页的访问 ), (SetPatternView ), >
+<(登录页的访问 ), (输入卡号点击“下一步” ), >
+<(登录页的访问 ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(登录页的访问 ), (输入手机号后，点击“注册”按钮 ), >
+<(UPQRPaySuccessActivity ), (UPQRPaySuccessActivity ), >
+<(UPQRPaySuccessActivity ), (锁屏页的访问 ), >
+<(UPQRPaySuccessActivity ), (MinePg ), >
+<(UPQRPaySuccessActivity ), (WelcomeView ), >
+<(UPQRPaySuccessActivity ), (访问卡包频道页 ), >
+<(UPQRPaySuccessActivity ), (点击付款 ), >
+<(UPQRPaySuccessActivity ), (Web ), >
+<(UPQRPaySuccessActivity ), (点击“退出登录” ), >
+<(UPQRPaySuccessActivity ), (点击“确认” ), >
+<(UPQRPaySuccessActivity ), (手势解锁成功 ), >
+<(UPQRPaySuccessActivity ), (显示开机广告页 ), >
+<(UPQRPaySuccessActivity ), (myInfoAtMinePg ), >
+<(UPQRPaySuccessActivity ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(进入信用卡还款页面（输入金额的界面） ), (访问卡包频道页 ), >
+<(haveGot_NewYearAct ), (wantInvite_NewUserAct ), >
+<(haveGot_NewYearAct ), (点击消息 ), >
+<(haveGot_NewYearAct ), (432AtActTheme ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (myReward_P2PActPg ), >
+<(haveGot_NewYearAct ), (inviteReord_NewUserAct ), >
+<(haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(haveGot_NewYearAct ), (signShare_NewYearAct ), >
+<(haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(haveGot_NewYearAct ), (bankConf_P2PActPg ), >
+<(haveGot_NewYearAct ), (二维码被扫描成功 ), >
+<(haveGot_NewYearAct ), (MinePg ), >
+<(haveGot_NewYearAct ), (点击各具体权益 ), >
+<(haveGot_NewYearAct ), (701AtBanner ), >
+<(haveGot_NewYearAct ), (具体卡详情页的访问 ), >
+<(haveGot_NewYearAct ), (ShareView ), >
+<(haveGot_NewYearAct ), (QRCodeView ), >
+<(haveGot_NewYearAct ), (startDraw_P2PActPg ), >
+<(haveGot_NewYearAct ), (PointDetailView ), >
+<(haveGot_NewYearAct ), (点击扫一扫 ), >
+<(haveGot_NewYearAct ), (指纹识别成功（安卓没有） ), >
+<(haveGot_NewYearAct ), (701AtIdxMainPg ), >
+<(haveGot_NewYearAct ), (drawReord_NewUserAct ), >
+<(haveGot_NewYearAct ), (访问转账首页 ), >
+<(haveGot_NewYearAct ), (WelcomeView ), >
+<(haveGot_NewYearAct ), (179AtIdxMainPg ), >
+<(haveGot_NewYearAct ), (访问卡包频道页 ), >
+<(haveGot_NewYearAct ), (进入“手机充值”页面 ), >
+<(haveGot_NewYearAct ), (myOrdrAtMinePg ), >
+<(haveGot_NewYearAct ), (NewUserActPg ), >
+<(haveGot_NewYearAct ), (进入消息中心页 ), >
+<(haveGot_NewYearAct ), (点击付款 ), >
+<(haveGot_NewYearAct ), (MyCostRecordView ), >
+<(haveGot_NewYearAct ), (bankCardPrivilege ), >
+<(haveGot_NewYearAct ), (win_P2PActPg ), >
+<(haveGot_NewYearAct ), (Web ), >
+<(haveGot_NewYearAct ), (优惠频道页面 ), >
+<(haveGot_NewYearAct ), (702AtBanner ), >
+<(haveGot_NewYearAct ), (进入品牌详情页 ), >
+<(haveGot_NewYearAct ), (点击“退出登录” ), >
+<(haveGot_NewYearAct ), (guideCancel_NewYearAct ), >
+<(haveGot_NewYearAct ), (点击“转账到手机号” ), >
+<(haveGot_NewYearAct ), (youhui_share ), >
+<(haveGot_NewYearAct ), (扫描“收款”二维码成功 ), >
+<(haveGot_NewYearAct ), (QPRewardPg ), >
+<(haveGot_NewYearAct ), (点击“确认支付” ), >
+<(haveGot_NewYearAct ), (访问生活频道页 ), >
+<(haveGot_NewYearAct ), (guidePg_NewYearAct ), >
+<(haveGot_NewYearAct ), (getSoon_P2PActPg ), >
+<(haveGot_NewYearAct ), (手势解锁成功 ), >
+<(haveGot_NewYearAct ), (473AtIdxMainPg ), >
+<(haveGot_NewYearAct ), (转账成功 ), >
+<(haveGot_NewYearAct ), (点击支付助手 ), >
+<(haveGot_NewYearAct ), (702AtIdxMainPg ), >
+<(haveGot_NewYearAct ), (reward_P2PActPg ), >
+<(haveGot_NewYearAct ), (luckMonyAtMinePg ), >
+<(haveGot_NewYearAct ), (UPQrShowingActivity ), >
+<(haveGot_NewYearAct ), (P2PActPg ), >
+<(haveGot_NewYearAct ), (显示开机广告页 ), >
+<(haveGot_NewYearAct ), (点击激励金（0119-） ), >
+<(haveGot_NewYearAct ), (getSoon_NewYearAct ), >
+<(haveGot_NewYearAct ), (myInfoAtMinePg ), >
+<(haveGot_NewYearAct ), (在转账信息填写页面中，点击“确认转账” ), >
+<(haveGot_NewYearAct ), (点击转账 ), >
+<(haveGot_NewYearAct ), (进入优惠详情页（不包含秒杀券） ), >
+<(haveGot_NewYearAct ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(haveGot_NewYearAct ), (700AtIdxMainPg ), >
+<(haveGot_NewYearAct ), (点击卡面 ), >
+<(haveGot_NewYearAct ), (点击手机充值 ), >
+<(haveGot_NewYearAct ), (473AtLifeChnlPg ), >
+<(MyQueryBalance ), (CardDetailView ), >
+<(MyQueryBalance ), (访问卡包频道页 ), >
+<(IdentityInfo ), (MinePg ), >
+<(startGet_NewYearAct ), (点击消息 ), >
+<(startGet_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (startGet_NewYearAct ), >
+<(startGet_NewYearAct ), (win_NewUserAct ), >
+<(startGet_NewYearAct ), (toPayAuth_NewYearAct ), >
+<(startGet_NewYearAct ), (锁屏页的访问 ), >
+<(startGet_NewYearAct ), (signShare_NewYearAct ), >
+<(startGet_NewYearAct ), (activityAtIdxMainPg ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), >
+<(startGet_NewYearAct ), (openSucc_NewYearAct ), >
+<(startGet_NewYearAct ), (MinePg ), >
+<(startGet_NewYearAct ), (点击各具体权益 ), >
+<(startGet_NewYearAct ), (startDraw_P2PActPg ), >
+<(startGet_NewYearAct ), (toRealName_NewYearAct ), >
+<(startGet_NewYearAct ), (点击扫一扫 ), >
+<(startGet_NewYearAct ), (指纹识别成功（安卓没有） ), >
+<(startGet_NewYearAct ), (访问转账首页 ), >
+<(startGet_NewYearAct ), (Certification ), >
+<(startGet_NewYearAct ), (WelcomeView ), >
+<(startGet_NewYearAct ), (179AtIdxMainPg ), >
+<(startGet_NewYearAct ), (访问卡包频道页 ), >
+<(startGet_NewYearAct ), (NewUserActPg ), >
+<(startGet_NewYearAct ), (点击付款 ), >
+<(startGet_NewYearAct ), (Web ), >
+<(startGet_NewYearAct ), (优惠频道页面 ), >
+<(startGet_NewYearAct ), (signFail_NewYearAct ), >
+<(startGet_NewYearAct ), (startDraw_NewUserAct ), >
+<(startGet_NewYearAct ), (youhui_share ), >
+<(startGet_NewYearAct ), (输入身份证信息后，点击“下一步” ), >
+<(startGet_NewYearAct ), (访问生活频道页 ), >
+<(startGet_NewYearAct ), (guidePg_NewYearAct ), >
+<(startGet_NewYearAct ), (getSoon_P2PActPg ), >
+<(startGet_NewYearAct ), (手势解锁成功 ), >
+<(startGet_NewYearAct ), (luckMonyAtMinePg ), >
+<(startGet_NewYearAct ), (点击添加银行卡 ), >
+<(startGet_NewYearAct ), (P2PActPg ), >
+<(startGet_NewYearAct ), (显示开机广告页 ), >
+<(startGet_NewYearAct ), (点击激励金（0119-） ), >
+<(startGet_NewYearAct ), (myInfoAtMinePg ), >
+<(startGet_NewYearAct ), (点击转账 ), >
+<(startGet_NewYearAct ), (进入优惠详情页（不包含秒杀券） ), >
+<(startGet_NewYearAct ), (输入卡号点击“下一步” ), >
+<(startGet_NewYearAct ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(startGet_NewYearAct ), (点击卡面 ), >
+<(startGet_NewYearAct ), (点击手机充值 ), >
+<(myReward_P2PActPg ), (访问卡包频道页 ), >
+<(myReward_P2PActPg ), (Web ), >
+<(myReward_P2PActPg ), (reward_P2PActPg ), >
+<(myReward_P2PActPg ), (P2PActPg ), >
+<(inviteReord_NewUserAct ), (访问卡包频道页 ), >
+<(inviteReord_NewUserAct ), (Web ), >
+<(WalletPayPasswordVerify ), (haveGot_NewYearAct ), >
+<(WalletPayPasswordVerify ), (WalletPayPasswordVerify ), >
+<(WalletPayPasswordVerify ), (activityAtIdxMainPg ), >
+<(WalletPayPasswordVerify ), (bankConf_P2PActPg ), >
+<(WalletPayPasswordVerify ), (startDraw_P2PActPg ), >
+<(WalletPayPasswordVerify ), (访问卡包频道页 ), >
+<(WalletPayPasswordVerify ), (win_P2PActPg ), >
+<(WalletPayPasswordVerify ), (Web ), >
+<(WalletPayPasswordVerify ), (转账成功页，点击banner（营销入口） ), >
+<(WalletPayPasswordVerify ), (getSoon_P2PActPg ), >
+<(WalletPayPasswordVerify ), (转账成功 ), >
+<(WalletPayPasswordVerify ), (P2PActPg ), >
+<(WalletPayPasswordVerify ), (在转账信息填写页面中，点击“确认转账” ), >
+<(win_NewUserAct ), (MinePg ), >
+<(win_NewUserAct ), (访问卡包频道页 ), >
+<(win_NewUserAct ), (Web ), >
+<(win_NewUserAct ), (myInfoAtMinePg ), >
+<(点击卡片区域 ), (transDetailPg ), >
+<(点击卡片区域 ), (MyMessageList ), >
+<(点击卡片区域 ), (MyMessageCenter ), >
+<(点击卡片区域 ), (进入交易详情（系统）页面 ), >
+<(toPayAuth_NewYearAct ), (添加银行卡成功 ), >
+<(toPayAuth_NewYearAct ), (Web ), >
+<(toPayAuth_NewYearAct ), (输入身份证信息后，点击“下一步” ), >
+<(toPayAuth_NewYearAct ), (输入卡号点击“下一步” ), >
+<(锁屏页的访问 ), (点击消息 ), >
+<(锁屏页的访问 ), (登录页的访问 ), >
+<(锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), >
+<(锁屏页的访问 ), (WalletPayPasswordVerify ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (signShare_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (signSucc_NewYearAct ), >
+<(锁屏页的访问 ), (二维码被扫描成功 ), >
+<(锁屏页的访问 ), (MinePg ), >
+<(锁屏页的访问 ), (点击各具体权益 ), >
+<(锁屏页的访问 ), (701AtBanner ), >
+<(锁屏页的访问 ), (具体卡详情页的访问 ), >
+<(锁屏页的访问 ), (QRCodeView ), >
+<(锁屏页的访问 ), (CardDetailView ), >
+<(锁屏页的访问 ), (PointDetailView ), >
+<(锁屏页的访问 ), (点击扫一扫 ), >
+<(锁屏页的访问 ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(锁屏页的访问 ), (判断为需要输入密码 ), >
+<(锁屏页的访问 ), (指纹识别成功（安卓没有） ), >
+<(锁屏页的访问 ), (登录成功事件 ), >
+<(锁屏页的访问 ), (701AtIdxMainPg ), >
+<(锁屏页的访问 ), (707AtActArea ), >
+<(锁屏页的访问 ), (城市列表页 ), >
+<(锁屏页的访问 ), (访问转账首页 ), >
+<(锁屏页的访问 ), (WelcomeView ), >
+<(锁屏页的访问 ), (179AtIdxMainPg ), >
+<(锁屏页的访问 ), (访问卡管家-卡列表页 ), >
+<(锁屏页的访问 ), (访问卡包频道页 ), >
+<(锁屏页的访问 ), (进入“手机充值”页面 ), >
+<(锁屏页的访问 ), (myOrdrAtMinePg ), >
+<(锁屏页的访问 ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(锁屏页的访问 ), (NewUserActPg ), >
+<(锁屏页的访问 ), (进入消息中心页 ), >
+<(锁屏页的访问 ), (点击付款 ), >
+<(锁屏页的访问 ), (MyCostRecordView ), >
+<(锁屏页的访问 ), (bankCardPrivilege ), >
+<(锁屏页的访问 ), (Web ), >
+<(锁屏页的访问 ), (优惠频道页面 ), >
+<(锁屏页的访问 ), (702AtBanner ), >
+<(锁屏页的访问 ), (点击“相册” ), >
+<(锁屏页的访问 ), (进入品牌详情页 ), >
+<(锁屏页的访问 ), (guideCancel_NewYearAct ), >
+<(锁屏页的访问 ), (点击“转账到手机号” ), >
+<(锁屏页的访问 ), (MyOrderView ), >
+<(锁屏页的访问 ), (扫描“收款”二维码成功 ), >
+<(锁屏页的访问 ), (QPRewardPg ), >
+<(锁屏页的访问 ), (点击“确认支付” ), >
+<(锁屏页的访问 ), (178AtIdxMainPg ), >
+<(锁屏页的访问 ), (访问生活频道页 ), >
+<(锁屏页的访问 ), (guidePg_NewYearAct ), >
+<(锁屏页的访问 ), (MyMessageCenter ), >
+<(锁屏页的访问 ), (输入用户信息后，点击“登录”按钮， ), >
+<(锁屏页的访问 ), (手势解锁成功 ), >
+<(锁屏页的访问 ), (定位城市与最近保存的城市不一致，需要提醒用户切换城市 ), >
+<(锁屏页的访问 ), (NewYearActPg ), >
+<(锁屏页的访问 ), (点击支付助手 ), >
+<(锁屏页的访问 ), (702AtIdxMainPg ), >
+<(锁屏页的访问 ), (luckMonyAtMinePg ), >
+<(锁屏页的访问 ), (UPQrShowingActivity ), >
+<(锁屏页的访问 ), (点击添加银行卡 ), >
+<(锁屏页的访问 ), (P2PActPg ), >
+<(锁屏页的访问 ), (显示开机广告页 ), >
+<(锁屏页的访问 ), (点击激励金（0119-） ), >
+<(锁屏页的访问 ), (getSoon_NewYearAct ), >
+<(锁屏页的访问 ), (myInfoAtMinePg ), >
+<(锁屏页的访问 ), (在转账信息填写页面中，点击“确认转账” ), >
+<(锁屏页的访问 ), (点击转账 ), >
+<(锁屏页的访问 ), (进入优惠详情页（不包含秒杀券） ), >
+<(锁屏页的访问 ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(锁屏页的访问 ), (700AtIdxMainPg ), >
+<(锁屏页的访问 ), (点击卡面 ), >
+<(锁屏页的访问 ), (点击右上方卡列表 ), >
+<(锁屏页的访问 ), (具体优惠券详情页的访问 ), >
+<(锁屏页的访问 ), (点击手机充值 ), >
+<(锁屏页的访问 ), (473AtLifeChnlPg ), >
+<(signShare_NewYearAct ), (haveGot_NewYearAct ), >
+<(signShare_NewYearAct ), (ShareView ), >
+<(signShare_NewYearAct ), (访问卡包频道页 ), >
+<(signShare_NewYearAct ), (Web ), >
+<(signShare_NewYearAct ), (youhui_share ), >
+<(transDetailPg ), (锁屏页的访问 ), >
+<(transDetailPg ), (MyMessageList ), >
+<(transDetailPg ), (访问卡包频道页 ), >
+<(transDetailPg ), (MyMessageCenter ), >
+<(transDetailPg ), (进入交易详情（系统）页面 ), >
+<(NewCard ), (NewCard ), >
+<(NewCard ), (具体卡详情页的访问 ), >
+<(NewCard ), (CardDetailView ), >
+<(NewCard ), (访问卡包频道页 ), >
+<(NewCard ), (bankCardPrivilege ), >
+<(activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), >
+<(activityAtIdxMainPg ), (锁屏页的访问 ), >
+<(activityAtIdxMainPg ), (signShare_NewYearAct ), >
+<(activityAtIdxMainPg ), (activityAtIdxMainPg ), >
+<(activityAtIdxMainPg ), (signSucc_NewYearAct ), >
+<(activityAtIdxMainPg ), (openSucc_NewYearAct ), >
+<(activityAtIdxMainPg ), (MinePg ), >
+<(activityAtIdxMainPg ), (startDraw_P2PActPg ), >
+<(activityAtIdxMainPg ), (访问卡包频道页 ), >
+<(activityAtIdxMainPg ), (NewUserActPg ), >
+<(activityAtIdxMainPg ), (win_P2PActPg ), >
+<(activityAtIdxMainPg ), (Web ), >
+<(activityAtIdxMainPg ), (优惠频道页面 ), >
+<(activityAtIdxMainPg ), (youhui_share ), >
+<(activityAtIdxMainPg ), (guidePg_NewYearAct ), >
+<(activityAtIdxMainPg ), (getSoon_P2PActPg ), >
+<(activityAtIdxMainPg ), (NewYearActPg ), >
+<(activityAtIdxMainPg ), (luckMonyAtMinePg ), >
+<(activityAtIdxMainPg ), (P2PActPg ), >
+<(activityAtIdxMainPg ), (显示开机广告页 ), >
+<(activityAtIdxMainPg ), (点击转账 ), >
+<(activityAtIdxMainPg ), (点击手机充值 ), >
+<(cashierAtMinePg ), (MinePg ), >
+<(cashierAtMinePg ), (Web ), >
+<(余额查询界面中，点击“查询” ), (MyQueryBalance ), >
+<(余额查询界面中，点击“查询” ), (CardDetailView ), >
+<(余额查询界面中，点击“查询” ), (账户余额查询成功 ), >
+<(signSucc_NewYearAct ), (点击消息 ), >
+<(signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(signSucc_NewYearAct ), (锁屏页的访问 ), >
+<(signSucc_NewYearAct ), (signShare_NewYearAct ), >
+<(signSucc_NewYearAct ), (activityAtIdxMainPg ), >
+<(signSucc_NewYearAct ), (signSucc_NewYearAct ), >
+<(signSucc_NewYearAct ), (MinePg ), >
+<(signSucc_NewYearAct ), (点击各具体权益 ), >
+<(signSucc_NewYearAct ), (startDraw_P2PActPg ), >
+<(signSucc_NewYearAct ), (PointDetailView ), >
+<(signSucc_NewYearAct ), (点击扫一扫 ), >
+<(signSucc_NewYearAct ), (指纹识别成功（安卓没有） ), >
+<(signSucc_NewYearAct ), (访问转账首页 ), >
+<(signSucc_NewYearAct ), (WelcomeView ), >
+<(signSucc_NewYearAct ), (179AtIdxMainPg ), >
+<(signSucc_NewYearAct ), (访问卡包频道页 ), >
+<(signSucc_NewYearAct ), (进入“手机充值”页面 ), >
+<(signSucc_NewYearAct ), (NewUserActPg ), >
+<(signSucc_NewYearAct ), (进入消息中心页 ), >
+<(signSucc_NewYearAct ), (点击付款 ), >
+<(signSucc_NewYearAct ), (MyCostRecordView ), >
+<(signSucc_NewYearAct ), (Web ), >
+<(signSucc_NewYearAct ), (优惠频道页面 ), >
+<(signSucc_NewYearAct ), (点击“退出登录” ), >
+<(signSucc_NewYearAct ), (guideCancel_NewYearAct ), >
+<(signSucc_NewYearAct ), (QPRewardPg ), >
+<(signSucc_NewYearAct ), (访问生活频道页 ), >
+<(signSucc_NewYearAct ), (guidePg_NewYearAct ), >
+<(signSucc_NewYearAct ), (getSoon_P2PActPg ), >
+<(signSucc_NewYearAct ), (手势解锁成功 ), >
+<(signSucc_NewYearAct ), (luckMonyAtMinePg ), >
+<(signSucc_NewYearAct ), (P2PActPg ), >
+<(signSucc_NewYearAct ), (显示开机广告页 ), >
+<(signSucc_NewYearAct ), (点击激励金（0119-） ), >
+<(signSucc_NewYearAct ), (getSoon_NewYearAct ), >
+<(signSucc_NewYearAct ), (myInfoAtMinePg ), >
+<(signSucc_NewYearAct ), (在转账信息填写页面中，点击“确认转账” ), >
+<(signSucc_NewYearAct ), (点击转账 ), >
+<(signSucc_NewYearAct ), (进入优惠详情页（不包含秒杀券） ), >
+<(signSucc_NewYearAct ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(signSucc_NewYearAct ), (点击卡面 ), >
+<(signSucc_NewYearAct ), (点击手机充值 ), >
+<(myMoreAtMinePg ), (MinePg ), >
+<(myMoreAtMinePg ), (MoreView ), >
+<(openSucc_NewYearAct ), (win_NewUserAct ), >
+<(openSucc_NewYearAct ), (访问卡包频道页 ), >
+<(openSucc_NewYearAct ), (NewUserActPg ), >
+<(openSucc_NewYearAct ), (Web ), >
+<(openSucc_NewYearAct ), (startDraw_NewUserAct ), >
+<(200AtIdxMainPg ), (访问卡包频道页 ), >
+<(200AtIdxMainPg ), (goodsDetlPg ), >
+<(点击账单服务 ), (MyMessageList ), >
+<(点击账单服务 ), (访问卡包频道页 ), >
+<(点击账单服务 ), (进入消息中心页 ), >
+<(点击账单服务 ), (MyMessageCenter ), >
+<(点击账单服务 ), (点击支付助手 ), >
+<(找回密码用户名，点击“下一步” ), (找回密码手机验证时获取短信验证码 ), >
+<(找回密码用户名，点击“下一步” ), (输入短信验证码后，点击“下一步” ), >
+<(707AtIdxMainPg ), (访问卡包频道页 ), >
+<(707AtIdxMainPg ), (NewUserActPg ), >
+<(bankConf_P2PActPg ), (haveGot_NewYearAct ), >
+<(bankConf_P2PActPg ), (activityAtIdxMainPg ), >
+<(bankConf_P2PActPg ), (bankConf_P2PActPg ), >
+<(bankConf_P2PActPg ), (MinePg ), >
+<(bankConf_P2PActPg ), (访问卡包频道页 ), >
+<(bankConf_P2PActPg ), (Web ), >
+<(bankConf_P2PActPg ), (getSoon_P2PActPg ), >
+<(bankConf_P2PActPg ), (reward_P2PActPg ), >
+<(bankConf_P2PActPg ), (luckMonyAtMinePg ), >
+<(bankConf_P2PActPg ), (P2PActPg ), >
+<(bankConf_P2PActPg ), (bankDraw_P2PActPg ), >
+<(bankConf_P2PActPg ), (点击转账 ), >
+<(LifeAppDelegate ), (登录页的访问 ), >
+<(LifeAppDelegate ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(moduleInLifeStyle ), (moduleInLifeStyle ), >
+<(moduleInLifeStyle ), (访问卡包频道页 ), >
+<(moduleInLifeStyle ), (Web ), >
+<(moduleInLifeStyle ), (访问生活频道页 ), >
+<(toBankCardLst ), (NewCard ), >
+<(toBankCardLst ), (toBankCardLst ), >
+<(toBankCardLst ), (具体卡详情页的访问 ), >
+<(toBankCardLst ), (CardDetailView ), >
+<(toBankCardLst ), (访问卡包频道页 ), >
+<(toBankCardLst ), (bankCardPrivilege ), >
+<(toBankCardLst ), (toVirtualAcctPreview ), >
+<(二维码被扫描成功 ), (UPQRPaySuccessActivity ), >
+<(二维码被扫描成功 ), (锁屏页的访问 ), >
+<(二维码被扫描成功 ), (MinePg ), >
+<(二维码被扫描成功 ), (判断为需要输入密码 ), >
+<(二维码被扫描成功 ), (访问卡包频道页 ), >
+<(二维码被扫描成功 ), (点击付款 ), >
+<(二维码被扫描成功 ), (需要输密码时，付款成功 ), >
+<(二维码被扫描成功 ), (手势解锁成功 ), >
+<(二维码被扫描成功 ), (UPQrShowingActivity ), >
+<(703AtBanner ), (703AtIdxMainPg ), >
+<(703AtBanner ), (访问卡包频道页 ), >
+<(703AtBanner ), (NewUserActPg ), >
+<(点击开户 ), (AccountType ), >
+<(点击开户 ), (访问卡包频道页 ), >
+<(SecurityRelativeView ), (登录页的访问 ), >
+<(SecurityRelativeView ), (SecurityRelativeView ), >
+<(SecurityRelativeView ), (MinePg ), >
+<(SecurityRelativeView ), (手机号已被注册，但是不正确，点击“换个号码，重新注册” ), >
+<(SecurityRelativeView ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(SecurityRelativeView ), (登录成功事件 ), >
+<(SecurityRelativeView ), (WelcomeView ), >
+<(SecurityRelativeView ), (访问卡包频道页 ), >
+<(SecurityRelativeView ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(SecurityRelativeView ), (输入用户信息后，点击“登录”按钮， ), >
+<(SecurityRelativeView ), (myInfoAtMinePg ), >
+<(SecurityRelativeView ), (输入手机号后，点击“注册”按钮 ), >
+<(MinePg ), (点击消息 ), >
+<(MinePg ), (退出成功 ), >
+<(MinePg ), (登录页的访问 ), >
+<(MinePg ), (haveGot_NewYearAct ), >
+<(MinePg ), (IdentityInfo ), >
+<(MinePg ), (startGet_NewYearAct ), >
+<(MinePg ), (WalletPayPasswordVerify ), >
+<(MinePg ), (锁屏页的访问 ), >
+<(MinePg ), (activityAtIdxMainPg ), >
+<(MinePg ), (cashierAtMinePg ), >
+<(MinePg ), (signSucc_NewYearAct ), >
+<(MinePg ), (myMoreAtMinePg ), >
+<(MinePg ), (moduleInLifeStyle ), >
+<(MinePg ), (二维码被扫描成功 ), >
+<(MinePg ), (SecurityRelativeView ), >
+<(MinePg ), (MinePg ), >
+<(MinePg ), (点击各具体权益 ), >
+<(MinePg ), (具体卡详情页的访问 ), >
+<(MinePg ), (点击“确认付款” ), >
+<(MinePg ), (QRCodeView ), >
+<(MinePg ), (MyDownloadView ), >
+<(MinePg ), (PointDetailView ), >
+<(MinePg ), (myRewardAtMinePg ), >
+<(MinePg ), (点击扫一扫 ), >
+<(MinePg ), (手机号已被注册，但是不正确，点击“换个号码，重新注册” ), >
+<(MinePg ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(MinePg ), (判断为需要输入密码 ), >
+<(MinePg ), (指纹识别成功（安卓没有） ), >
+<(MinePg ), (登录成功事件 ), >
+<(MinePg ), (707AtActArea ), >
+<(MinePg ), (访问转账首页 ), >
+<(MinePg ), (Certification ), >
+<(MinePg ), (getSucc_QPReward ), >
+<(MinePg ), (WelcomeView ), >
+<(MinePg ), (点击公缴缴费 ), >
+<(MinePg ), (179AtIdxMainPg ), >
+<(MinePg ), (访问卡管家-卡列表页 ), >
+<(MinePg ), (访问卡包频道页 ), >
+<(MinePg ), (从分析进入明细（6个页面通用） ), >
+<(MinePg ), (进入“手机充值”页面 ), >
+<(MinePg ), (myOrdrAtMinePg ), >
+<(MinePg ), (点击公共缴费 ), >
+<(MinePg ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(MinePg ), (NewUserActPg ), >
+<(MinePg ), (secAtMinePg ), >
+<(MinePg ), (进入消息中心页 ), >
+<(MinePg ), (点击付款 ), >
+<(MinePg ), (MyCostRecordView ), >
+<(MinePg ), (bankCardPrivilege ), >
+<(MinePg ), (Web ), >
+<(MinePg ), (优惠频道页面 ), >
+<(MinePg ), (MoreView ), >
+<(MinePg ), (702AtBanner ), >
+<(MinePg ), (/添加成功（区分两者）" ), >
+<(MinePg ), (进入品牌详情页 ), >
+<(MinePg ), (点击“退出登录” ), >
+<(MinePg ), (guideCancel_NewYearAct ), >
+<(MinePg ), (点击“转账到手机号” ), >
+<(MinePg ), (MyOrderView ), >
+<(MinePg ), (输入身份证信息后，点击“下一步” ), >
+<(MinePg ), (扫描“收款”二维码成功 ), >
+<(MinePg ), (QPRewardPg ), >
+<(MinePg ), (myIDAtMinePg ), >
+<(MinePg ), (输入登录密码后，点击“确认” ), >
+<(MinePg ), (点击“确认支付” ), >
+<(MinePg ), (访问生活频道页 ), >
+<(MinePg ), (输入短信验证码后，点击“确认” ), >
+<(MinePg ), (guidePg_NewYearAct ), >
+<(MinePg ), (btnGift_QPReward ), >
+<(MinePg ), (vMarketingInvtAtMinePg ), >
+<(MinePg ), (MyMessageCenter ), >
+<(MinePg ), (myOrderDetail ), >
+<(MinePg ), (输入用户信息后，点击“登录”按钮， ), >
+<(MinePg ), (点击“确认” ), >
+<(MinePg ), (手势解锁成功 ), >
+<(MinePg ), (NewYearActPg ), >
+<(MinePg ), (RemindView ), >
+<(MinePg ), (473AtIdxMainPg ), >
+<(MinePg ), (登录失败事件 ), >
+<(MinePg ), (点击支付助手 ), >
+<(MinePg ), (702AtIdxMainPg ), >
+<(MinePg ), (luckMonyAtMinePg ), >
+<(MinePg ), (UPQrShowingActivity ), >
+<(MinePg ), (toMerchLst1_QPReward ), >
+<(MinePg ), (点击添加银行卡 ), >
+<(MinePg ), (P2PActPg ), >
+<(MinePg ), (显示开机广告页 ), >
+<(MinePg ), (点击激励金（0119-） ), >
+<(MinePg ), (myInfoAtMinePg ), >
+<(MinePg ), (在转账信息填写页面中，点击“确认转账” ), >
+<(MinePg ), (点击转账 ), >
+<(MinePg ), (MyPointView ), >
+<(MinePg ), (进入优惠详情页（不包含秒杀券） ), >
+<(MinePg ), (输入卡号点击“下一步” ), >
+<(MinePg ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(MinePg ), (billRmdAtMinePg ), >
+<(MinePg ), (MySecuritySettings ), >
+<(MinePg ), (myPntAtMinePg ), >
+<(MinePg ), (点击卡面 ), >
+<(MinePg ), (点击右上方卡列表 ), >
+<(MinePg ), (unuseCpnAtMinePg ), >
+<(MinePg ), (点击手机充值 ), >
+<(MinePg ), (输入手机号后，点击“注册”按钮 ), >
+<(MinePg ), (473AtLifeChnlPg ), >
+<(MyMessageList ), (transDetailPg ), >
+<(MyMessageList ), (点击账单服务 ), >
+<(MyMessageList ), (MinePg ), >
+<(MyMessageList ), (MyMessageList ), >
+<(MyMessageList ), (WelcomeView ), >
+<(MyMessageList ), (访问卡包频道页 ), >
+<(MyMessageList ), (Web ), >
+<(MyMessageList ), (MyMessageCenter ), >
+<(MyMessageList ), (点击支付助手 ), >
+<(MyMessageList ), (显示开机广告页 ), >
+<(MyMessageList ), (进入交易详情（系统）页面 ), >
+<(点击各具体权益 ), (点击各具体权益 ), >
+<(点击各具体权益 ), (访问卡包频道页 ), >
+<(点击各具体权益 ), (Web ), >
+<(点击各具体权益 ), (点击“直达链接”模块中的链接（只有线上有） ), >
+<(点击各具体权益 ), (进入优惠详情页（不包含秒杀券） ), >
+<(703AtIdxMainPg ), (访问卡包频道页 ), >
+<(703AtIdxMainPg ), (NewUserActPg ), >
+<(703AtIdxMainPg ), (Web ), >
+<(creditCardRepayPg ), (访问卡包频道页 ), >
+<(701AtBanner ), (bankConf_P2PActPg ), >
+<(701AtBanner ), (startDraw_P2PActPg ), >
+<(701AtBanner ), (701AtIdxMainPg ), >
+<(701AtBanner ), (访问卡包频道页 ), >
+<(701AtBanner ), (win_P2PActPg ), >
+<(701AtBanner ), (Web ), >
+<(701AtBanner ), (getSoon_P2PActPg ), >
+<(701AtBanner ), (P2PActPg ), >
+<(点击“更多充值”里面的应用 ), (进入“手机充值”页面 ), >
+<(点击“更多充值”里面的应用 ), (Web ), >
+<(具体卡详情页的访问 ), (MyQueryBalance ), >
+<(具体卡详情页的访问 ), (锁屏页的访问 ), >
+<(具体卡详情页的访问 ), (余额查询界面中，点击“查询” ), >
+<(具体卡详情页的访问 ), (MinePg ), >
+<(具体卡详情页的访问 ), (点击各具体权益 ), >
+<(具体卡详情页的访问 ), (具体卡详情页的访问 ), >
+<(具体卡详情页的访问 ), (CardDetailView ), >
+<(具体卡详情页的访问 ), (访问卡管家-卡列表页 ), >
+<(具体卡详情页的访问 ), (访问卡包频道页 ), >
+<(具体卡详情页的访问 ), (从分析进入明细（6个页面通用） ), >
+<(具体卡详情页的访问 ), (卡详情页，点击“实名认证” ), >
+<(具体卡详情页的访问 ), (点击付款 ), >
+<(具体卡详情页的访问 ), (bankCardPrivilege ), >
+<(具体卡详情页的访问 ), (账户余额查询成功 ), >
+<(具体卡详情页的访问 ), (从明细进入分析（6个页面通用） ), >
+<(具体卡详情页的访问 ), (点击添加银行卡 ), >
+<(具体卡详情页的访问 ), (点击开通手机闪付（卡详情页/开户） ), >
+<(具体卡详情页的访问 ), (进入优惠详情页（不包含秒杀券） ), >
+<(具体卡详情页的访问 ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(具体卡详情页的访问 ), (点击卡面 ), >
+<(具体卡详情页的访问 ), (点击右上方卡列表 ), >
+<(serviceAtCouponDtl ), (访问卡包频道页 ), >
+<(serviceAtCouponDtl ), (Web ), >
+<(ShareView ), (haveGot_NewYearAct ), >
+<(ShareView ), (访问卡包频道页 ), >
+<(AccountType ), (访问卡包频道页 ), >
+<(点击“确认付款” ), (WalletPayPlugin ), >
+<(点击“确认付款” ), (（lable为各种失败原因）" ), >
+<(点击“确认付款” ), (WalletPaySuccess ), >
+<(点击“确认付款” ), (QrCodePayOrderDetail ), >
+<(点击“确认付款” ), (点击扫一扫 ), >
+<(点击“确认付款” ), (访问卡包频道页 ), >
+<(点击“确认付款” ), (P2PActPg ), >
+<(点击“确认付款” ), (二维码付款成功 ), >
+<(QRCodeView ), (WalletPayPlugin ), >
+<(QRCodeView ), (（lable为各种失败原因）" ), >
+<(QRCodeView ), (锁屏页的访问 ), >
+<(QRCodeView ), (MinePg ), >
+<(QRCodeView ), (点击“确认付款” ), >
+<(QRCodeView ), (QRCodeView ), >
+<(QRCodeView ), (WalletPaySuccess ), >
+<(QRCodeView ), (QrCodePayOrderDetail ), >
+<(QRCodeView ), (点击扫一扫 ), >
+<(QRCodeView ), (访问卡包频道页 ), >
+<(QRCodeView ), (点击付款 ), >
+<(QRCodeView ), (扫描“收款”二维码成功 ), >
+<(QRCodeView ), (178AtIdxMainPg ), >
+<(QRCodeView ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(QRCodeView ), (二维码付款成功 ), >
+<(MyDownloadView ), (MinePg ), >
+<(MyDownloadView ), (MyDownloadView ), >
+<(MyDownloadView ), (访问卡包频道页 ), >
+<(MyDownloadView ), (Web ), >
+<(MyDownloadView ), (luckMonyAtMinePg ), >
+<(WalletPaySuccess ), (MinePg ), >
+<(WalletPaySuccess ), (WalletPaySuccess ), >
+<(WalletPaySuccess ), (点击扫一扫 ), >
+<(WalletPaySuccess ), (WelcomeView ), >
+<(WalletPaySuccess ), (访问卡包频道页 ), >
+<(WalletPaySuccess ), (myOrdrAtMinePg ), >
+<(WalletPaySuccess ), (Web ), >
+<(WalletPaySuccess ), (MyOrderView ), >
+<(WalletPaySuccess ), (手势解锁成功 ), >
+<(WalletPaySuccess ), (显示开机广告页 ), >
+<(startDraw_P2PActPg ), (haveGot_NewYearAct ), >
+<(startDraw_P2PActPg ), (myReward_P2PActPg ), >
+<(startDraw_P2PActPg ), (activityAtIdxMainPg ), >
+<(startDraw_P2PActPg ), (bankConf_P2PActPg ), >
+<(startDraw_P2PActPg ), (MinePg ), >
+<(startDraw_P2PActPg ), (startDraw_P2PActPg ), >
+<(startDraw_P2PActPg ), (WelcomeView ), >
+<(startDraw_P2PActPg ), (访问卡包频道页 ), >
+<(startDraw_P2PActPg ), (win_P2PActPg ), >
+<(startDraw_P2PActPg ), (Web ), >
+<(startDraw_P2PActPg ), (getSoon_P2PActPg ), >
+<(startDraw_P2PActPg ), (reward_P2PActPg ), >
+<(startDraw_P2PActPg ), (luckMonyAtMinePg ), >
+<(startDraw_P2PActPg ), (P2PActPg ), >
+<(startDraw_P2PActPg ), (显示开机广告页 ), >
+<(startDraw_P2PActPg ), (bankDraw_P2PActPg ), >
+<(CardDetailView ), (MyQueryBalance ), >
+<(CardDetailView ), (NewCard ), >
+<(CardDetailView ), (余额查询界面中，点击“查询” ), >
+<(CardDetailView ), (MinePg ), >
+<(CardDetailView ), (具体卡详情页的访问 ), >
+<(CardDetailView ), (CardDetailView ), >
+<(CardDetailView ), (WelcomeView ), >
+<(CardDetailView ), (访问卡包频道页 ), >
+<(CardDetailView ), (bankCardPrivilege ), >
+<(CardDetailView ), (toVirtualAcctPreview ), >
+<(CardDetailView ), (Web ), >
+<(CardDetailView ), (账户余额查询成功 ), >
+<(CardDetailView ), (手势解锁成功 ), >
+<(CardDetailView ), (显示开机广告页 ), >
+<(CardDetailView ), (点击卡面 ), >
+<(432AtIdxMainPg ), (访问卡包频道页 ), >
+<(QrCodePayOrderDetail ), (WalletPayPlugin ), >
+<(QrCodePayOrderDetail ), (WalletPaySuccess ), >
+<(QrCodePayOrderDetail ), (QrCodePayOrderDetail ), >
+<(QrCodePayOrderDetail ), (点击扫一扫 ), >
+<(QrCodePayOrderDetail ), (访问卡包频道页 ), >
+<(QrCodePayOrderDetail ), (myOrdrAtMinePg ), >
+<(QrCodePayOrderDetail ), (显示开机广告页 ), >
+<(QrCodePayOrderDetail ), (二维码付款成功 ), >
+<(GuideBindCard ), (输入卡要素，点击下一步 ), >
+<(GuideBindCard ), (输入短信验证码，点击下一步 ), >
+<(GuideBindCard ), (/添加成功（区分两者）" ), >
+<(GuideBindCard ), (输入身份证信息后，点击“下一步” ), >
+<(GuideBindCard ), (输入卡号点击“下一步” ), >
+<(toRealName_NewYearAct ), (Certification ), >
+<(toRealName_NewYearAct ), (Web ), >
+<(toRealName_NewYearAct ), (输入身份证信息后，点击“下一步” ), >
+<(toRealName_NewYearAct ), (输入卡号点击“下一步” ), >
+<(PointDetailView ), (退出成功 ), >
+<(PointDetailView ), (haveGot_NewYearAct ), >
+<(PointDetailView ), (锁屏页的访问 ), >
+<(PointDetailView ), (activityAtIdxMainPg ), >
+<(PointDetailView ), (MinePg ), >
+<(PointDetailView ), (PointDetailView ), >
+<(PointDetailView ), (WelcomeView ), >
+<(PointDetailView ), (访问卡包频道页 ), >
+<(PointDetailView ), (进入“手机充值”页面 ), >
+<(PointDetailView ), (Web ), >
+<(PointDetailView ), (优惠频道页面 ), >
+<(PointDetailView ), (点击“退出登录” ), >
+<(PointDetailView ), (点击“确认支付” ), >
+<(PointDetailView ), (访问生活频道页 ), >
+<(PointDetailView ), (点击“确认” ), >
+<(PointDetailView ), (手势解锁成功 ), >
+<(PointDetailView ), (luckMonyAtMinePg ), >
+<(PointDetailView ), (显示开机广告页 ), >
+<(PointDetailView ), (myInfoAtMinePg ), >
+<(PointDetailView ), (点击手机充值 ), >
+<(PointDetailView ), (473AtLifeChnlPg ), >
+<(myRewardAtMinePg ), (MinePg ), >
+<(myRewardAtMinePg ), (QPRewardPg ), >
+<(myRewardAtMinePg ), (luckMonyAtMinePg ), >
+<(点击扫一扫 ), (点击“确认付款” ), >
+<(点击扫一扫 ), (QRCodeView ), >
+<(点击扫一扫 ), (QrCodePayOrderDetail ), >
+<(点击扫一扫 ), (WelcomeView ), >
+<(点击扫一扫 ), (访问卡包频道页 ), >
+<(点击扫一扫 ), (点击“相册” ), >
+<(点击扫一扫 ), (扫描“收款”二维码成功 ), >
+<(点击扫一扫 ), (178AtIdxMainPg ), >
+<(手机号已被注册，但是不正确，点击“换个号码，重新注册” ), (登录页的访问 ), >
+<(手机号已被注册，但是不正确，点击“换个号码，重新注册” ), (Web ), >
+<(手机号已被注册，但是不正确，点击“换个号码，重新注册” ), (输入登录密码后，点击“确认” ), >
+<(手机号已被注册，但是不正确，点击“换个号码，重新注册” ), (输入短信验证码后，点击“确认” ), >
+<(手机号已被注册，但是不正确，点击“换个号码，重新注册” ), (注册成功事件 ), >
+<(手机号已被注册，但是不正确，点击“换个号码，重新注册” ), (输入手机号后，点击“注册”按钮 ), >
+<(登陆界面，用户输入用户名且至少输入一位时 ), (登录页的访问 ), >
+<(登陆界面，用户输入用户名且至少输入一位时 ), (MinePg ), >
+<(登陆界面，用户输入用户名且至少输入一位时 ), (手机号已被注册，但是不正确，点击“换个号码，重新注册” ), >
+<(登陆界面，用户输入用户名且至少输入一位时 ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(登陆界面，用户输入用户名且至少输入一位时 ), (登录成功事件 ), >
+<(登陆界面，用户输入用户名且至少输入一位时 ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(登陆界面，用户输入用户名且至少输入一位时 ), (输入短信验证码后，点击“确认” ), >
+<(登陆界面，用户输入用户名且至少输入一位时 ), (LoginMobileCheck ), >
+<(登陆界面，用户输入用户名且至少输入一位时 ), (输入用户信息后，点击“登录”按钮， ), >
+<(登陆界面，用户输入用户名且至少输入一位时 ), (登录失败事件 ), >
+<(登陆界面，用户输入用户名且至少输入一位时 ), (SetPatternView ), >
+<(登陆界面，用户输入用户名且至少输入一位时 ), (输入手机号后，点击“注册”按钮 ), >
+<(判断为需要输入密码 ), (UPQRPaySuccessActivity ), >
+<(判断为需要输入密码 ), (锁屏页的访问 ), >
+<(判断为需要输入密码 ), (activityAtIdxMainPg ), >
+<(判断为需要输入密码 ), (MinePg ), >
+<(判断为需要输入密码 ), (179AtIdxMainPg ), >
+<(判断为需要输入密码 ), (访问卡包频道页 ), >
+<(判断为需要输入密码 ), (点击付款 ), >
+<(判断为需要输入密码 ), (需要输密码时，付款成功 ), >
+<(判断为需要输入密码 ), (手势解锁成功 ), >
+<(判断为需要输入密码 ), (UPQrShowingActivity ), >
+<(判断为需要输入密码 ), (显示开机广告页 ), >
+<(判断为需要输入密码 ), (myInfoAtMinePg ), >
+<(判断为需要输入密码 ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(指纹识别成功（安卓没有） ), (haveGot_NewYearAct ), >
+<(指纹识别成功（安卓没有） ), (锁屏页的访问 ), >
+<(指纹识别成功（安卓没有） ), (activityAtIdxMainPg ), >
+<(指纹识别成功（安卓没有） ), (MinePg ), >
+<(指纹识别成功（安卓没有） ), (指纹识别成功（安卓没有） ), >
+<(指纹识别成功（安卓没有） ), (179AtIdxMainPg ), >
+<(指纹识别成功（安卓没有） ), (访问卡包频道页 ), >
+<(指纹识别成功（安卓没有） ), (点击付款 ), >
+<(指纹识别成功（安卓没有） ), (优惠频道页面 ), >
+<(指纹识别成功（安卓没有） ), (guideCancel_NewYearAct ), >
+<(指纹识别成功（安卓没有） ), (guidePg_NewYearAct ), >
+<(指纹识别成功（安卓没有） ), (NewYearActPg ), >
+<(指纹识别成功（安卓没有） ), (getSoon_NewYearAct ), >
+<(指纹识别成功（安卓没有） ), (700AtIdxMainPg ), >
+<(登录成功事件 ), (登录页的访问 ), >
+<(登录成功事件 ), (haveGot_NewYearAct ), >
+<(登录成功事件 ), (startGet_NewYearAct ), >
+<(登录成功事件 ), (activityAtIdxMainPg ), >
+<(登录成功事件 ), (MinePg ), >
+<(登录成功事件 ), (GuideBindCard ), >
+<(登录成功事件 ), (访问卡包频道页 ), >
+<(登录成功事件 ), (myOrdrAtMinePg ), >
+<(登录成功事件 ), (点击付款 ), >
+<(登录成功事件 ), (Web ), >
+<(登录成功事件 ), (输入身份证信息后，点击“下一步” ), >
+<(登录成功事件 ), (NewYearActPg ), >
+<(登录成功事件 ), (luckMonyAtMinePg ), >
+<(登录成功事件 ), (点击添加银行卡 ), >
+<(登录成功事件 ), (输入卡号点击“下一步” ), >
+<(登录成功事件 ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(701AtIdxMainPg ), (bankConf_P2PActPg ), >
+<(701AtIdxMainPg ), (startDraw_P2PActPg ), >
+<(701AtIdxMainPg ), (访问卡包频道页 ), >
+<(701AtIdxMainPg ), (win_P2PActPg ), >
+<(701AtIdxMainPg ), (Web ), >
+<(701AtIdxMainPg ), (getSoon_P2PActPg ), >
+<(701AtIdxMainPg ), (P2PActPg ), >
+<(707AtActArea ), (wantInvite_NewUserAct ), >
+<(707AtActArea ), (707AtIdxMainPg ), >
+<(707AtActArea ), (访问卡包频道页 ), >
+<(707AtActArea ), (NewUserActPg ), >
+<(707AtActArea ), (Web ), >
+<(707AtActArea ), (startDraw_NewUserAct ), >
+<(drawReord_NewUserAct ), (访问卡包频道页 ), >
+<(drawReord_NewUserAct ), (Web ), >
+<(城市列表页 ), (登录页的访问 ), >
+<(城市列表页 ), (锁屏页的访问 ), >
+<(城市列表页 ), (activityAtIdxMainPg ), >
+<(城市列表页 ), (MinePg ), >
+<(城市列表页 ), (手机号已被注册，但是不正确，点击“换个号码，重新注册” ), >
+<(城市列表页 ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(城市列表页 ), (城市列表页 ), >
+<(城市列表页 ), (WelcomeView ), >
+<(城市列表页 ), (访问卡包频道页 ), >
+<(城市列表页 ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(城市列表页 ), (点击付款 ), >
+<(城市列表页 ), (优惠频道页面 ), >
+<(城市列表页 ), (702AtBanner ), >
+<(城市列表页 ), (输入用户信息后，点击“登录”按钮， ), >
+<(城市列表页 ), (手势解锁成功 ), >
+<(城市列表页 ), (702AtIdxMainPg ), >
+<(城市列表页 ), (请登录你的账户 ), >
+<(城市列表页 ), (myInfoAtMinePg ), >
+<(访问转账首页 ), (haveGot_NewYearAct ), >
+<(访问转账首页 ), (WalletPayPasswordVerify ), >
+<(访问转账首页 ), (activityAtIdxMainPg ), >
+<(访问转账首页 ), (MinePg ), >
+<(访问转账首页 ), (701AtBanner ), >
+<(访问转账首页 ), (startDraw_P2PActPg ), >
+<(访问转账首页 ), (701AtIdxMainPg ), >
+<(访问转账首页 ), (访问转账首页 ), >
+<(访问转账首页 ), (访问卡包频道页 ), >
+<(访问转账首页 ), (Web ), >
+<(访问转账首页 ), (点击“转账到手机号” ), >
+<(访问转账首页 ), (转账成功页，点击banner（营销入口） ), >
+<(访问转账首页 ), (转账成功 ), >
+<(访问转账首页 ), (P2PActPg ), >
+<(访问转账首页 ), (在转账信息填写页面中，点击“确认转账” ), >
+<(访问转账首页 ), (点击转账 ), >
+<(Certification ), (startGet_NewYearAct ), >
+<(Certification ), (toPayAuth_NewYearAct ), >
+<(Certification ), (activityAtIdxMainPg ), >
+<(Certification ), (openSucc_NewYearAct ), >
+<(Certification ), (MinePg ), >
+<(Certification ), (Certification ), >
+<(Certification ), (ScanPanView ), >
+<(Certification ), (WelcomeView ), >
+<(Certification ), (输入卡要素，点击下一步 ), >
+<(Certification ), (访问卡包频道页 ), >
+<(Certification ), (输入短信验证码，点击下一步 ), >
+<(Certification ), (Web ), >
+<(Certification ), (/添加成功（区分两者）" ), >
+<(Certification ), (输入身份证信息后，点击“下一步” ), >
+<(Certification ), (进入设置支付密码页面 ), >
+<(Certification ), (NewYearActPg ), >
+<(Certification ), (支付密码设置成功 ), >
+<(Certification ), (显示开机广告页 ), >
+<(Certification ), (PayPasswordInput ), >
+<(Certification ), (输入卡号点击“下一步” ), >
+<(Certification ), (银联支付开通成功 ), >
+<(getSucc_QPReward ), (MinePg ), >
+<(getSucc_QPReward ), (访问卡包频道页 ), >
+<(getSucc_QPReward ), (Web ), >
+<(getSucc_QPReward ), (QPRewardPg ), >
+<(ScanPanView ), (Certification ), >
+<(ScanPanView ), (输入卡号点击“下一步” ), >
+<(WelcomeView ), (点击消息 ), >
+<(WelcomeView ), (登录页的访问 ), >
+<(WelcomeView ), (锁屏页的访问 ), >
+<(WelcomeView ), (transDetailPg ), >
+<(WelcomeView ), (activityAtIdxMainPg ), >
+<(WelcomeView ), (LifeAppDelegate ), >
+<(WelcomeView ), (MinePg ), >
+<(WelcomeView ), (点击各具体权益 ), >
+<(WelcomeView ), (点击“确认付款” ), >
+<(WelcomeView ), (QRCodeView ), >
+<(WelcomeView ), (点击扫一扫 ), >
+<(WelcomeView ), (手机号已被注册，但是不正确，点击“换个号码，重新注册” ), >
+<(WelcomeView ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(WelcomeView ), (登录成功事件 ), >
+<(WelcomeView ), (城市列表页 ), >
+<(WelcomeView ), (WelcomeView ), >
+<(WelcomeView ), (访问卡包频道页 ), >
+<(WelcomeView ), (myOrdrAtMinePg ), >
+<(WelcomeView ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(WelcomeView ), (点击付款 ), >
+<(WelcomeView ), (Web ), >
+<(WelcomeView ), (城市选择成功 ), >
+<(WelcomeView ), (优惠频道页面 ), >
+<(WelcomeView ), (702AtBanner ), >
+<(WelcomeView ), (guideCancel_NewYearAct ), >
+<(WelcomeView ), (扫描“收款”二维码成功 ), >
+<(WelcomeView ), (guidePg_NewYearAct ), >
+<(WelcomeView ), (输入用户信息后，点击“登录”按钮， ), >
+<(WelcomeView ), (手势解锁成功 ), >
+<(WelcomeView ), (NewYearActPg ), >
+<(WelcomeView ), (登录失败事件 ), >
+<(WelcomeView ), (702AtIdxMainPg ), >
+<(WelcomeView ), (请登录你的账户 ), >
+<(WelcomeView ), (luckMonyAtMinePg ), >
+<(WelcomeView ), (显示开机广告页 ), >
+<(WelcomeView ), (myInfoAtMinePg ), >
+<(WelcomeView ), (锁屏时-点击“登录其他账户” ), >
+<(WelcomeView ), (点击转账 ), >
+<(WelcomeView ), (二维码付款成功 ), >
+<(WelcomeView ), (进入交易详情（系统）页面 ), >
+<(WelcomeView ), (TutorialView ), >
+<(WelcomeView ), (点击卡面 ), >
+<(WelcomeView ), (点击手机充值 ), >
+<(WelcomeView ), (输入手机号后，点击“注册”按钮 ), >
+<(点击公缴缴费 ), (moduleInLifeStyle ), >
+<(点击公缴缴费 ), (Web ), >
+<(点击公缴缴费 ), (访问生活频道页 ), >
+<(179AtIdxMainPg ), (二维码被扫描成功 ), >
+<(179AtIdxMainPg ), (判断为需要输入密码 ), >
+<(179AtIdxMainPg ), (访问卡包频道页 ), >
+<(179AtIdxMainPg ), (点击付款 ), >
+<(179AtIdxMainPg ), (手势解锁成功 ), >
+<(179AtIdxMainPg ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(访问卡管家-卡列表页 ), (toBankCardLst ), >
+<(访问卡管家-卡列表页 ), (访问卡包频道页 ), >
+<(访问卡管家-卡列表页 ), (toVirtualAcctPreview ), >
+<(输入卡要素，点击下一步 ), (Certification ), >
+<(输入卡要素，点击下一步 ), (输入卡要素，点击下一步 ), >
+<(输入卡要素，点击下一步 ), (访问卡包频道页 ), >
+<(输入卡要素，点击下一步 ), (输入短信验证码，点击下一步 ), >
+<(输入卡要素，点击下一步 ), (进入设置支付密码页面 ), >
+<(输入卡要素，点击下一步 ), (支付密码设置成功 ), >
+<(输入卡要素，点击下一步 ), (银联支付开通成功 ), >
+<(访问卡包频道页 ), (wantInvite_NewUserAct ), >
+<(访问卡包频道页 ), (点击消息 ), >
+<(访问卡包频道页 ), (WalletPayPlugin ), >
+<(访问卡包频道页 ), (432AtActTheme ), >
+<(访问卡包频道页 ), (点击还款 ), >
+<(访问卡包频道页 ), (退出成功 ), >
+<(访问卡包频道页 ), (登录页的访问 ), >
+<(访问卡包频道页 ), (haveGot_NewYearAct ), >
+<(访问卡包频道页 ), (startGet_NewYearAct ), >
+<(访问卡包频道页 ), (myReward_P2PActPg ), >
+<(访问卡包频道页 ), (inviteReord_NewUserAct ), >
+<(访问卡包频道页 ), (WalletPayPasswordVerify ), >
+<(访问卡包频道页 ), (win_NewUserAct ), >
+<(访问卡包频道页 ), (点击卡片区域 ), >
+<(访问卡包频道页 ), (toPayAuth_NewYearAct ), >
+<(访问卡包频道页 ), (锁屏页的访问 ), >
+<(访问卡包频道页 ), (signShare_NewYearAct ), >
+<(访问卡包频道页 ), (transDetailPg ), >
+<(访问卡包频道页 ), (activityAtIdxMainPg ), >
+<(访问卡包频道页 ), (余额查询界面中，点击“查询” ), >
+<(访问卡包频道页 ), (signSucc_NewYearAct ), >
+<(访问卡包频道页 ), (myMoreAtMinePg ), >
+<(访问卡包频道页 ), (openSucc_NewYearAct ), >
+<(访问卡包频道页 ), (200AtIdxMainPg ), >
+<(访问卡包频道页 ), (点击账单服务 ), >
+<(访问卡包频道页 ), (bankConf_P2PActPg ), >
+<(访问卡包频道页 ), (LifeAppDelegate ), >
+<(访问卡包频道页 ), (moduleInLifeStyle ), >
+<(访问卡包频道页 ), (toBankCardLst ), >
+<(访问卡包频道页 ), (二维码被扫描成功 ), >
+<(访问卡包频道页 ), (703AtBanner ), >
+<(访问卡包频道页 ), (点击开户 ), >
+<(访问卡包频道页 ), (SecurityRelativeView ), >
+<(访问卡包频道页 ), (MinePg ), >
+<(访问卡包频道页 ), (MyMessageList ), >
+<(访问卡包频道页 ), (点击各具体权益 ), >
+<(访问卡包频道页 ), (703AtIdxMainPg ), >
+<(访问卡包频道页 ), (701AtBanner ), >
+<(访问卡包频道页 ), (点击“更多充值”里面的应用 ), >
+<(访问卡包频道页 ), (具体卡详情页的访问 ), >
+<(访问卡包频道页 ), (serviceAtCouponDtl ), >
+<(访问卡包频道页 ), (ShareView ), >
+<(访问卡包频道页 ), (AccountType ), >
+<(访问卡包频道页 ), (点击“确认付款” ), >
+<(访问卡包频道页 ), (QRCodeView ), >
+<(访问卡包频道页 ), (MyDownloadView ), >
+<(访问卡包频道页 ), (startDraw_P2PActPg ), >
+<(访问卡包频道页 ), (CardDetailView ), >
+<(访问卡包频道页 ), (432AtIdxMainPg ), >
+<(访问卡包频道页 ), (QrCodePayOrderDetail ), >
+<(访问卡包频道页 ), (toRealName_NewYearAct ), >
+<(访问卡包频道页 ), (PointDetailView ), >
+<(访问卡包频道页 ), (myRewardAtMinePg ), >
+<(访问卡包频道页 ), (点击扫一扫 ), >
+<(访问卡包频道页 ), (手机号已被注册，但是不正确，点击“换个号码，重新注册” ), >
+<(访问卡包频道页 ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(访问卡包频道页 ), (判断为需要输入密码 ), >
+<(访问卡包频道页 ), (指纹识别成功（安卓没有） ), >
+<(访问卡包频道页 ), (登录成功事件 ), >
+<(访问卡包频道页 ), (701AtIdxMainPg ), >
+<(访问卡包频道页 ), (707AtActArea ), >
+<(访问卡包频道页 ), (drawReord_NewUserAct ), >
+<(访问卡包频道页 ), (城市列表页 ), >
+<(访问卡包频道页 ), (访问转账首页 ), >
+<(访问卡包频道页 ), (Certification ), >
+<(访问卡包频道页 ), (getSucc_QPReward ), >
+<(访问卡包频道页 ), (WelcomeView ), >
+<(访问卡包频道页 ), (点击公缴缴费 ), >
+<(访问卡包频道页 ), (179AtIdxMainPg ), >
+<(访问卡包频道页 ), (访问卡管家-卡列表页 ), >
+<(访问卡包频道页 ), (输入卡要素，点击下一步 ), >
+<(访问卡包频道页 ), (访问卡包频道页 ), >
+<(访问卡包频道页 ), (输入短信验证码，点击下一步 ), >
+<(访问卡包频道页 ), (从分析进入明细（6个页面通用） ), >
+<(访问卡包频道页 ), (进入“手机充值”页面 ), >
+<(访问卡包频道页 ), (myOrdrAtMinePg ), >
+<(访问卡包频道页 ), (点击公共缴费 ), >
+<(访问卡包频道页 ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(访问卡包频道页 ), (NewUserActPg ), >
+<(访问卡包频道页 ), (secAtMinePg ), >
+<(访问卡包频道页 ), (进入消息中心页 ), >
+<(访问卡包频道页 ), (卡详情页，点击“实名认证” ), >
+<(访问卡包频道页 ), (点击付款 ), >
+<(访问卡包频道页 ), (进入门店详情页 ), >
+<(访问卡包频道页 ), (点击商城 ), >
+<(访问卡包频道页 ), (goodsDetlPg ), >
+<(访问卡包频道页 ), (MyCostRecordView ), >
+<(访问卡包频道页 ), (添加银行卡成功 ), >
+<(访问卡包频道页 ), (bankCardPrivilege ), >
+<(访问卡包频道页 ), (toVirtualAcctPreview ), >
+<(访问卡包频道页 ), (win_P2PActPg ), >
+<(访问卡包频道页 ), (Web ), >
+<(访问卡包频道页 ), (城市选择成功 ), >
+<(访问卡包频道页 ), (优惠频道页面 ), >
+<(访问卡包频道页 ), (MoreView ), >
+<(访问卡包频道页 ), (702AtBanner ), >
+<(访问卡包频道页 ), (手机充值，支付成功 ), >
+<(访问卡包频道页 ), (点击“相册” ), >
+<(访问卡包频道页 ), (/添加成功（区分两者）" ), >
+<(访问卡包频道页 ), (进入品牌详情页 ), >
+<(访问卡包频道页 ), (startDraw_NewUserAct ), >
+<(访问卡包频道页 ), (点击“退出登录” ), >
+<(访问卡包频道页 ), (需要输密码时，付款成功 ), >
+<(访问卡包频道页 ), (guideCancel_NewYearAct ), >
+<(访问卡包频道页 ), (点击“转账到手机号” ), >
+<(访问卡包频道页 ), (MyOrderView ), >
+<(访问卡包频道页 ), (youhui_share ), >
+<(访问卡包频道页 ), (输入身份证信息后，点击“下一步” ), >
+<(访问卡包频道页 ), (转账成功页，点击banner（营销入口） ), >
+<(访问卡包频道页 ), (扫描“收款”二维码成功 ), >
+<(访问卡包频道页 ), (QPRewardPg ), >
+<(访问卡包频道页 ), (myIDAtMinePg ), >
+<(访问卡包频道页 ), (点击“线上” ), >
+<(访问卡包频道页 ), (账户余额查询成功 ), >
+<(访问卡包频道页 ), (点击“确认支付” ), >
+<(访问卡包频道页 ), (178AtIdxMainPg ), >
+<(访问卡包频道页 ), (点击家乐福 ), >
+<(访问卡包频道页 ), (访问生活频道页 ), >
+<(访问卡包频道页 ), (输入短信验证码后，点击“确认” ), >
+<(访问卡包频道页 ), (guidePg_NewYearAct ), >
+<(访问卡包频道页 ), (点击“通讯录”头像 ), >
+<(访问卡包频道页 ), (getSoon_P2PActPg ), >
+<(访问卡包频道页 ), (从明细进入分析（6个页面通用） ), >
+<(访问卡包频道页 ), (btnGift_QPReward ), >
+<(访问卡包频道页 ), (vMarketingInvtAtMinePg ), >
+<(访问卡包频道页 ), (MyMessageCenter ), >
+<(访问卡包频道页 ), (点击“扫码付” ), >
+<(访问卡包频道页 ), (myOrderDetail ), >
+<(访问卡包频道页 ), (点击收款 ), >
+<(访问卡包频道页 ), (输入用户信息后，点击“登录”按钮， ), >
+<(访问卡包频道页 ), (点击“确认” ), >
+<(访问卡包频道页 ), (手势解锁成功 ), >
+<(访问卡包频道页 ), (手机充值，支付失败 ), >
+<(访问卡包频道页 ), (NewYearActPg ), >
+<(访问卡包频道页 ), (473AtIdxMainPg ), >
+<(访问卡包频道页 ), (登录失败事件 ), >
+<(访问卡包频道页 ), (点击“直达链接”模块中的链接（只有线上有） ), >
+<(访问卡包频道页 ), (收款成功 ), >
+<(访问卡包频道页 ), (进入收款页面 ), >
+<(访问卡包频道页 ), (697AtIdxMainPg ), >
+<(访问卡包频道页 ), (转账成功 ), >
+<(访问卡包频道页 ), (orderApply ), >
+<(访问卡包频道页 ), (InMallHome ), >
+<(访问卡包频道页 ), (点击支付助手 ), >
+<(访问卡包频道页 ), (702AtIdxMainPg ), >
+<(访问卡包频道页 ), (请登录你的账户 ), >
+<(访问卡包频道页 ), (点击选卡 ), >
+<(访问卡包频道页 ), (reward_P2PActPg ), >
+<(访问卡包频道页 ), (luckMonyAtMinePg ), >
+<(访问卡包频道页 ), (UPQrShowingActivity ), >
+<(访问卡包频道页 ), (点击卡面（拍照识别卡） ), >
+<(访问卡包频道页 ), (toMerchLst1_QPReward ), >
+<(访问卡包频道页 ), (违章代办，点击“确认支付”后，选择“银联钱包支付” ), >
+<(访问卡包频道页 ), (708AtActArea ), >
+<(访问卡包频道页 ), (点击添加银行卡 ), >
+<(访问卡包频道页 ), (P2PActPg ), >
+<(访问卡包频道页 ), (点击曹操专车（充100得125）0105-0123 ), >
+<(访问卡包频道页 ), (显示开机广告页 ), >
+<(访问卡包频道页 ), (点击激励金（0119-） ), >
+<(访问卡包频道页 ), (bankDraw_P2PActPg ), >
+<(访问卡包频道页 ), (getSoon_NewYearAct ), >
+<(访问卡包频道页 ), (myInfoAtMinePg ), >
+<(访问卡包频道页 ), (锁屏时-点击“登录其他账户” ), >
+<(访问卡包频道页 ), (点击开通手机闪付（卡详情页/开户） ), >
+<(访问卡包频道页 ), (点击周边优惠 ), >
+<(访问卡包频道页 ), (在转账信息填写页面中，点击“确认转账” ), >
+<(访问卡包频道页 ), (点击转账 ), >
+<(访问卡包频道页 ), (进入优惠详情页（不包含秒杀券） ), >
+<(访问卡包频道页 ), (输入卡号点击“下一步” ), >
+<(访问卡包频道页 ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(访问卡包频道页 ), (二维码付款成功 ), >
+<(访问卡包频道页 ), (进入交易详情（系统）页面 ), >
+<(访问卡包频道页 ), (700AtIdxMainPg ), >
+<(访问卡包频道页 ), (billRmdAtMinePg ), >
+<(访问卡包频道页 ), (myPntAtMinePg ), >
+<(访问卡包频道页 ), (点击搜索 ), >
+<(访问卡包频道页 ), (TutorialView ), >
+<(访问卡包频道页 ), (点击卡面 ), >
+<(访问卡包频道页 ), (点击右上方卡列表 ), >
+<(访问卡包频道页 ), (unuseCpnAtMinePg ), >
+<(访问卡包频道页 ), (具体优惠券详情页的访问 ), >
+<(访问卡包频道页 ), (点击手机充值 ), >
+<(访问卡包频道页 ), (输入手机号后，点击“注册”按钮 ), >
+<(访问卡包频道页 ), (473AtLifeChnlPg ), >
+<(输入短信验证码，点击下一步 ), (Certification ), >
+<(输入短信验证码，点击下一步 ), (访问卡包频道页 ), >
+<(输入短信验证码，点击下一步 ), (输入短信验证码，点击下一步 ), >
+<(输入短信验证码，点击下一步 ), (进入设置支付密码页面 ), >
+<(输入短信验证码，点击下一步 ), (支付密码设置成功 ), >
+<(输入短信验证码，点击下一步 ), (PayPasswordInput ), >
+<(输入短信验证码，点击下一步 ), (银联支付开通成功 ), >
+<(从分析进入明细（6个页面通用） ), (具体卡详情页的访问 ), >
+<(从分析进入明细（6个页面通用） ), (CardDetailView ), >
+<(从分析进入明细（6个页面通用） ), (访问卡包频道页 ), >
+<(从分析进入明细（6个页面通用） ), (bankCardPrivilege ), >
+<(从分析进入明细（6个页面通用） ), (从明细进入分析（6个页面通用） ), >
+<(进入“手机充值”页面 ), (haveGot_NewYearAct ), >
+<(进入“手机充值”页面 ), (锁屏页的访问 ), >
+<(进入“手机充值”页面 ), (activityAtIdxMainPg ), >
+<(进入“手机充值”页面 ), (MinePg ), >
+<(进入“手机充值”页面 ), (点击“更多充值”里面的应用 ), >
+<(进入“手机充值”页面 ), (WelcomeView ), >
+<(进入“手机充值”页面 ), (访问卡包频道页 ), >
+<(进入“手机充值”页面 ), (进入“手机充值”页面 ), >
+<(进入“手机充值”页面 ), (Web ), >
+<(进入“手机充值”页面 ), (手机充值，支付成功 ), >
+<(进入“手机充值”页面 ), (点击“确认支付” ), >
+<(进入“手机充值”页面 ), (访问生活频道页 ), >
+<(进入“手机充值”页面 ), (点击“通讯录”头像 ), >
+<(进入“手机充值”页面 ), (手机充值，支付失败 ), >
+<(进入“手机充值”页面 ), (点击“充值记录” ), >
+<(进入“手机充值”页面 ), (luckMonyAtMinePg ), >
+<(进入“手机充值”页面 ), (违章代办，点击“确认支付”后，选择“银联钱包支付” ), >
+<(进入“手机充值”页面 ), (显示开机广告页 ), >
+<(进入“手机充值”页面 ), (点击手机充值 ), >
+<(myOrdrAtMinePg ), (MinePg ), >
+<(myOrdrAtMinePg ), (访问卡包频道页 ), >
+<(myOrdrAtMinePg ), (myOrdrAtMinePg ), >
+<(myOrdrAtMinePg ), (点击付款 ), >
+<(myOrdrAtMinePg ), (Web ), >
+<(myOrdrAtMinePg ), (MyOrderView ), >
+<(myOrdrAtMinePg ), (myOrderDetail ), >
+<(myOrdrAtMinePg ), (显示开机广告页 ), >
+<(myOrdrAtMinePg ), (myInfoAtMinePg ), >
+<(点击公共缴费 ), (moduleInLifeStyle ), >
+<(点击公共缴费 ), (访问卡包频道页 ), >
+<(点击公共缴费 ), (Web ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), (登录页的访问 ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), (activityAtIdxMainPg ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), (MinePg ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), (手机号已被注册，但是不正确，点击“换个号码，重新注册” ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), (登录成功事件 ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), (访问卡包频道页 ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), (点击付款 ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), (LoginMobileCheck ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), (输入用户信息后，点击“登录”按钮， ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), (登录失败事件 ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), (SetPatternView ), >
+<(登陆界面，用户输入密码且至少输入一位时 ), (输入手机号后，点击“注册”按钮 ), >
+<(NewUserActPg ), (wantInvite_NewUserAct ), >
+<(NewUserActPg ), (haveGot_NewYearAct ), >
+<(NewUserActPg ), (inviteReord_NewUserAct ), >
+<(NewUserActPg ), (win_NewUserAct ), >
+<(NewUserActPg ), (activityAtIdxMainPg ), >
+<(NewUserActPg ), (MinePg ), >
+<(NewUserActPg ), (ShareView ), >
+<(NewUserActPg ), (drawReord_NewUserAct ), >
+<(NewUserActPg ), (WelcomeView ), >
+<(NewUserActPg ), (访问卡包频道页 ), >
+<(NewUserActPg ), (NewUserActPg ), >
+<(NewUserActPg ), (Web ), >
+<(NewUserActPg ), (startDraw_NewUserAct ), >
+<(NewUserActPg ), (youhui_share ), >
+<(NewUserActPg ), (luckMonyAtMinePg ), >
+<(NewUserActPg ), (P2PActPg ), >
+<(NewUserActPg ), (显示开机广告页 ), >
+<(secAtMinePg ), (MinePg ), >
+<(secAtMinePg ), (MySecuritySettings ), >
+<(进入消息中心页 ), (transDetailPg ), >
+<(进入消息中心页 ), (点击账单服务 ), >
+<(进入消息中心页 ), (MyMessageList ), >
+<(进入消息中心页 ), (访问卡包频道页 ), >
+<(进入消息中心页 ), (进入消息中心页 ), >
+<(进入消息中心页 ), (MyMessageCenter ), >
+<(进入消息中心页 ), (点击支付助手 ), >
+<(卡详情页，点击“实名认证” ), (CardDetailView ), >
+<(卡详情页，点击“实名认证” ), (访问卡包频道页 ), >
+<(点击付款 ), (二维码被扫描成功 ), >
+<(点击付款 ), (判断为需要输入密码 ), >
+<(点击付款 ), (179AtIdxMainPg ), >
+<(点击付款 ), (访问卡包频道页 ), >
+<(点击付款 ), (点击付款 ), >
+<(点击付款 ), (需要输密码时，付款成功 ), >
+<(点击付款 ), (UPQrShowingActivity ), >
+<(点击付款 ), (显示开机广告页 ), >
+<(点击付款 ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(进入门店详情页 ), (访问卡包频道页 ), >
+<(进入门店详情页 ), (进入门店详情页 ), >
+<(进入门店详情页 ), (Web ), >
+<(点击商城 ), (访问卡包频道页 ), >
+<(点击商城 ), (Web ), >
+<(点击商城 ), (InMallHome ), >
+<(goodsDetlPg ), (访问卡包频道页 ), >
+<(goodsDetlPg ), (goodsDetlPg ), >
+<(goodsDetlPg ), (Web ), >
+<(goodsDetlPg ), (orderApply ), >
+<(MyCostRecordView ), (haveGot_NewYearAct ), >
+<(MyCostRecordView ), (锁屏页的访问 ), >
+<(MyCostRecordView ), (activityAtIdxMainPg ), >
+<(MyCostRecordView ), (MinePg ), >
+<(MyCostRecordView ), (访问卡包频道页 ), >
+<(MyCostRecordView ), (进入“手机充值”页面 ), >
+<(MyCostRecordView ), (MyCostRecordView ), >
+<(MyCostRecordView ), (luckMonyAtMinePg ), >
+<(添加银行卡成功 ), (Certification ), >
+<(添加银行卡成功 ), (输入卡要素，点击下一步 ), >
+<(添加银行卡成功 ), (访问卡包频道页 ), >
+<(添加银行卡成功 ), (输入短信验证码，点击下一步 ), >
+<(添加银行卡成功 ), (进入设置支付密码页面 ), >
+<(添加银行卡成功 ), (银联支付开通成功 ), >
+<(bankCardPrivilege ), (MyQueryBalance ), >
+<(bankCardPrivilege ), (余额查询界面中，点击“查询” ), >
+<(bankCardPrivilege ), (具体卡详情页的访问 ), >
+<(bankCardPrivilege ), (CardDetailView ), >
+<(bankCardPrivilege ), (访问卡包频道页 ), >
+<(bankCardPrivilege ), (从分析进入明细（6个页面通用） ), >
+<(bankCardPrivilege ), (卡详情页，点击“实名认证” ), >
+<(bankCardPrivilege ), (bankCardPrivilege ), >
+<(toVirtualAcctPreview ), (NewCard ), >
+<(toVirtualAcctPreview ), (toBankCardLst ), >
+<(toVirtualAcctPreview ), (具体卡详情页的访问 ), >
+<(toVirtualAcctPreview ), (访问卡包频道页 ), >
+<(toVirtualAcctPreview ), (bankCardPrivilege ), >
+<(toVirtualAcctPreview ), (toVirtualAcctPreview ), >
+<(win_P2PActPg ), (haveGot_NewYearAct ), >
+<(win_P2PActPg ), (activityAtIdxMainPg ), >
+<(win_P2PActPg ), (bankConf_P2PActPg ), >
+<(win_P2PActPg ), (MinePg ), >
+<(win_P2PActPg ), (startDraw_P2PActPg ), >
+<(win_P2PActPg ), (PointDetailView ), >
+<(win_P2PActPg ), (WelcomeView ), >
+<(win_P2PActPg ), (访问卡包频道页 ), >
+<(win_P2PActPg ), (Web ), >
+<(win_P2PActPg ), (getSoon_P2PActPg ), >
+<(win_P2PActPg ), (reward_P2PActPg ), >
+<(win_P2PActPg ), (luckMonyAtMinePg ), >
+<(win_P2PActPg ), (P2PActPg ), >
+<(win_P2PActPg ), (显示开机广告页 ), >
+<(win_P2PActPg ), (bankDraw_P2PActPg ), >
+<(Web ), (wantInvite_NewUserAct ), >
+<(Web ), (点击消息 ), >
+<(Web ), (432AtActTheme ), >
+<(Web ), (登录页的访问 ), >
+<(Web ), (haveGot_NewYearAct ), >
+<(Web ), (startGet_NewYearAct ), >
+<(Web ), (WalletPayPasswordVerify ), >
+<(Web ), (锁屏页的访问 ), >
+<(Web ), (transDetailPg ), >
+<(Web ), (activityAtIdxMainPg ), >
+<(Web ), (signSucc_NewYearAct ), >
+<(Web ), (bankConf_P2PActPg ), >
+<(Web ), (moduleInLifeStyle ), >
+<(Web ), (二维码被扫描成功 ), >
+<(Web ), (MinePg ), >
+<(Web ), (点击各具体权益 ), >
+<(Web ), (701AtBanner ), >
+<(Web ), (点击“更多充值”里面的应用 ), >
+<(Web ), (具体卡详情页的访问 ), >
+<(Web ), (serviceAtCouponDtl ), >
+<(Web ), (QRCodeView ), >
+<(Web ), (MyDownloadView ), >
+<(Web ), (startDraw_P2PActPg ), >
+<(Web ), (CardDetailView ), >
+<(Web ), (GuideBindCard ), >
+<(Web ), (PointDetailView ), >
+<(Web ), (点击扫一扫 ), >
+<(Web ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(Web ), (判断为需要输入密码 ), >
+<(Web ), (登录成功事件 ), >
+<(Web ), (701AtIdxMainPg ), >
+<(Web ), (707AtActArea ), >
+<(Web ), (城市列表页 ), >
+<(Web ), (访问转账首页 ), >
+<(Web ), (Certification ), >
+<(Web ), (WelcomeView ), >
+<(Web ), (输入卡要素，点击下一步 ), >
+<(Web ), (访问卡包频道页 ), >
+<(Web ), (进入“手机充值”页面 ), >
+<(Web ), (myOrdrAtMinePg ), >
+<(Web ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(Web ), (NewUserActPg ), >
+<(Web ), (secAtMinePg ), >
+<(Web ), (进入消息中心页 ), >
+<(Web ), (点击付款 ), >
+<(Web ), (goodsDetlPg ), >
+<(Web ), (添加银行卡成功 ), >
+<(Web ), (bankCardPrivilege ), >
+<(Web ), (Web ), >
+<(Web ), (优惠频道页面 ), >
+<(Web ), (702AtBanner ), >
+<(Web ), (手机充值，支付成功 ), >
+<(Web ), (进入品牌详情页 ), >
+<(Web ), (startDraw_NewUserAct ), >
+<(Web ), (点击“退出登录” ), >
+<(Web ), (guideCancel_NewYearAct ), >
+<(Web ), (点击“转账到手机号” ), >
+<(Web ), (MyOrderView ), >
+<(Web ), (输入身份证信息后，点击“下一步” ), >
+<(Web ), (转账成功页，点击banner（营销入口） ), >
+<(Web ), (扫描“收款”二维码成功 ), >
+<(Web ), (QPRewardPg ), >
+<(Web ), (myIDAtMinePg ), >
+<(Web ), (输入登录密码后，点击“确认” ), >
+<(Web ), (点击“确认支付” ), >
+<(Web ), (点击家乐福 ), >
+<(Web ), (访问生活频道页 ), >
+<(Web ), (输入短信验证码后，点击“确认” ), >
+<(Web ), (guidePg_NewYearAct ), >
+<(Web ), (点击“通讯录”头像 ), >
+<(Web ), (getSoon_P2PActPg ), >
+<(Web ), (vMarketingInvtAtMinePg ), >
+<(Web ), (MyMessageCenter ), >
+<(Web ), (点击收款 ), >
+<(Web ), (输入用户信息后，点击“登录”按钮， ), >
+<(Web ), (点击“确认” ), >
+<(Web ), (手势解锁成功 ), >
+<(Web ), (手机充值，支付失败 ), >
+<(Web ), (NewYearActPg ), >
+<(Web ), (进入收款页面 ), >
+<(Web ), (InMallHome ), >
+<(Web ), (点击支付助手 ), >
+<(Web ), (702AtIdxMainPg ), >
+<(Web ), (点击选卡 ), >
+<(Web ), (luckMonyAtMinePg ), >
+<(Web ), (UPQrShowingActivity ), >
+<(Web ), (P2PActPg ), >
+<(Web ), (点击曹操专车（充100得125）0105-0123 ), >
+<(Web ), (显示开机广告页 ), >
+<(Web ), (点击激励金（0119-） ), >
+<(Web ), (myInfoAtMinePg ), >
+<(Web ), (在转账信息填写页面中，点击“确认转账” ), >
+<(Web ), (点击转账 ), >
+<(Web ), (进入优惠详情页（不包含秒杀券） ), >
+<(Web ), (SetPatternView ), >
+<(Web ), (输入卡号点击“下一步” ), >
+<(Web ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(Web ), (进入交易详情（系统）页面 ), >
+<(Web ), (TutorialView ), >
+<(Web ), (点击卡面 ), >
+<(Web ), (unuseCpnAtMinePg ), >
+<(Web ), (具体优惠券详情页的访问 ), >
+<(Web ), (点击手机充值 ), >
+<(Web ), (473AtLifeChnlPg ), >
+<(城市选择成功 ), (登录页的访问 ), >
+<(城市选择成功 ), (锁屏页的访问 ), >
+<(城市选择成功 ), (activityAtIdxMainPg ), >
+<(城市选择成功 ), (MinePg ), >
+<(城市选择成功 ), (手机号已被注册，但是不正确，点击“换个号码，重新注册” ), >
+<(城市选择成功 ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(城市选择成功 ), (城市列表页 ), >
+<(城市选择成功 ), (WelcomeView ), >
+<(城市选择成功 ), (访问卡包频道页 ), >
+<(城市选择成功 ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(城市选择成功 ), (点击付款 ), >
+<(城市选择成功 ), (702AtBanner ), >
+<(城市选择成功 ), (手势解锁成功 ), >
+<(城市选择成功 ), (请登录你的账户 ), >
+<(城市选择成功 ), (myInfoAtMinePg ), >
+<(优惠频道页面 ), (haveGot_NewYearAct ), >
+<(优惠频道页面 ), (锁屏页的访问 ), >
+<(优惠频道页面 ), (activityAtIdxMainPg ), >
+<(优惠频道页面 ), (MinePg ), >
+<(优惠频道页面 ), (MyDownloadView ), >
+<(优惠频道页面 ), (PointDetailView ), >
+<(优惠频道页面 ), (指纹识别成功（安卓没有） ), >
+<(优惠频道页面 ), (城市列表页 ), >
+<(优惠频道页面 ), (WelcomeView ), >
+<(优惠频道页面 ), (访问卡包频道页 ), >
+<(优惠频道页面 ), (进入“手机充值”页面 ), >
+<(优惠频道页面 ), (点击付款 ), >
+<(优惠频道页面 ), (Web ), >
+<(优惠频道页面 ), (优惠频道页面 ), >
+<(优惠频道页面 ), (进入品牌详情页 ), >
+<(优惠频道页面 ), (点击“确认支付” ), >
+<(优惠频道页面 ), (访问生活频道页 ), >
+<(优惠频道页面 ), (guidePg_NewYearAct ), >
+<(优惠频道页面 ), (手势解锁成功 ), >
+<(优惠频道页面 ), (luckMonyAtMinePg ), >
+<(优惠频道页面 ), (显示开机广告页 ), >
+<(优惠频道页面 ), (进入优惠详情页（不包含秒杀券） ), >
+<(优惠频道页面 ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(优惠频道页面 ), (unuseCpnAtMinePg ), >
+<(优惠频道页面 ), (具体优惠券详情页的访问 ), >
+<(优惠频道页面 ), (473AtLifeChnlPg ), >
+<(MoreView ), (MinePg ), >
+<(702AtBanner ), (haveGot_NewYearAct ), >
+<(702AtBanner ), (startGet_NewYearAct ), >
+<(702AtBanner ), (signSucc_NewYearAct ), >
+<(702AtBanner ), (访问卡包频道页 ), >
+<(702AtBanner ), (Web ), >
+<(702AtBanner ), (NewYearActPg ), >
+<(702AtBanner ), (702AtIdxMainPg ), >
+<(手机充值，支付成功 ), (MinePg ), >
+<(手机充值，支付成功 ), (访问卡包频道页 ), >
+<(手机充值，支付成功 ), (进入“手机充值”页面 ), >
+<(手机充值，支付成功 ), (Web ), >
+<(手机充值，支付成功 ), (访问生活频道页 ), >
+<(手机充值，支付成功 ), (显示开机广告页 ), >
+<(点击“相册” ), (点击“确认付款” ), >
+<(点击“相册” ), (QRCodeView ), >
+<(点击“相册” ), (WelcomeView ), >
+<(点击“相册” ), (扫描“收款”二维码成功 ), >
+<(/添加成功（区分两者）" ), (Certification ), >
+<(/添加成功（区分两者）" ), (输入卡要素，点击下一步 ), >
+<(/添加成功（区分两者）" ), (输入短信验证码，点击下一步 ), >
+<(/添加成功（区分两者）" ), (Web ), >
+<(/添加成功（区分两者）" ), (进入设置支付密码页面 ), >
+<(/添加成功（区分两者）" ), (银联支付开通成功 ), >
+<(进入品牌详情页 ), (WelcomeView ), >
+<(进入品牌详情页 ), (访问卡包频道页 ), >
+<(进入品牌详情页 ), (Web ), >
+<(进入品牌详情页 ), (优惠频道页面 ), >
+<(进入品牌详情页 ), (进入品牌详情页 ), >
+<(进入品牌详情页 ), (显示开机广告页 ), >
+<(进入品牌详情页 ), (进入优惠详情页（不包含秒杀券） ), >
+<(进入品牌详情页 ), (具体优惠券详情页的访问 ), >
+<(startDraw_NewUserAct ), (win_NewUserAct ), >
+<(startDraw_NewUserAct ), (MinePg ), >
+<(startDraw_NewUserAct ), (访问卡包频道页 ), >
+<(startDraw_NewUserAct ), (Web ), >
+<(startDraw_NewUserAct ), (myInfoAtMinePg ), >
+<(点击“退出登录” ), (退出成功 ), >
+<(点击“退出登录” ), (SecurityRelativeView ), >
+<(点击“退出登录” ), (MinePg ), >
+<(点击“退出登录” ), (WelcomeView ), >
+<(点击“退出登录” ), (点击“确认” ), >
+<(点击“退出登录” ), (myInfoAtMinePg ), >
+<(需要输密码时，付款成功 ), (UPQRPaySuccessActivity ), >
+<(需要输密码时，付款成功 ), (MinePg ), >
+<(需要输密码时，付款成功 ), (WelcomeView ), >
+<(需要输密码时，付款成功 ), (访问卡包频道页 ), >
+<(需要输密码时，付款成功 ), (点击付款 ), >
+<(需要输密码时，付款成功 ), (UPQrShowingActivity ), >
+<(需要输密码时，付款成功 ), (显示开机广告页 ), >
+<(需要输密码时，付款成功 ), (myInfoAtMinePg ), >
+<(guideCancel_NewYearAct ), (haveGot_NewYearAct ), >
+<(guideCancel_NewYearAct ), (startGet_NewYearAct ), >
+<(guideCancel_NewYearAct ), (activityAtIdxMainPg ), >
+<(guideCancel_NewYearAct ), (signSucc_NewYearAct ), >
+<(guideCancel_NewYearAct ), (二维码被扫描成功 ), >
+<(guideCancel_NewYearAct ), (MinePg ), >
+<(guideCancel_NewYearAct ), (QRCodeView ), >
+<(guideCancel_NewYearAct ), (点击扫一扫 ), >
+<(guideCancel_NewYearAct ), (判断为需要输入密码 ), >
+<(guideCancel_NewYearAct ), (WelcomeView ), >
+<(guideCancel_NewYearAct ), (179AtIdxMainPg ), >
+<(guideCancel_NewYearAct ), (访问卡包频道页 ), >
+<(guideCancel_NewYearAct ), (点击付款 ), >
+<(guideCancel_NewYearAct ), (Web ), >
+<(guideCancel_NewYearAct ), (优惠频道页面 ), >
+<(guideCancel_NewYearAct ), (702AtBanner ), >
+<(guideCancel_NewYearAct ), (扫描“收款”二维码成功 ), >
+<(guideCancel_NewYearAct ), (178AtIdxMainPg ), >
+<(guideCancel_NewYearAct ), (NewYearActPg ), >
+<(guideCancel_NewYearAct ), (702AtIdxMainPg ), >
+<(guideCancel_NewYearAct ), (luckMonyAtMinePg ), >
+<(guideCancel_NewYearAct ), (点击转账 ), >
+<(guideCancel_NewYearAct ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(guideCancel_NewYearAct ), (点击卡面 ), >
+<(点击“转账到手机号” ), (WalletPayPasswordVerify ), >
+<(点击“转账到手机号” ), (activityAtIdxMainPg ), >
+<(点击“转账到手机号” ), (MinePg ), >
+<(点击“转账到手机号” ), (访问卡包频道页 ), >
+<(点击“转账到手机号” ), (点击“转账到手机号” ), >
+<(点击“转账到手机号” ), (转账成功页，点击banner（营销入口） ), >
+<(点击“转账到手机号” ), (转账成功 ), >
+<(点击“转账到手机号” ), (P2PActPg ), >
+<(点击“转账到手机号” ), (在转账信息填写页面中，点击“确认转账” ), >
+<(MyOrderView ), (退出成功 ), >
+<(MyOrderView ), (锁屏页的访问 ), >
+<(MyOrderView ), (MinePg ), >
+<(MyOrderView ), (WelcomeView ), >
+<(MyOrderView ), (访问卡包频道页 ), >
+<(MyOrderView ), (myOrdrAtMinePg ), >
+<(MyOrderView ), (点击付款 ), >
+<(MyOrderView ), (Web ), >
+<(MyOrderView ), (点击“退出登录” ), >
+<(MyOrderView ), (MyOrderView ), >
+<(MyOrderView ), (QPRewardPg ), >
+<(MyOrderView ), (手势解锁成功 ), >
+<(MyOrderView ), (luckMonyAtMinePg ), >
+<(MyOrderView ), (显示开机广告页 ), >
+<(MyOrderView ), (myInfoAtMinePg ), >
+<(MyOrderView ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(youhui_share ), (haveGot_NewYearAct ), >
+<(youhui_share ), (ShareView ), >
+<(youhui_share ), (访问卡包频道页 ), >
+<(输入身份证信息后，点击“下一步” ), (startGet_NewYearAct ), >
+<(输入身份证信息后，点击“下一步” ), (Certification ), >
+<(输入身份证信息后，点击“下一步” ), (输入卡要素，点击下一步 ), >
+<(输入身份证信息后，点击“下一步” ), (访问卡包频道页 ), >
+<(输入身份证信息后，点击“下一步” ), (输入短信验证码，点击下一步 ), >
+<(输入身份证信息后，点击“下一步” ), (添加银行卡成功 ), >
+<(输入身份证信息后，点击“下一步” ), (Web ), >
+<(输入身份证信息后，点击“下一步” ), (/添加成功（区分两者）" ), >
+<(输入身份证信息后，点击“下一步” ), (输入身份证信息后，点击“下一步” ), >
+<(输入身份证信息后，点击“下一步” ), (进入设置支付密码页面 ), >
+<(输入身份证信息后，点击“下一步” ), (银联支付开通成功 ), >
+<(转账成功页，点击banner（营销入口） ), (bankConf_P2PActPg ), >
+<(转账成功页，点击banner（营销入口） ), (startDraw_P2PActPg ), >
+<(转账成功页，点击banner（营销入口） ), (访问卡包频道页 ), >
+<(转账成功页，点击banner（营销入口） ), (win_P2PActPg ), >
+<(转账成功页，点击banner（营销入口） ), (Web ), >
+<(转账成功页，点击banner（营销入口） ), (getSoon_P2PActPg ), >
+<(转账成功页，点击banner（营销入口） ), (P2PActPg ), >
+<(转账成功页，点击banner（营销入口） ), (bankDraw_P2PActPg ), >
+<(扫描“收款”二维码成功 ), (WalletPayPlugin ), >
+<(扫描“收款”二维码成功 ), (（lable为各种失败原因）" ), >
+<(扫描“收款”二维码成功 ), (点击“确认付款” ), >
+<(扫描“收款”二维码成功 ), (QRCodeView ), >
+<(扫描“收款”二维码成功 ), (WalletPaySuccess ), >
+<(扫描“收款”二维码成功 ), (QrCodePayOrderDetail ), >
+<(扫描“收款”二维码成功 ), (点击扫一扫 ), >
+<(扫描“收款”二维码成功 ), (访问卡包频道页 ), >
+<(扫描“收款”二维码成功 ), (二维码付款成功 ), >
+<(QPRewardPg ), (MinePg ), >
+<(QPRewardPg ), (PointDetailView ), >
+<(QPRewardPg ), (getSucc_QPReward ), >
+<(QPRewardPg ), (WelcomeView ), >
+<(QPRewardPg ), (访问卡包频道页 ), >
+<(QPRewardPg ), (Web ), >
+<(QPRewardPg ), (QPRewardPg ), >
+<(QPRewardPg ), (btnGift_QPReward ), >
+<(QPRewardPg ), (luckMonyAtMinePg ), >
+<(QPRewardPg ), (toMerchLst1_QPReward ), >
+<(QPRewardPg ), (显示开机广告页 ), >
+<(myIDAtMinePg ), (IdentityInfo ), >
+<(myIDAtMinePg ), (MinePg ), >
+<(点击“线上” ), (优惠频道页面 ), >
+<(进入设置支付密码页面 ), (startGet_NewYearAct ), >
+<(进入设置支付密码页面 ), (activityAtIdxMainPg ), >
+<(进入设置支付密码页面 ), (openSucc_NewYearAct ), >
+<(进入设置支付密码页面 ), (MinePg ), >
+<(进入设置支付密码页面 ), (访问卡包频道页 ), >
+<(进入设置支付密码页面 ), (进入设置支付密码页面 ), >
+<(进入设置支付密码页面 ), (NewYearActPg ), >
+<(进入设置支付密码页面 ), (支付密码设置成功 ), >
+<(进入设置支付密码页面 ), (PayPasswordInput ), >
+<(账户余额查询成功 ), (MyQueryBalance ), >
+<(账户余额查询成功 ), (CardDetailView ), >
+<(账户余额查询成功 ), (访问卡包频道页 ), >
+<(输入登录密码后，点击“确认” ), (登录页的访问 ), >
+<(输入登录密码后，点击“确认” ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(输入登录密码后，点击“确认” ), (登录成功事件 ), >
+<(输入登录密码后，点击“确认” ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(输入登录密码后，点击“确认” ), (Web ), >
+<(输入登录密码后，点击“确认” ), (输入登录密码后，点击“确认” ), >
+<(输入登录密码后，点击“确认” ), (输入用户信息后，点击“登录”按钮， ), >
+<(输入登录密码后，点击“确认” ), (注册成功事件 ), >
+<(输入登录密码后，点击“确认” ), (SetPatternView ), >
+<(点击“确认支付” ), (activityAtIdxMainPg ), >
+<(点击“确认支付” ), (访问卡包频道页 ), >
+<(点击“确认支付” ), (进入“手机充值”页面 ), >
+<(点击“确认支付” ), (Web ), >
+<(点击“确认支付” ), (手机充值，支付成功 ), >
+<(点击“确认支付” ), (点击“确认支付” ), >
+<(点击“确认支付” ), (访问生活频道页 ), >
+<(点击“确认支付” ), (手机充值，支付失败 ), >
+<(点击“确认支付” ), (违章代办，点击“确认支付”后，选择“银联钱包支付” ), >
+<(点击“确认支付” ), (显示开机广告页 ), >
+<(点击“确认支付” ), (点击手机充值 ), >
+<(178AtIdxMainPg ), (点击“确认付款” ), >
+<(178AtIdxMainPg ), (QRCodeView ), >
+<(178AtIdxMainPg ), (WelcomeView ), >
+<(178AtIdxMainPg ), (访问卡包频道页 ), >
+<(178AtIdxMainPg ), (点击“相册” ), >
+<(178AtIdxMainPg ), (扫描“收款”二维码成功 ), >
+<(178AtIdxMainPg ), (二维码付款成功 ), >
+<(点击商城 ), (访问生活频道页 ), >
+<(点击商城 ), (InMallHome ), >
+<(点击家乐福 ), (200AtIdxMainPg ), >
+<(点击家乐福 ), (访问卡包频道页 ), >
+<(点击家乐福 ), (goodsDetlPg ), >
+<(点击家乐福 ), (Web ), >
+<(访问生活频道页 ), (haveGot_NewYearAct ), >
+<(访问生活频道页 ), (锁屏页的访问 ), >
+<(访问生活频道页 ), (activityAtIdxMainPg ), >
+<(访问生活频道页 ), (moduleInLifeStyle ), >
+<(访问生活频道页 ), (MinePg ), >
+<(访问生活频道页 ), (PointDetailView ), >
+<(访问生活频道页 ), (访问转账首页 ), >
+<(访问生活频道页 ), (WelcomeView ), >
+<(访问生活频道页 ), (访问卡包频道页 ), >
+<(访问生活频道页 ), (进入“手机充值”页面 ), >
+<(访问生活频道页 ), (myOrdrAtMinePg ), >
+<(访问生活频道页 ), (Web ), >
+<(访问生活频道页 ), (优惠频道页面 ), >
+<(访问生活频道页 ), (手机充值，支付成功 ), >
+<(访问生活频道页 ), (点击“确认支付” ), >
+<(访问生活频道页 ), (访问生活频道页 ), >
+<(访问生活频道页 ), (手势解锁成功 ), >
+<(访问生活频道页 ), (手机充值，支付失败 ), >
+<(访问生活频道页 ), (NewYearActPg ), >
+<(访问生活频道页 ), (InMallHome ), >
+<(访问生活频道页 ), (luckMonyAtMinePg ), >
+<(访问生活频道页 ), (违章代办，点击“确认支付”后，选择“银联钱包支付” ), >
+<(访问生活频道页 ), (显示开机广告页 ), >
+<(访问生活频道页 ), (myInfoAtMinePg ), >
+<(访问生活频道页 ), (473AtLifeChnlPg ), >
+<(输入短信验证码后，点击“确认” ), (登录页的访问 ), >
+<(输入短信验证码后，点击“确认” ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(输入短信验证码后，点击“确认” ), (登录成功事件 ), >
+<(输入短信验证码后，点击“确认” ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(输入短信验证码后，点击“确认” ), (Web ), >
+<(输入短信验证码后，点击“确认” ), (输入登录密码后，点击“确认” ), >
+<(输入短信验证码后，点击“确认” ), (输入用户信息后，点击“登录”按钮， ), >
+<(输入短信验证码后，点击“确认” ), (注册成功事件 ), >
+<(guidePg_NewYearAct ), (登录页的访问 ), >
+<(guidePg_NewYearAct ), (haveGot_NewYearAct ), >
+<(guidePg_NewYearAct ), (startGet_NewYearAct ), >
+<(guidePg_NewYearAct ), (锁屏页的访问 ), >
+<(guidePg_NewYearAct ), (signShare_NewYearAct ), >
+<(guidePg_NewYearAct ), (activityAtIdxMainPg ), >
+<(guidePg_NewYearAct ), (signSucc_NewYearAct ), >
+<(guidePg_NewYearAct ), (LifeAppDelegate ), >
+<(guidePg_NewYearAct ), (MinePg ), >
+<(guidePg_NewYearAct ), (点击扫一扫 ), >
+<(guidePg_NewYearAct ), (指纹识别成功（安卓没有） ), >
+<(guidePg_NewYearAct ), (WelcomeView ), >
+<(guidePg_NewYearAct ), (179AtIdxMainPg ), >
+<(guidePg_NewYearAct ), (访问卡包频道页 ), >
+<(guidePg_NewYearAct ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(guidePg_NewYearAct ), (点击付款 ), >
+<(guidePg_NewYearAct ), (Web ), >
+<(guidePg_NewYearAct ), (优惠频道页面 ), >
+<(guidePg_NewYearAct ), (702AtBanner ), >
+<(guidePg_NewYearAct ), (guideCancel_NewYearAct ), >
+<(guidePg_NewYearAct ), (178AtIdxMainPg ), >
+<(guidePg_NewYearAct ), (guidePg_NewYearAct ), >
+<(guidePg_NewYearAct ), (输入用户信息后，点击“登录”按钮， ), >
+<(guidePg_NewYearAct ), (手势解锁成功 ), >
+<(guidePg_NewYearAct ), (定位城市与最近保存的城市不一致，需要提醒用户切换城市 ), >
+<(guidePg_NewYearAct ), (NewYearActPg ), >
+<(guidePg_NewYearAct ), (702AtIdxMainPg ), >
+<(guidePg_NewYearAct ), (luckMonyAtMinePg ), >
+<(guidePg_NewYearAct ), (显示开机广告页 ), >
+<(guidePg_NewYearAct ), (getSoon_NewYearAct ), >
+<(guidePg_NewYearAct ), (点击转账 ), >
+<(guidePg_NewYearAct ), (进入优惠详情页（不包含秒杀券） ), >
+<(guidePg_NewYearAct ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(guidePg_NewYearAct ), (700AtIdxMainPg ), >
+<(guidePg_NewYearAct ), (点击卡面 ), >
+<(guidePg_NewYearAct ), (点击手机充值 ), >
+<(点击“通讯录”头像 ), (Web ), >
+<(点击“通讯录”头像 ), (点击“确认支付” ), >
+<(LoginMobileCheck ), (登录页的访问 ), >
+<(LoginMobileCheck ), (登录成功事件 ), >
+<(LoginMobileCheck ), (SetPatternView ), >
+<(getSoon_P2PActPg ), (haveGot_NewYearAct ), >
+<(getSoon_P2PActPg ), (activityAtIdxMainPg ), >
+<(getSoon_P2PActPg ), (bankConf_P2PActPg ), >
+<(getSoon_P2PActPg ), (MinePg ), >
+<(getSoon_P2PActPg ), (startDraw_P2PActPg ), >
+<(getSoon_P2PActPg ), (访问卡包频道页 ), >
+<(getSoon_P2PActPg ), (Web ), >
+<(getSoon_P2PActPg ), (getSoon_P2PActPg ), >
+<(getSoon_P2PActPg ), (reward_P2PActPg ), >
+<(getSoon_P2PActPg ), (luckMonyAtMinePg ), >
+<(getSoon_P2PActPg ), (P2PActPg ), >
+<(getSoon_P2PActPg ), (bankDraw_P2PActPg ), >
+<(getSoon_P2PActPg ), (在转账信息填写页面中，点击“确认转账” ), >
+<(getSoon_P2PActPg ), (点击转账 ), >
+<(click_advert ), (Web ), >
+<(click_advert ), (访问生活频道页 ), >
+<(btnGift_QPReward ), (MinePg ), >
+<(btnGift_QPReward ), (getSucc_QPReward ), >
+<(btnGift_QPReward ), (Web ), >
+<(btnGift_QPReward ), (QPRewardPg ), >
+<(vMarketingInvtAtMinePg ), (MinePg ), >
+<(vMarketingInvtAtMinePg ), (Web ), >
+<(vMarketingInvtAtMinePg ), (luckMonyAtMinePg ), >
+<(MyMessageCenter ), (点击卡片区域 ), >
+<(MyMessageCenter ), (transDetailPg ), >
+<(MyMessageCenter ), (点击账单服务 ), >
+<(MyMessageCenter ), (MinePg ), >
+<(MyMessageCenter ), (MyMessageList ), >
+<(MyMessageCenter ), (WelcomeView ), >
+<(MyMessageCenter ), (访问卡包频道页 ), >
+<(MyMessageCenter ), (Web ), >
+<(MyMessageCenter ), (MyMessageCenter ), >
+<(MyMessageCenter ), (手势解锁成功 ), >
+<(MyMessageCenter ), (点击支付助手 ), >
+<(MyMessageCenter ), (显示开机广告页 ), >
+<(MyMessageCenter ), (进入交易详情（系统）页面 ), >
+<(点击“扫码付” ), (QRCodeView ), >
+<(myOrderDetail ), (MinePg ), >
+<(myOrderDetail ), (MyOrderView ), >
+<(点击收款 ), (访问卡包频道页 ), >
+<(点击收款 ), (收款成功 ), >
+<(点击收款 ), (进入收款页面 ), >
+<(输入用户信息后，点击“登录”按钮， ), (登录页的访问 ), >
+<(输入用户信息后，点击“登录”按钮， ), (activityAtIdxMainPg ), >
+<(输入用户信息后，点击“登录”按钮， ), (MinePg ), >
+<(输入用户信息后，点击“登录”按钮， ), (登录成功事件 ), >
+<(输入用户信息后，点击“登录”按钮， ), (WelcomeView ), >
+<(输入用户信息后，点击“登录”按钮， ), (访问卡包频道页 ), >
+<(输入用户信息后，点击“登录”按钮， ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(输入用户信息后，点击“登录”按钮， ), (点击付款 ), >
+<(输入用户信息后，点击“登录”按钮， ), (LoginMobileCheck ), >
+<(输入用户信息后，点击“登录”按钮， ), (输入用户信息后，点击“登录”按钮， ), >
+<(输入用户信息后，点击“登录”按钮， ), (登录失败事件 ), >
+<(输入用户信息后，点击“登录”按钮， ), (点击添加银行卡 ), >
+<(输入用户信息后，点击“登录”按钮， ), (SetPatternView ), >
+<(输入用户信息后，点击“登录”按钮， ), (点击“忘记密码” ), >
+<(点击“确认” ), (退出成功 ), >
+<(点击“确认” ), (SecurityRelativeView ), >
+<(点击“确认” ), (MinePg ), >
+<(点击“确认” ), (手机号已被注册，但是不正确，点击“换个号码，重新注册” ), >
+<(点击“确认” ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(点击“确认” ), (WelcomeView ), >
+<(点击“确认” ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(点击“确认” ), (myInfoAtMinePg ), >
+<(手势解锁成功 ), (点击消息 ), >
+<(手势解锁成功 ), (haveGot_NewYearAct ), >
+<(手势解锁成功 ), (startGet_NewYearAct ), >
+<(手势解锁成功 ), (锁屏页的访问 ), >
+<(手势解锁成功 ), (signShare_NewYearAct ), >
+<(手势解锁成功 ), (activityAtIdxMainPg ), >
+<(手势解锁成功 ), (二维码被扫描成功 ), >
+<(手势解锁成功 ), (MinePg ), >
+<(手势解锁成功 ), (点击各具体权益 ), >
+<(手势解锁成功 ), (701AtBanner ), >
+<(手势解锁成功 ), (具体卡详情页的访问 ), >
+<(手势解锁成功 ), (QRCodeView ), >
+<(手势解锁成功 ), (PointDetailView ), >
+<(手势解锁成功 ), (点击扫一扫 ), >
+<(手势解锁成功 ), (访问转账首页 ), >
+<(手势解锁成功 ), (WelcomeView ), >
+<(手势解锁成功 ), (179AtIdxMainPg ), >
+<(手势解锁成功 ), (访问卡包频道页 ), >
+<(手势解锁成功 ), (进入“手机充值”页面 ), >
+<(手势解锁成功 ), (myOrdrAtMinePg ), >
+<(手势解锁成功 ), (NewUserActPg ), >
+<(手势解锁成功 ), (进入消息中心页 ), >
+<(手势解锁成功 ), (点击付款 ), >
+<(手势解锁成功 ), (bankCardPrivilege ), >
+<(手势解锁成功 ), (Web ), >
+<(手势解锁成功 ), (优惠频道页面 ), >
+<(手势解锁成功 ), (702AtBanner ), >
+<(手势解锁成功 ), (进入品牌详情页 ), >
+<(手势解锁成功 ), (guideCancel_NewYearAct ), >
+<(手势解锁成功 ), (MyOrderView ), >
+<(手势解锁成功 ), (扫描“收款”二维码成功 ), >
+<(手势解锁成功 ), (点击“确认支付” ), >
+<(手势解锁成功 ), (访问生活频道页 ), >
+<(手势解锁成功 ), (guidePg_NewYearAct ), >
+<(手势解锁成功 ), (手势解锁成功 ), >
+<(手势解锁成功 ), (NewYearActPg ), >
+<(手势解锁成功 ), (点击支付助手 ), >
+<(手势解锁成功 ), (702AtIdxMainPg ), >
+<(手势解锁成功 ), (luckMonyAtMinePg ), >
+<(手势解锁成功 ), (UPQrShowingActivity ), >
+<(手势解锁成功 ), (P2PActPg ), >
+<(手势解锁成功 ), (显示开机广告页 ), >
+<(手势解锁成功 ), (getSoon_NewYearAct ), >
+<(手势解锁成功 ), (myInfoAtMinePg ), >
+<(手势解锁成功 ), (在转账信息填写页面中，点击“确认转账” ), >
+<(手势解锁成功 ), (点击转账 ), >
+<(手势解锁成功 ), (进入优惠详情页（不包含秒杀券） ), >
+<(手势解锁成功 ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(手势解锁成功 ), (700AtIdxMainPg ), >
+<(手势解锁成功 ), (点击卡面 ), >
+<(手势解锁成功 ), (点击手机充值 ), >
+<(手机充值，支付失败 ), (MinePg ), >
+<(手机充值，支付失败 ), (WelcomeView ), >
+<(手机充值，支付失败 ), (访问卡包频道页 ), >
+<(手机充值，支付失败 ), (Web ), >
+<(手机充值，支付失败 ), (点击“确认支付” ), >
+<(手机充值，支付失败 ), (访问生活频道页 ), >
+<(手机充值，支付失败 ), (显示开机广告页 ), >
+<(定位城市与最近保存的城市不一致，需要提醒用户切换城市 ), (访问卡包频道页 ), >
+<(定位城市与最近保存的城市不一致，需要提醒用户切换城市 ), (NewYearActPg ), >
+<(NewYearActPg ), (点击消息 ), >
+<(NewYearActPg ), (haveGot_NewYearAct ), >
+<(NewYearActPg ), (startGet_NewYearAct ), >
+<(NewYearActPg ), (win_NewUserAct ), >
+<(NewYearActPg ), (toPayAuth_NewYearAct ), >
+<(NewYearActPg ), (锁屏页的访问 ), >
+<(NewYearActPg ), (signShare_NewYearAct ), >
+<(NewYearActPg ), (activityAtIdxMainPg ), >
+<(NewYearActPg ), (signSucc_NewYearAct ), >
+<(NewYearActPg ), (openSucc_NewYearAct ), >
+<(NewYearActPg ), (MinePg ), >
+<(NewYearActPg ), (点击各具体权益 ), >
+<(NewYearActPg ), (toRealName_NewYearAct ), >
+<(NewYearActPg ), (点击扫一扫 ), >
+<(NewYearActPg ), (指纹识别成功（安卓没有） ), >
+<(NewYearActPg ), (访问转账首页 ), >
+<(NewYearActPg ), (Certification ), >
+<(NewYearActPg ), (WelcomeView ), >
+<(NewYearActPg ), (179AtIdxMainPg ), >
+<(NewYearActPg ), (访问卡包频道页 ), >
+<(NewYearActPg ), (NewUserActPg ), >
+<(NewYearActPg ), (点击付款 ), >
+<(NewYearActPg ), (Web ), >
+<(NewYearActPg ), (优惠频道页面 ), >
+<(NewYearActPg ), (startDraw_NewUserAct ), >
+<(NewYearActPg ), (输入身份证信息后，点击“下一步” ), >
+<(NewYearActPg ), (guidePg_NewYearAct ), >
+<(NewYearActPg ), (getSoon_P2PActPg ), >
+<(NewYearActPg ), (手势解锁成功 ), >
+<(NewYearActPg ), (NewYearActPg ), >
+<(NewYearActPg ), (luckMonyAtMinePg ), >
+<(NewYearActPg ), (点击添加银行卡 ), >
+<(NewYearActPg ), (P2PActPg ), >
+<(NewYearActPg ), (显示开机广告页 ), >
+<(NewYearActPg ), (点击激励金（0119-） ), >
+<(NewYearActPg ), (myInfoAtMinePg ), >
+<(NewYearActPg ), (点击转账 ), >
+<(NewYearActPg ), (输入卡号点击“下一步” ), >
+<(NewYearActPg ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(NewYearActPg ), (点击卡面 ), >
+<(NewYearActPg ), (点击手机充值 ), >
+<(RemindView ), (MinePg ), >
+<(RemindView ), (访问卡包频道页 ), >
+<(473AtIdxMainPg ), (访问卡包频道页 ), >
+<(473AtIdxMainPg ), (进入“手机充值”页面 ), >
+<(473AtIdxMainPg ), (手机充值，支付成功 ), >
+<(473AtIdxMainPg ), (点击“确认支付” ), >
+<(473AtIdxMainPg ), (手机充值，支付失败 ), >
+<(473AtIdxMainPg ), (违章代办，点击“确认支付”后，选择“银联钱包支付” ), >
+<(登录失败事件 ), (登录页的访问 ), >
+<(登录失败事件 ), (MinePg ), >
+<(登录失败事件 ), (登录成功事件 ), >
+<(登录失败事件 ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(登录失败事件 ), (输入用户信息后，点击“登录”按钮， ), >
+<(登录失败事件 ), (登录失败事件 ), >
+<(登录失败事件 ), (点击“忘记密码” ), >
+<(点击“直达链接”模块中的链接（只有线上有） ), (访问卡包频道页 ), >
+<(点击“直达链接”模块中的链接（只有线上有） ), (Web ), >
+<(点击“直达链接”模块中的链接（只有线上有） ), (进入优惠详情页（不包含秒杀券） ), >
+<(收款成功 ), (访问卡包频道页 ), >
+<(进入收款页面 ), (访问卡包频道页 ), >
+<(进入收款页面 ), (收款成功 ), >
+<(708AtIdxMainPg ), (访问卡包频道页 ), >
+<(点击“充值记录” ), (Web ), >
+<(697AtIdxMainPg ), (访问卡包频道页 ), >
+<(697AtIdxMainPg ), (QPRewardPg ), >
+<(转账成功 ), (haveGot_NewYearAct ), >
+<(转账成功 ), (activityAtIdxMainPg ), >
+<(转账成功 ), (bankConf_P2PActPg ), >
+<(转账成功 ), (701AtBanner ), >
+<(转账成功 ), (startDraw_P2PActPg ), >
+<(转账成功 ), (701AtIdxMainPg ), >
+<(转账成功 ), (访问卡包频道页 ), >
+<(转账成功 ), (win_P2PActPg ), >
+<(转账成功 ), (Web ), >
+<(转账成功 ), (转账成功页，点击banner（营销入口） ), >
+<(转账成功 ), (getSoon_P2PActPg ), >
+<(转账成功 ), (P2PActPg ), >
+<(转账成功 ), (bankDraw_P2PActPg ), >
+<(orderApply ), (orderApply ), >
+<(InMallHome ), (访问卡包频道页 ), >
+<(InMallHome ), (goodsDetlPg ), >
+<(InMallHome ), (Web ), >
+<(点击支付助手 ), (点击卡片区域 ), >
+<(点击支付助手 ), (transDetailPg ), >
+<(点击支付助手 ), (点击账单服务 ), >
+<(点击支付助手 ), (MyMessageList ), >
+<(点击支付助手 ), (访问卡包频道页 ), >
+<(点击支付助手 ), (进入消息中心页 ), >
+<(点击支付助手 ), (MyMessageCenter ), >
+<(点击支付助手 ), (进入交易详情（系统）页面 ), >
+<(702AtIdxMainPg ), (haveGot_NewYearAct ), >
+<(702AtIdxMainPg ), (startGet_NewYearAct ), >
+<(702AtIdxMainPg ), (signSucc_NewYearAct ), >
+<(702AtIdxMainPg ), (访问卡包频道页 ), >
+<(702AtIdxMainPg ), (Web ), >
+<(702AtIdxMainPg ), (NewYearActPg ), >
+<(请登录你的账户 ), (登录页的访问 ), >
+<(请登录你的账户 ), (手机号已被注册，但是不正确，点击“换个号码，重新注册” ), >
+<(请登录你的账户 ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(请登录你的账户 ), (WelcomeView ), >
+<(请登录你的账户 ), (访问卡包频道页 ), >
+<(请登录你的账户 ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(请登录你的账户 ), (输入用户信息后，点击“登录”按钮， ), >
+<(请登录你的账户 ), (输入手机号后，点击“注册”按钮 ), >
+<(点击选卡 ), (输入卡要素，点击下一步 ), >
+<(点击选卡 ), (输入短信验证码，点击下一步 ), >
+<(点击选卡 ), (添加银行卡成功 ), >
+<(点击选卡 ), (输入身份证信息后，点击“下一步” ), >
+<(点击选卡 ), (输入卡号点击“下一步” ), >
+<(reward_P2PActPg ), (haveGot_NewYearAct ), >
+<(reward_P2PActPg ), (访问卡包频道页 ), >
+<(reward_P2PActPg ), (Web ), >
+<(reward_P2PActPg ), (getSoon_P2PActPg ), >
+<(reward_P2PActPg ), (P2PActPg ), >
+<(luckMonyAtMinePg ), (锁屏页的访问 ), >
+<(luckMonyAtMinePg ), (activityAtIdxMainPg ), >
+<(luckMonyAtMinePg ), (MinePg ), >
+<(luckMonyAtMinePg ), (PointDetailView ), >
+<(luckMonyAtMinePg ), (指纹识别成功（安卓没有） ), >
+<(luckMonyAtMinePg ), (WelcomeView ), >
+<(luckMonyAtMinePg ), (访问卡包频道页 ), >
+<(luckMonyAtMinePg ), (MyCostRecordView ), >
+<(luckMonyAtMinePg ), (Web ), >
+<(luckMonyAtMinePg ), (优惠频道页面 ), >
+<(luckMonyAtMinePg ), (点击“退出登录” ), >
+<(luckMonyAtMinePg ), (访问生活频道页 ), >
+<(luckMonyAtMinePg ), (guidePg_NewYearAct ), >
+<(luckMonyAtMinePg ), (手势解锁成功 ), >
+<(luckMonyAtMinePg ), (luckMonyAtMinePg ), >
+<(luckMonyAtMinePg ), (显示开机广告页 ), >
+<(luckMonyAtMinePg ), (myInfoAtMinePg ), >
+<(luckMonyAtMinePg ), (点击转账 ), >
+<(luckMonyAtMinePg ), (点击手机充值 ), >
+<(luckMonyAtMinePg ), (473AtLifeChnlPg ), >
+<(UPQrShowingActivity ), (UPQRPaySuccessActivity ), >
+<(UPQrShowingActivity ), (锁屏页的访问 ), >
+<(UPQrShowingActivity ), (activityAtIdxMainPg ), >
+<(UPQrShowingActivity ), (二维码被扫描成功 ), >
+<(UPQrShowingActivity ), (MinePg ), >
+<(UPQrShowingActivity ), (QRCodeView ), >
+<(UPQrShowingActivity ), (判断为需要输入密码 ), >
+<(UPQrShowingActivity ), (WelcomeView ), >
+<(UPQrShowingActivity ), (访问卡包频道页 ), >
+<(UPQrShowingActivity ), (myOrdrAtMinePg ), >
+<(UPQrShowingActivity ), (点击付款 ), >
+<(UPQrShowingActivity ), (Web ), >
+<(UPQrShowingActivity ), (点击“退出登录” ), >
+<(UPQrShowingActivity ), (需要输密码时，付款成功 ), >
+<(UPQrShowingActivity ), (MyOrderView ), >
+<(UPQrShowingActivity ), (手势解锁成功 ), >
+<(UPQrShowingActivity ), (UPQrShowingActivity ), >
+<(UPQrShowingActivity ), (显示开机广告页 ), >
+<(UPQrShowingActivity ), (myInfoAtMinePg ), >
+<(UPQrShowingActivity ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(支付密码设置成功 ), (startGet_NewYearAct ), >
+<(支付密码设置成功 ), (activityAtIdxMainPg ), >
+<(支付密码设置成功 ), (openSucc_NewYearAct ), >
+<(支付密码设置成功 ), (MinePg ), >
+<(支付密码设置成功 ), (访问卡包频道页 ), >
+<(支付密码设置成功 ), (NewYearActPg ), >
+<(支付密码设置成功 ), (PayPasswordInput ), >
+<(找回密码手机验证时获取短信验证码 ), (输入短信验证码后，点击“下一步” ), >
+<(注册成功事件 ), (登录页的访问 ), >
+<(注册成功事件 ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(注册成功事件 ), (登录成功事件 ), >
+<(注册成功事件 ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(注册成功事件 ), (Web ), >
+<(注册成功事件 ), (输入用户信息后，点击“登录”按钮， ), >
+<(注册成功事件 ), (SetPatternView ), >
+<(点击卡面（拍照识别卡） ), (Certification ), >
+<(点击卡面（拍照识别卡） ), (ScanPanView ), >
+<(点击卡面（拍照识别卡） ), (输入身份证信息后，点击“下一步” ), >
+<(点击卡面（拍照识别卡） ), (输入卡号点击“下一步” ), >
+<(toMerchLst1_QPReward ), (MinePg ), >
+<(toMerchLst1_QPReward ), (访问卡包频道页 ), >
+<(toMerchLst1_QPReward ), (Web ), >
+<(toMerchLst1_QPReward ), (QPRewardPg ), >
+<(违章代办，点击“确认支付”后，选择“银联钱包支付” ), (MinePg ), >
+<(违章代办，点击“确认支付”后，选择“银联钱包支付” ), (访问卡包频道页 ), >
+<(违章代办，点击“确认支付”后，选择“银联钱包支付” ), (进入“手机充值”页面 ), >
+<(违章代办，点击“确认支付”后，选择“银联钱包支付” ), (手机充值，支付成功 ), >
+<(违章代办，点击“确认支付”后，选择“银联钱包支付” ), (手机充值，支付失败 ), >
+<(708AtActArea ), (访问卡包频道页 ), >
+<(点击添加银行卡 ), (Certification ), >
+<(点击添加银行卡 ), (输入卡要素，点击下一步 ), >
+<(点击添加银行卡 ), (访问卡包频道页 ), >
+<(点击添加银行卡 ), (输入短信验证码，点击下一步 ), >
+<(点击添加银行卡 ), (添加银行卡成功 ), >
+<(点击添加银行卡 ), (/添加成功（区分两者）" ), >
+<(点击添加银行卡 ), (输入身份证信息后，点击“下一步” ), >
+<(点击添加银行卡 ), (点击卡面（拍照识别卡） ), >
+<(点击添加银行卡 ), (点击添加银行卡 ), >
+<(点击添加银行卡 ), (输入卡号点击“下一步” ), >
+<(P2PActPg ), (haveGot_NewYearAct ), >
+<(P2PActPg ), (myReward_P2PActPg ), >
+<(P2PActPg ), (锁屏页的访问 ), >
+<(P2PActPg ), (activityAtIdxMainPg ), >
+<(P2PActPg ), (bankConf_P2PActPg ), >
+<(P2PActPg ), (MinePg ), >
+<(P2PActPg ), (startDraw_P2PActPg ), >
+<(P2PActPg ), (PointDetailView ), >
+<(P2PActPg ), (访问转账首页 ), >
+<(P2PActPg ), (WelcomeView ), >
+<(P2PActPg ), (访问卡包频道页 ), >
+<(P2PActPg ), (MyCostRecordView ), >
+<(P2PActPg ), (win_P2PActPg ), >
+<(P2PActPg ), (Web ), >
+<(P2PActPg ), (702AtBanner ), >
+<(P2PActPg ), (转账成功页，点击banner（营销入口） ), >
+<(P2PActPg ), (guidePg_NewYearAct ), >
+<(P2PActPg ), (getSoon_P2PActPg ), >
+<(P2PActPg ), (手势解锁成功 ), >
+<(P2PActPg ), (wantShare_P2PActPg ), >
+<(P2PActPg ), (转账成功 ), >
+<(P2PActPg ), (reward_P2PActPg ), >
+<(P2PActPg ), (luckMonyAtMinePg ), >
+<(P2PActPg ), (P2PActPg ), >
+<(P2PActPg ), (显示开机广告页 ), >
+<(P2PActPg ), (bankDraw_P2PActPg ), >
+<(P2PActPg ), (myInfoAtMinePg ), >
+<(P2PActPg ), (rules_P2PActPg ), >
+<(P2PActPg ), (在转账信息填写页面中，点击“确认转账” ), >
+<(P2PActPg ), (点击转账 ), >
+<(点击曹操专车（充100得125）0105-0123 ), (访问卡包频道页 ), >
+<(点击曹操专车（充100得125）0105-0123 ), (Web ), >
+<(点击曹操专车（充100得125）0105-0123 ), (172AtIdxMainPg ), >
+<(显示开机广告页 ), (点击消息 ), >
+<(显示开机广告页 ), (锁屏页的访问 ), >
+<(显示开机广告页 ), (transDetailPg ), >
+<(显示开机广告页 ), (activityAtIdxMainPg ), >
+<(显示开机广告页 ), (LifeAppDelegate ), >
+<(显示开机广告页 ), (MinePg ), >
+<(显示开机广告页 ), (点击扫一扫 ), >
+<(显示开机广告页 ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(显示开机广告页 ), (城市列表页 ), >
+<(显示开机广告页 ), (WelcomeView ), >
+<(显示开机广告页 ), (访问卡包频道页 ), >
+<(显示开机广告页 ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(显示开机广告页 ), (点击付款 ), >
+<(显示开机广告页 ), (城市选择成功 ), >
+<(显示开机广告页 ), (702AtBanner ), >
+<(显示开机广告页 ), (guideCancel_NewYearAct ), >
+<(显示开机广告页 ), (guidePg_NewYearAct ), >
+<(显示开机广告页 ), (输入用户信息后，点击“登录”按钮， ), >
+<(显示开机广告页 ), (手势解锁成功 ), >
+<(显示开机广告页 ), (请登录你的账户 ), >
+<(显示开机广告页 ), (显示开机广告页 ), >
+<(显示开机广告页 ), (锁屏时-点击“登录其他账户” ), >
+<(显示开机广告页 ), (点击转账 ), >
+<(显示开机广告页 ), (进入交易详情（系统）页面 ), >
+<(显示开机广告页 ), (TutorialView ), >
+<(显示开机广告页 ), (点击卡面 ), >
+<(显示开机广告页 ), (点击手机充值 ), >
+<(点击激励金（0119-） ), (访问卡包频道页 ), >
+<(点击激励金（0119-） ), (Web ), >
+<(点击激励金（0119-） ), (QPRewardPg ), >
+<(点击激励金（0119-） ), (697AtIdxMainPg ), >
+<(点击激励金（0119-） ), (toMerchLst1_QPReward ), >
+<(bankDraw_P2PActPg ), (haveGot_NewYearAct ), >
+<(bankDraw_P2PActPg ), (MinePg ), >
+<(bankDraw_P2PActPg ), (访问卡包频道页 ), >
+<(bankDraw_P2PActPg ), (Web ), >
+<(bankDraw_P2PActPg ), (getSoon_P2PActPg ), >
+<(bankDraw_P2PActPg ), (reward_P2PActPg ), >
+<(bankDraw_P2PActPg ), (luckMonyAtMinePg ), >
+<(bankDraw_P2PActPg ), (P2PActPg ), >
+<(bankDraw_P2PActPg ), (bankDraw_P2PActPg ), >
+<(getSoon_NewYearAct ), (haveGot_NewYearAct ), >
+<(getSoon_NewYearAct ), (startGet_NewYearAct ), >
+<(getSoon_NewYearAct ), (signSucc_NewYearAct ), >
+<(getSoon_NewYearAct ), (访问卡包频道页 ), >
+<(getSoon_NewYearAct ), (NewYearActPg ), >
+<(getSoon_NewYearAct ), (700AtIdxMainPg ), >
+<(myInfoAtMinePg ), (退出成功 ), >
+<(myInfoAtMinePg ), (登录页的访问 ), >
+<(myInfoAtMinePg ), (SecurityRelativeView ), >
+<(myInfoAtMinePg ), (MinePg ), >
+<(myInfoAtMinePg ), (手机号已被注册，但是不正确，点击“换个号码，重新注册” ), >
+<(myInfoAtMinePg ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(myInfoAtMinePg ), (登录成功事件 ), >
+<(myInfoAtMinePg ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(myInfoAtMinePg ), (点击“退出登录” ), >
+<(myInfoAtMinePg ), (输入短信验证码后，点击“确认” ), >
+<(myInfoAtMinePg ), (输入用户信息后，点击“登录”按钮， ), >
+<(myInfoAtMinePg ), (点击“确认” ), >
+<(myInfoAtMinePg ), (登录失败事件 ), >
+<(myInfoAtMinePg ), (输入手机号后，点击“注册”按钮 ), >
+<(PayPasswordInput ), (startGet_NewYearAct ), >
+<(PayPasswordInput ), (activityAtIdxMainPg ), >
+<(PayPasswordInput ), (openSucc_NewYearAct ), >
+<(PayPasswordInput ), (MinePg ), >
+<(PayPasswordInput ), (访问卡包频道页 ), >
+<(PayPasswordInput ), (Web ), >
+<(PayPasswordInput ), (NewYearActPg ), >
+<(锁屏时-点击“登录其他账户” ), (锁屏页的访问 ), >
+<(锁屏时-点击“登录其他账户” ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(锁屏时-点击“登录其他账户” ), (登录成功事件 ), >
+<(锁屏时-点击“登录其他账户” ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(锁屏时-点击“登录其他账户” ), (输入用户信息后，点击“登录”按钮， ), >
+<(点击开通手机闪付（卡详情页/开户） ), (具体卡详情页的访问 ), >
+<(rules_P2PActPg ), (访问卡包频道页 ), >
+<(rules_P2PActPg ), (P2PActPg ), >
+<(点击周边优惠 ), (访问卡包频道页 ), >
+<(点击周边优惠 ), (Web ), >
+<(在转账信息填写页面中，点击“确认转账” ), (haveGot_NewYearAct ), >
+<(在转账信息填写页面中，点击“确认转账” ), (WalletPayPasswordVerify ), >
+<(在转账信息填写页面中，点击“确认转账” ), (activityAtIdxMainPg ), >
+<(在转账信息填写页面中，点击“确认转账” ), (701AtBanner ), >
+<(在转账信息填写页面中，点击“确认转账” ), (startDraw_P2PActPg ), >
+<(在转账信息填写页面中，点击“确认转账” ), (访问卡包频道页 ), >
+<(在转账信息填写页面中，点击“确认转账” ), (win_P2PActPg ), >
+<(在转账信息填写页面中，点击“确认转账” ), (转账成功页，点击banner（营销入口） ), >
+<(在转账信息填写页面中，点击“确认转账” ), (getSoon_P2PActPg ), >
+<(在转账信息填写页面中，点击“确认转账” ), (转账成功 ), >
+<(在转账信息填写页面中，点击“确认转账” ), (P2PActPg ), >
+<(在转账信息填写页面中，点击“确认转账” ), (在转账信息填写页面中，点击“确认转账” ), >
+<(点击转账 ), (haveGot_NewYearAct ), >
+<(点击转账 ), (WalletPayPasswordVerify ), >
+<(点击转账 ), (activityAtIdxMainPg ), >
+<(点击转账 ), (访问转账首页 ), >
+<(点击转账 ), (访问卡包频道页 ), >
+<(点击转账 ), (点击“转账到手机号” ), >
+<(点击转账 ), (转账成功页，点击banner（营销入口） ), >
+<(点击转账 ), (转账成功 ), >
+<(点击转账 ), (在转账信息填写页面中，点击“确认转账” ), >
+<(点击转账 ), (点击转账 ), >
+<(MyPointView ), (MinePg ), >
+<(进入优惠详情页（不包含秒杀券） ), (haveGot_NewYearAct ), >
+<(进入优惠详情页（不包含秒杀券） ), (锁屏页的访问 ), >
+<(进入优惠详情页（不包含秒杀券） ), (activityAtIdxMainPg ), >
+<(进入优惠详情页（不包含秒杀券） ), (MinePg ), >
+<(进入优惠详情页（不包含秒杀券） ), (点击各具体权益 ), >
+<(进入优惠详情页（不包含秒杀券） ), (serviceAtCouponDtl ), >
+<(进入优惠详情页（不包含秒杀券） ), (WelcomeView ), >
+<(进入优惠详情页（不包含秒杀券） ), (访问卡包频道页 ), >
+<(进入优惠详情页（不包含秒杀券） ), (Web ), >
+<(进入优惠详情页（不包含秒杀券） ), (优惠频道页面 ), >
+<(进入优惠详情页（不包含秒杀券） ), (进入品牌详情页 ), >
+<(进入优惠详情页（不包含秒杀券） ), (访问生活频道页 ), >
+<(进入优惠详情页（不包含秒杀券） ), (点击“直达链接”模块中的链接（只有线上有） ), >
+<(进入优惠详情页（不包含秒杀券） ), (显示开机广告页 ), >
+<(进入优惠详情页（不包含秒杀券） ), (进入优惠详情页（不包含秒杀券） ), >
+<(SetPatternView ), (MinePg ), >
+<(SetPatternView ), (GuideBindCard ), >
+<(SetPatternView ), (登录成功事件 ), >
+<(SetPatternView ), (访问卡包频道页 ), >
+<(SetPatternView ), (输入卡号点击“下一步” ), >
+<(输入卡号点击“下一步” ), (startGet_NewYearAct ), >
+<(输入卡号点击“下一步” ), (Certification ), >
+<(输入卡号点击“下一步” ), (输入卡要素，点击下一步 ), >
+<(输入卡号点击“下一步” ), (访问卡包频道页 ), >
+<(输入卡号点击“下一步” ), (输入短信验证码，点击下一步 ), >
+<(输入卡号点击“下一步” ), (添加银行卡成功 ), >
+<(输入卡号点击“下一步” ), (/添加成功（区分两者）" ), >
+<(输入卡号点击“下一步” ), (输入身份证信息后，点击“下一步” ), >
+<(输入卡号点击“下一步” ), (输入卡号点击“下一步” ), >
+<(输入卡号点击“下一步” ), (银联支付开通成功 ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (UPQRPaySuccessActivity ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (锁屏页的访问 ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (activityAtIdxMainPg ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (二维码被扫描成功 ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (MinePg ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (QRCodeView ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (判断为需要输入密码 ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (WelcomeView ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (179AtIdxMainPg ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (访问卡包频道页 ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (myOrdrAtMinePg ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (点击付款 ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (需要输密码时，付款成功 ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (MyOrderView ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (guidePg_NewYearAct ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (点击“扫码付” ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (手势解锁成功 ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (UPQrShowingActivity ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (显示开机广告页 ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (myInfoAtMinePg ), >
+<(点击付款后，用户有符合条件的银行卡，发送该事件 ), (点击付款后，用户有符合条件的银行卡，发送该事件 ), >
+<(二维码付款成功 ), (WalletPayPlugin ), >
+<(二维码付款成功 ), (锁屏页的访问 ), >
+<(二维码付款成功 ), (MinePg ), >
+<(二维码付款成功 ), (QRCodeView ), >
+<(二维码付款成功 ), (WalletPaySuccess ), >
+<(二维码付款成功 ), (startDraw_P2PActPg ), >
+<(二维码付款成功 ), (点击扫一扫 ), >
+<(二维码付款成功 ), (WelcomeView ), >
+<(二维码付款成功 ), (访问卡包频道页 ), >
+<(二维码付款成功 ), (myOrdrAtMinePg ), >
+<(二维码付款成功 ), (P2PActPg ), >
+<(二维码付款成功 ), (显示开机广告页 ), >
+<(705AtLifeChnlPg ), (访问生活频道页 ), >
+<(进入交易详情（系统）页面 ), (锁屏页的访问 ), >
+<(进入交易详情（系统）页面 ), (MinePg ), >
+<(进入交易详情（系统）页面 ), (MyMessageList ), >
+<(进入交易详情（系统）页面 ), (访问卡包频道页 ), >
+<(进入交易详情（系统）页面 ), (MyMessageCenter ), >
+<(进入交易详情（系统）页面 ), (手势解锁成功 ), >
+<(进入交易详情（系统）页面 ), (显示开机广告页 ), >
+<(进入交易详情（系统）页面 ), (进入交易详情（系统）页面 ), >
+<(700AtIdxMainPg ), (haveGot_NewYearAct ), >
+<(700AtIdxMainPg ), (startGet_NewYearAct ), >
+<(700AtIdxMainPg ), (activityAtIdxMainPg ), >
+<(700AtIdxMainPg ), (signSucc_NewYearAct ), >
+<(700AtIdxMainPg ), (MinePg ), >
+<(700AtIdxMainPg ), (访问卡包频道页 ), >
+<(700AtIdxMainPg ), (点击付款 ), >
+<(700AtIdxMainPg ), (NewYearActPg ), >
+<(700AtIdxMainPg ), (点击转账 ), >
+<(700AtIdxMainPg ), (700AtIdxMainPg ), >
+<(billRmdAtMinePg ), (MinePg ), >
+<(billRmdAtMinePg ), (RemindView ), >
+<(MySecuritySettings ), (MinePg ), >
+<(MySecuritySettings ), (访问卡包频道页 ), >
+<(myPntAtMinePg ), (MinePg ), >
+<(myPntAtMinePg ), (MyPointView ), >
+<(点击搜索 ), (访问卡包频道页 ), >
+<(TutorialView ), (锁屏页的访问 ), >
+<(TutorialView ), (activityAtIdxMainPg ), >
+<(TutorialView ), (MinePg ), >
+<(TutorialView ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(TutorialView ), (城市列表页 ), >
+<(TutorialView ), (WelcomeView ), >
+<(TutorialView ), (访问卡包频道页 ), >
+<(TutorialView ), (点击付款 ), >
+<(TutorialView ), (城市选择成功 ), >
+<(TutorialView ), (guidePg_NewYearAct ), >
+<(TutorialView ), (手势解锁成功 ), >
+<(TutorialView ), (请登录你的账户 ), >
+<(TutorialView ), (显示开机广告页 ), >
+<(TutorialView ), (myInfoAtMinePg ), >
+<(TutorialView ), (TutorialView ), >
+<(点击卡面 ), (余额查询界面中，点击“查询” ), >
+<(点击卡面 ), (具体卡详情页的访问 ), >
+<(点击卡面 ), (CardDetailView ), >
+<(点击卡面 ), (访问卡包频道页 ), >
+<(点击卡面 ), (从分析进入明细（6个页面通用） ), >
+<(点击卡面 ), (卡详情页，点击“实名认证” ), >
+<(点击卡面 ), (bankCardPrivilege ), >
+<(点击卡面 ), (点击开通手机闪付（卡详情页/开户） ), >
+<(点击卡面 ), (点击卡面 ), >
+<(点击“忘记密码” ), (登录页的访问 ), >
+<(点击“忘记密码” ), (找回密码用户名，点击“下一步” ), >
+<(点击“忘记密码” ), (找回密码手机验证时获取短信验证码 ), >
+<(点击“忘记密码” ), (输入短信验证码后，点击“下一步” ), >
+<(172AtIdxMainPg ), (访问卡包频道页 ), >
+<(点击右上方卡列表 ), (访问卡管家-卡列表页 ), >
+<(点击右上方卡列表 ), (访问卡包频道页 ), >
+<(点击右上方卡列表 ), (toVirtualAcctPreview ), >
+<(unuseCpnAtMinePg ), (MinePg ), >
+<(unuseCpnAtMinePg ), (MyDownloadView ), >
+<(具体优惠券详情页的访问 ), (Web ), >
+<(具体优惠券详情页的访问 ), (优惠频道页面 ), >
+<(具体优惠券详情页的访问 ), (具体优惠券详情页的访问 ), >
+<(银联支付开通成功 ), (startGet_NewYearAct ), >
+<(银联支付开通成功 ), (activityAtIdxMainPg ), >
+<(银联支付开通成功 ), (MinePg ), >
+<(银联支付开通成功 ), (Certification ), >
+<(银联支付开通成功 ), (访问卡包频道页 ), >
+<(银联支付开通成功 ), (进入设置支付密码页面 ), >
+<(银联支付开通成功 ), (支付密码设置成功 ), >
+<(银联支付开通成功 ), (PayPasswordInput ), >
+<(点击手机充值 ), (点击“更多充值”里面的应用 ), >
+<(点击手机充值 ), (访问卡包频道页 ), >
+<(点击手机充值 ), (进入“手机充值”页面 ), >
+<(点击手机充值 ), (Web ), >
+<(点击手机充值 ), (手机充值，支付成功 ), >
+<(点击手机充值 ), (点击“确认支付” ), >
+<(点击手机充值 ), (点击“通讯录”头像 ), >
+<(点击手机充值 ), (手机充值，支付失败 ), >
+<(点击手机充值 ), (473AtIdxMainPg ), >
+<(点击手机充值 ), (违章代办，点击“确认支付”后，选择“银联钱包支付” ), >
+<(点击手机充值 ), (点击手机充值 ), >
+<(输入手机号后，点击“注册”按钮 ), (登陆界面，用户输入用户名且至少输入一位时 ), >
+<(输入手机号后，点击“注册”按钮 ), (登录成功事件 ), >
+<(输入手机号后，点击“注册”按钮 ), (登陆界面，用户输入密码且至少输入一位时 ), >
+<(输入手机号后，点击“注册”按钮 ), (Web ), >
+<(输入手机号后，点击“注册”按钮 ), (输入登录密码后，点击“确认” ), >
+<(输入手机号后，点击“注册”按钮 ), (输入短信验证码后，点击“确认” ), >
+<(输入手机号后，点击“注册”按钮 ), (输入用户信息后，点击“登录”按钮， ), >
+<(输入手机号后，点击“注册”按钮 ), (注册成功事件 ), >
+<(473AtLifeChnlPg ), (进入“手机充值”页面 ), >
+<(473AtLifeChnlPg ), (Web ), >
+<(473AtLifeChnlPg ), (手机充值，支付成功 ), >
+<(473AtLifeChnlPg ), (点击“确认支付” ), >
+<(473AtLifeChnlPg ), (访问生活频道页 ), >
+<(473AtLifeChnlPg ), (手机充值，支付失败 ), >
+<(登录页的访问 ), (登录页的访问 ), (登录页的访问 ), >
+<(登录页的访问 ), (startGet_NewYearAct ), (haveGot_NewYearAct ), >
+<(登录页的访问 ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(登录页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), >
+<(UPQRPaySuccessActivity ), (UPQRPaySuccessActivity ), (UPQRPaySuccessActivity ), >
+<(UPQRPaySuccessActivity ), (UPQRPaySuccessActivity ), (锁屏页的访问 ), >
+<(haveGot_NewYearAct ), (wantInvite_NewUserAct ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (点击消息 ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (signShare_NewYearAct ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(haveGot_NewYearAct ), (锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (锁屏页的访问 ), (activityAtIdxMainPg ), >
+<(haveGot_NewYearAct ), (signShare_NewYearAct ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (activityAtIdxMainPg ), (锁屏页的访问 ), >
+<(startGet_NewYearAct ), (haveGot_NewYearAct ), (点击消息 ), >
+<(startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(startGet_NewYearAct ), (haveGot_NewYearAct ), (signShare_NewYearAct ), >
+<(startGet_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(startGet_NewYearAct ), (startGet_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (startGet_NewYearAct ), (signSucc_NewYearAct ), >
+<(startGet_NewYearAct ), (锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signShare_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (点击消息 ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (锁屏页的访问 ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (signShare_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (signSucc_NewYearAct ), >
+<(startGet_NewYearAct ), (openSucc_NewYearAct ), (win_NewUserAct ), >
+<(WalletPayPasswordVerify ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(WalletPayPasswordVerify ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(WalletPayPasswordVerify ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (haveGot_NewYearAct ), (点击消息 ), >
+<(锁屏页的访问 ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (haveGot_NewYearAct ), (signShare_NewYearAct ), >
+<(锁屏页的访问 ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (startGet_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (signShare_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (signSucc_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (startGet_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (signSucc_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (signShare_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (signSucc_NewYearAct ), >
+<(锁屏页的访问 ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (signSucc_NewYearAct ), (signShare_NewYearAct ), >
+<(锁屏页的访问 ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), >
+<(activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(activityAtIdxMainPg ), (haveGot_NewYearAct ), (signShare_NewYearAct ), >
+<(activityAtIdxMainPg ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (锁屏页的访问 ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (signShare_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (activityAtIdxMainPg ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (openSucc_NewYearAct ), >
+<(activityAtIdxMainPg ), (signShare_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (activityAtIdxMainPg ), (startGet_NewYearAct ), >
+<(activityAtIdxMainPg ), (activityAtIdxMainPg ), (signSucc_NewYearAct ), >
+<(activityAtIdxMainPg ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (signSucc_NewYearAct ), (锁屏页的访问 ), >
+<(activityAtIdxMainPg ), (signSucc_NewYearAct ), (signShare_NewYearAct ), >
+<(activityAtIdxMainPg ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), >
+<(signSucc_NewYearAct ), (haveGot_NewYearAct ), (点击消息 ), >
+<(signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(signSucc_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(signSucc_NewYearAct ), (haveGot_NewYearAct ), (signShare_NewYearAct ), >
+<(signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(signSucc_NewYearAct ), (锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(signSucc_NewYearAct ), (signShare_NewYearAct ), (haveGot_NewYearAct ), >
+<(signSucc_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(signSucc_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(登录页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), (activityAtIdxMainPg ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (锁屏页的访问 ), >
+<(haveGot_NewYearAct ), (锁屏页的访问 ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(startGet_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (signSucc_NewYearAct ), >
+<(startGet_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (点击消息 ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (signShare_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (signShare_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(WalletPayPasswordVerify ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (haveGot_NewYearAct ), (锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (haveGot_NewYearAct ), (锁屏页的访问 ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (signShare_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (signShare_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (startGet_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (startGet_NewYearAct ), (startGet_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (startGet_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (startGet_NewYearAct ), (signSucc_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (锁屏页的访问 ), (startGet_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (锁屏页的访问 ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (锁屏页的访问 ), (signSucc_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (activityAtIdxMainPg ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (activityAtIdxMainPg ), (signSucc_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (signShare_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (activityAtIdxMainPg ), (startGet_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (activityAtIdxMainPg ), (signSucc_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(activityAtIdxMainPg ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (锁屏页的访问 ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (signShare_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), >
+<(activityAtIdxMainPg ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), >
+<(activityAtIdxMainPg ), (activityAtIdxMainPg ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(activityAtIdxMainPg ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(activityAtIdxMainPg ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(signSucc_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(signSucc_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(signSucc_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (锁屏页的访问 ), (startGet_NewYearAct ), (signSucc_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (activityAtIdxMainPg ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(activityAtIdxMainPg ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (锁屏页的访问 ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), >
+<(activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+<(锁屏页的访问 ), (activityAtIdxMainPg ), (startGet_NewYearAct ), (signSucc_NewYearAct ), (haveGot_NewYearAct ), (activityAtIdxMainPg ), (haveGot_NewYearAct ), >
+Execution time : 1273542 ms
+Done

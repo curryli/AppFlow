@@ -21,10 +21,10 @@ left outer join
 on A.user_id=B.user_id where A.date='2018-02-19' and B.tmp is not null;
 
 
+ 
 
 
-0301_10000.csv
-select A.user_id, A.event, A.event_id ,A.time, A.$is_first_day, A.date, A.staytime, A.$os, A.$ip, A.$country, A.$province, A.$city, A.$manufacturer from events A
+select A.user_id,A.event_id,A.time, A.$is_first_day, A.event, A.date, A.staytime, A.$os, A.$ip, A.$country, A.$province, A.$city, A.$manufacturer from events A
 left outer join 
-(select distinct(user_id) as user_id, 1 as tmp from events where date='2018-03-01' limit 10000) B
-on A.user_id=B.user_id where A.date='2018-03-01' and B.tmp is not null;
+(select distinct(user_id) as user_id, 1 as tmp from events where date='2018-03-01' limit 1000) B
+on A.user_id=B.user_id where A.date='2018-03-01' and A.event_id is not null and B.tmp is not null;
