@@ -1,12 +1,19 @@
 package GSP;
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
+  
+import net.sf.json.JSONObject;
 
 /**
  * GSP序列模式分析算法
@@ -485,8 +492,9 @@ public class GSPTool {
 
 	/**
 	 * 进行GSP算法计算
+	 * @throws IOException 
 	 */
-	public void gspCalculate() {
+	public void gspCalculate(String mapPath) throws IOException {
 		ArrayList<Sequence> oneSeq;
 		ArrayList<Sequence> twoSeq;
 		ArrayList<Sequence> candidateSeq;
@@ -505,7 +513,10 @@ public class GSPTool {
 			}
 		}
 
-		outputSeqence(totalFrequencySeqs);
+		//outputSeqence(totalFrequencySeqs);
+		
+		//将当前的数字还原为对应的原始内容
+		PatternRestore(totalFrequencySeqs, mapPath);
 
 	}
 
@@ -528,5 +539,62 @@ public class GSPTool {
 			System.out.println(">");
 		}
 	}
+	
+	
+	private Map<String, Object> jsonfile_2_Map(String filename) throws IOException {	
+		InputStreamReader read = new InputStreamReader(new FileInputStream(filename), "UTF-8");
+		BufferedReader br = new BufferedReader(read);
+		String s = "";
+		String tmpstr = "";
+		while ((s = br.readLine()) != null) {
+			tmpstr += s;
+		}
+		//System.out.println(tmpstr);
+		JSONObject dataJson = JSONObject.fromObject(tmpstr);
+		
+		Map<String, Object> map = new HashMap<String, Object>();
+ 
+
+        Iterator<String> keys = dataJson.keys();//定义迭代器
+
+        String key = null;
+        Object value = null;
+
+        while(keys.hasNext()){
+            key = keys.next();
+            value = dataJson.get(key);
+            map.put(key, value);
+        }
+        
+        return  map;
+	}
+
+		 
+	private void PatternRestore(ArrayList<Sequence> outputSeqList, String mapPath) throws IOException {
+		
+		Map<String, Object> eve_chinese = jsonfile_2_Map("./data/event_chinese.json");
+//		for (Object key : eve_chinese.keySet()) { 
+//			  System.out.println("Key = " + key); 
+//			} 
+		
+		Map<String, Object> mymap = jsonfile_2_Map(mapPath);
+ 
+		for (Sequence seq : outputSeqList) {
+			System.out.print("<");
+			for (ItemSet itemSet : seq.getItemSetList()) {
+				System.out.print("(");
+				for (int num : itemSet.getItems()) {
+					String eve_id = (String) mymap.get(String.valueOf(num));
+					if(eve_chinese.containsKey(eve_id))
+						System.out.print(eve_chinese.get(mymap.get(String.valueOf(num))) + " ");
+					else
+					 System.out.print(mymap.get(String.valueOf(num)) + " ");
+				}
+				System.out.print("), ");
+			}
+			System.out.println(">");
+		}
+	}
+	
 
 }

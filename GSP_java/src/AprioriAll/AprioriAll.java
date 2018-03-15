@@ -35,9 +35,9 @@ public class AprioriAll {
 	public static long timeStart;
 
 	public static void main(String[] args){
-		aprioriAll("./little.txt",50);
+		aprioriAll("./data/little.txt",50);
 		getExecutionTime();
-		printResults("./little_result.txt");
+		printResults("./data/little_result.txt");
 	}
 
 	/**

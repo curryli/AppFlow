@@ -1,13 +1,19 @@
 package GSP;
+
+import java.io.IOException;
+
 /**
  * GSP序列模式分析算法
  * @author lyq
  *
  */
 public class Client {
-	public static void main(String[] args){
-		//String filePath = "./testInput.txt";
-		String filePath = "/home/ubuntu/sorted_1000.csv";
+	public static void main(String[] args) throws IOException{
+		//String filePath = "./data/testInput.txt";
+		String filePath = "./data/sorted_10000.csv";
+		//String filePath = "./data/sorted_firstday.csv";
+		String mapPath = "./data/idx_eid_10000.json";
+		
 		//最小支持度阈值
 		int minSupportCount = 50;
 		//时间最小间隔
@@ -18,7 +24,7 @@ public class Client {
 		long timeStart = System.currentTimeMillis();
 		 
 		GSPTool tool = new GSPTool(filePath, minSupportCount, min_gap, max_gap);
-		tool.gspCalculate();
+		tool.gspCalculate(mapPath);
 		
 		System.out.println("Execution time : "+(System.currentTimeMillis()-timeStart)+" ms");
 		

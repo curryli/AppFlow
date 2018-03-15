@@ -18,13 +18,13 @@ if __name__ == '__main__':
     ori_df.columns = ["user_id","event_id","time","$is_first_day","event","date","staytime","$os","$ip","$country","$province","$city","$manufacturer"]
 
     eventid_set = set(ori_df.event_id.values)
-    idx_eid = {idx: e_id for idx, e_id in enumerate(eventid_set)}
-    eid_idx = {e_id: idx for idx, e_id in enumerate(eventid_set)}
+    idx_eid = {int(idx): e_id for idx, e_id in enumerate(eventid_set)}
+    eid_idx = {e_id: int(idx) for idx, e_id in enumerate(eventid_set)}
 
-    with open('idx_eid.json', 'w') as json_file:
+    with open('idx_eid_1000.json', 'w') as json_file:
         json_file.write(json.dumps(idx_eid))
 
-    with open('eid_idx.json', 'w') as json_file:
+    with open('eid_idx_1000.json', 'w') as json_file:
         json_file.write(json.dumps(eid_idx))
 
     userid_set = set(ori_df.user_id.values)
