@@ -1,0 +1,30 @@
+select user_id, event, $os, time, staytime, $browser, $country, $browser_version, $ip, $province, $city, $is_first_day, $manufacturer
+
+
+select user_id, event, $os, time, staytime, $ip, $country, $province, $city, $is_first_day, $manufacturer from events limit 10
+
+select A.* from
+(select user_id, event, time from events where date='2018-02-19') A
+left semi join 
+(select distinct(user_id) as user_id from events where date='2018-02-19' limit 100) B
+on A.user_id=B.user_id
+
+
+select user_id, event, time from events where date='2018-02-19' and user_id in (4987047868820132369,6144989336158208589)
+
+
+ 
+
+select A.user_id, A.event, A.date from events A
+left outer join 
+(select distinct(user_id) as user_id, 1 as tmp from events where date='2018-02-19' limit 2) B
+on A.user_id=B.user_id where A.date='2018-02-19' and B.tmp is not null;
+
+
+
+
+0301_10000.csv
+select A.user_id, A.event, A.event_id ,A.time, A.$is_first_day, A.date, A.staytime, A.$os, A.$ip, A.$country, A.$province, A.$city, A.$manufacturer from events A
+left outer join 
+(select distinct(user_id) as user_id, 1 as tmp from events where date='2018-03-01' limit 10000) B
+on A.user_id=B.user_id where A.date='2018-03-01' and B.tmp is not null;
