@@ -15,11 +15,11 @@ public class Client {
 		String mapPath = "./data/idx_eid_registerSubmit.json";
 		
 		//最小支持度阈值
-		int minSupportCount = 50;
+		int minSupportCount = 100;
 		//时间最小间隔
 		int min_gap = 1;
 		//施加最大间隔
-		int max_gap = 3;
+		int max_gap = 5;
 		
 		long timeStart = System.currentTimeMillis();
 		 

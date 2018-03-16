@@ -47,6 +47,16 @@ public class Sequence implements Comparable<Sequence>, Cloneable {
 	public Integer getFirstItemSetNum() {
 		return this.getItemSetList().get(0).getItems().get(0);
 	}
+	
+	/**
+	 * 取出序列中第i项集的第一个元素
+	 * 
+	 * @return
+	 */
+	public ItemSet getItemSetbyIdx(int i) {
+		return getItemSetList().get(i);
+	}
+	
 
 	/**
 	 * 获取序列中最后一个项集
