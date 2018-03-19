@@ -1,4 +1,4 @@
-package com.spark
+package Algorithm
 
 
 import org.apache.spark.{SparkContext, SparkConf}
@@ -8,12 +8,7 @@ import org.apache.spark.SparkContext._
 
 import scala.collection.mutable.ArrayBuffer
 
-/**
- * Created by Utopia on 2016/4/21.
- * args[0]  --minSupport
- * args[1]  --inputFile's path
- * args[2]  --outputFile's path and fileName without sign such as "F://something/Last/L" then your file will be "L1 , L2 , L3 ..."
- */
+  
 object Apriori {
   def main (args: Array[String]){
 
@@ -23,19 +18,25 @@ object Apriori {
 
     val sc = new SparkContext(conf)
 
-    val lines = sc.textFile(args(1))
+    val out_dir = "xrli/FreqItem/out/"
+    val m_ratio = 0.9
+    val lines = sc.textFile("xrli/FreqItem/chess.data")
+    
+    
     val startTime = System.currentTimeMillis()
-    val db = lines.map(_.split(" ").map(each =>SortedSet(each.toInt)).reduce( _ ++ _)).cache()   //所有出现的item的set的集合，_ ++ _ 表示set合并
-    val minSupport = ( db.count() * args(0).toDouble ).toInt
+    val db = lines.map(_.split(" ").map(each =>SortedSet(each.toInt)).reduce(_ ++ _)).cache()   // SortedSet(each.toInt)表示先把单个元素转SortedSet， 然后用 reduce_ ++ _ 合并为大的SortedSet
+    
+    val minSupport = ( db.count() * m_ratio ).toInt
 
 	 //1频繁集项
     var Lk = lines.flatMap(_.split(" ")).map(word => (SortedSet(word.toInt), 1)).reduceByKey(_ + _).filter(_._2 >= minSupport).cache()   //收集K_1项集
 
     var Lk_last = Lk.map( kv => kv._1)
     var sign = 0
+    
     while(Lk.count() != 0){
       sign = sign + 1
-      Lk.saveAsObjectFile(args(2) + sign.toString)
+      Lk.saveAsTextFile(out_dir + sign.toString)
       Lk_last = Lk.map( kv => kv._1)
       val L_k = Lk_last.collect()
       val Candidate_k = AprioriGen(L_k)
@@ -95,3 +96,12 @@ object Apriori {
     return false
   }
 }
+
+
+
+
+//5频繁项集输出示例如下：
+//(TreeSet(29, 52, 58, 60, 66),3001)
+//(TreeSet(7, 40, 52, 58, 62),2914)
+//(TreeSet(36, 40, 48, 52, 58),2950)
+//(TreeSet(34, 40, 52, 58, 62),2892)
