@@ -8,7 +8,7 @@ import scala.collection.immutable.SortedSet
  
 import scala.collection.mutable.ArrayBuffer
  
-object freqFlow {
+object freqFlow_test {
   def main (args: Array[String]){
 
     val conf = new SparkConf()
@@ -17,10 +17,10 @@ object freqFlow {
 
     val sc = new SparkContext(conf)
 
-    val m_ratio = 0.5
     val out_dir = "xrli/FreqItem/APPout/"
-   
-    val lines = sc.textFile("xrli/FreqItem/register_formated.csv")
+    val minSupport = 200
+    
+    val lines = sc.textFile("xrli/FreqItem/sorted_formated.csv")
     
     val startTime = System.currentTimeMillis()
 	
@@ -55,20 +55,17 @@ object freqFlow {
 //   seqRDD.collect().foreach{ println } 
 	
     val db = seqRDD.cache()   //split with " "
-  
-    val db_cnt = db.count()
-    val minSupport = ( db_cnt * m_ratio ).toInt
-     
-    println("db count:" + db_cnt + " minSupport:" + minSupport)
-     
+ 
 	//1频繁集项
     var Lk = lines.map(_.split(",")).map(x=>(List(x(1)),1)).reduceByKey(_ + _).filter(_._2 >= minSupport).cache()   //收集K_1项集
  
+    println("db count:" + db.count() + " minSupport:" + minSupport + " Lk count: " + Lk.count())
+    
     var Lk_last = Lk.map( kv => kv._1)
     var sign = 0
     while(Lk.count() != 0){
       sign = sign + 1
-//      Lk.saveAsTextFile(out_dir + sign.toString)
+      Lk.saveAsTextFile(out_dir + sign.toString)
       println("Round: " + sign)
       Lk.collect().foreach{ println} 
       
