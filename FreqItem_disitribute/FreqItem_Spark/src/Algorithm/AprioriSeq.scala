@@ -52,7 +52,7 @@ object AprioriSeq {
 		mergeCombiners
 	).map(temp=>temp._2.map(p=>p._1))   //把user去掉，并且list 的每一个item把时间去掉，     现在每一个rdd就是一个序列  <A,B,C,D>   或者 <A,C,D>等等
 	 
-   seqRDD.collect().foreach{ println } 
+//   seqRDD.collect().foreach{ println } 
 	
     val db = seqRDD.cache()   //split with " "
  

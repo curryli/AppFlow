@@ -39,3 +39,5 @@ AprioriSeq  是带序列模式的Apriori  的分布式实现
 //更广义的情况下，如果要考虑A, C 也是频繁项的话，程序又要改一改
 
 
+可以用Freq_prepare/gen_apriseq_ori.py  转换生成需要的输入文件然后作为AprioriSeq 的输入
+
