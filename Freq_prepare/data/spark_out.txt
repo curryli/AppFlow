@@ -1,0 +1,196 @@
+[NewYearActPg] 9989
+ [toBankCardDetl] 2849
+ [bindTakeCardNO] 2682
+ [bindUnionPayConfirm] 10934
+ [getSoon_P2PActPg] 2110
+ [MainCityView] 9117
+ [SecurityRelativeView] 6732
+ [startDraw_NewUserAct] 6747
+ [setPayPasswordSucc] 6275
+ [bankCardPrivilege] 2506
+ [toRealName_NewYearAct] 2048
+ [guidePg_NewYearAct] 5051
+ [registerCode] 12418
+ [toVirtualAcctPreview] 5920
+ [luckMonyAtMinePg] 6488
+ [bindcardCardno] 15147
+ [ScanPanView] 2016
+ [haveGot_NewYearAct] 8336
+ [MinePg] 52782
+ [Certification] 20206
+ [win_NewUserAct] 4435
+ [179AtTopBar] 2700
+ [registerApply] 13029
+ [logoutApply] 3098
+ [transferMoneyPg] 2530
+ [close_start_page] 14201
+ [addCrdAtCrdLstPg] 7623
+ [logoutSuccess] 3076
+ [myIDAtMinePg] 2548
+ [UPQrShowingActivity] 2023
+ [realnameFail] 2183
+ [loginAtIdxMainPg] 4899
+ [CouponDtl] 3768
+ [myInfoAtMinePg] 9690
+ [unlockPatternSuccess] 7174
+ [registerPwd] 12763
+ [LifeAppDelegate] 2262
+ [startGet_NewYearAct] 11156
+ [city_select] 7375
+ [registerSubmit] 13515
+ [logoutConfirm] 3040
+ [bindUnionPaySubmit] 10599
+ [registerSuccess] 10096
+ [loginSubmit] 7668
+ [setPayPasswordPg] 9218
+ [loginFail] 3793
+ [activityAtIdxMainPg] 10071
+ [CardDetailView] 3144
+ [PayPasswordInput] 5302
+ [LifeChnlPg] 7703
+ [178AtTopBar] 2095
+ [bindUnionPaySucc] 7294
+ [LoginView] 30914
+ [IdxMainPg] 93071
+ [bindSelectCard] 2069
+ [SetPatternView] 8713
+ [GuideBindCard] 4171
+ [bindcardSuccess] 3874
+ [QRCodeView] 4697
+ [TutorialView] 9775
+ [toPayAuth_NewYearAct] 2245
+ [realnameSubmit] 13415
+ [loginSuccess] 11619
+ [CouponChnlPg] 7155
+ [702AtBanner] 2867
+ [bankCardDtl] 5550
+ [Web] 52737
+ [login_pwd] 7909
+ [login_user] 9144
+ [WelcomeView] 20668
+ [mobileFeeStart] 2088
+ [realnameSuccess] 7775
+ [P2PActPg] 4665
+ [openSucc_NewYearAct] 5683
+ [fukuan] 2447
+ [PointDetailView] 5449
+ [707AtActArea] 2885
+ [PatternLockView] 9514
+ [350AtHotPay] 2723
+ [NewUserActPg] 7731
+ [702AtIdxMainPg] 2868
+Round: 2
+ [bindUnionPaySucc]   [Certification] 3485
+ [openSucc_NewYearAct]   [startGet_NewYearAct] 2942
+ [IdxMainPg]   [NewYearActPg] 4118
+ [setPayPasswordSucc]   [PayPasswordInput] 3387
+ [loginSuccess]   [SetPatternView] 4628
+ [LoginView]   [Web] 2685
+ [registerApply]   [LoginView] 7889
+ [702AtIdxMainPg]   [702AtBanner] 2071
+ [win_NewUserAct]   [startDraw_NewUserAct] 2437
+ [LoginView]   [registerSubmit] 7733
+ [NewYearActPg]   [startGet_NewYearAct] 3816
+ [bindUnionPayConfirm]   [setPayPasswordPg] 3820
+ [MinePg]   [registerApply] 2255
+ [loginAtIdxMainPg]   [IdxMainPg] 2852
+ [realnameSuccess]   [bindUnionPaySubmit] 5154
+ [realnameSubmit]   [bindcardSuccess] 2184
+ [registerCode]   [registerPwd] 5870
+ [realnameSubmit]   [realnameSuccess] 6875
+ [loginSubmit]   [registerSuccess] 2273
+ [TutorialView]   [IdxMainPg] 2165
+ [registerSuccess]   [LoginView] 2174
+ [unlockPatternSuccess]   [PatternLockView] 2502
+ [city_select]   [MainCityView] 4811
+ [login_pwd]   [registerSuccess] 2260
+ [registerApply]   [registerSubmit] 2020
+ [bindUnionPaySubmit]   [bindUnionPayConfirm] 6043
+ [startGet_NewYearAct]   [openSucc_NewYearAct] 2435
+ [IdxMainPg]   [IdxMainPg] 2216
+ [login_user]   [registerSuccess] 2445
+ [registerSubmit]   [registerCode] 8540
+ [Web]   [IdxMainPg] 4912
+ [LoginView]   [registerApply] 2323
+ [MinePg]   [IdxMainPg] 3509
+ [myInfoAtMinePg]   [MinePg] 3818
+ [close_start_page]   [WelcomeView] 4522
+ [IdxMainPg]   [MinePg] 4213
+ [Web]   [LoginView] 4061
+ [NewUserActPg]   [win_NewUserAct] 2071
+ [MainCityView]   [IdxMainPg] 2458
+ [TutorialView]   [city_select] 2942
+ [SetPatternView]   [loginSuccess] 2591
+ [registerPwd]   [Web] 3026
+ [luckMonyAtMinePg]   [MinePg] 2664
+ [WelcomeView]   [TutorialView] 3950
+ [activityAtIdxMainPg]   [IdxMainPg] 4101
+ [setPayPasswordPg]   [bindUnionPaySucc] 4974
+ [LoginView]   [loginSuccess] 3636
+ [IdxMainPg]   [myInfoAtMinePg] 2560
+ [login_user]   [login_pwd] 2215
+ [IdxMainPg]   [WelcomeView] 4048
+ [GuideBindCard]   [bindcardCardno] 2110
+ [MainCityView]   [loginAtIdxMainPg] 2174
+ [bindcardCardno]   [realnameSubmit] 7364
+ [registerSuccess]   [registerPwd] 4730
+ [Certification]   [setPayPasswordSucc] 3049
+ [bindcardSuccess]   [bindUnionPaySubmit] 2480
+Round: 3
+ [realnameSuccess]   [bindUnionPaySubmit]   [bindUnionPayConfirm] 4107
+ [myInfoAtMinePg]   [MinePg]   [registerApply] 2158
+ [activityAtIdxMainPg]   [IdxMainPg]   [NewYearActPg] 2751
+ [WelcomeView]   [TutorialView]   [city_select] 2651
+ [realnameSubmit]   [realnameSuccess]   [bindUnionPaySubmit] 5141
+ [registerApply]   [LoginView]   [registerSubmit] 22812
+ [registerSubmit]   [registerCode]   [registerPwd] 4778
+ [IdxMainPg]   [NewYearActPg]   [startGet_NewYearAct] 2305
+ [bindcardCardno]   [realnameSubmit]   [bindcardSuccess] 2020
+ [IdxMainPg]   [MinePg]   [IdxMainPg] 2568
+ [IdxMainPg]   [myInfoAtMinePg]   [MinePg] 7410
+ [LoginView]   [registerApply]   [registerSubmit] 5979
+ [LoginView]   [registerSubmit]   [registerCode] 6327
+ [bindUnionPaySubmit]   [bindUnionPayConfirm]   [setPayPasswordPg] 3186
+ [bindcardCardno]   [realnameSubmit]   [realnameSuccess] 6318
+ [LoginView]   [loginSuccess]   [SetPatternView] 3185
+ [TutorialView]   [IdxMainPg]   [WelcomeView] 2101
+ [MinePg]   [registerApply]   [LoginView] 2238
+ [setPayPasswordPg]   [bindUnionPaySucc]   [Certification] 3081
+ [bindUnionPaySucc]   [Certification]   [setPayPasswordSucc] 2796
+ [MainCityView]   [loginAtIdxMainPg]   [IdxMainPg] 6291
+ [TutorialView]   [city_select]   [MainCityView] 2874
+ [bindUnionPayConfirm]   [setPayPasswordPg]   [bindUnionPaySucc] 3722
+ [Web]   [LoginView]   [loginSuccess] 2940
+ [Certification]   [setPayPasswordSucc]   [PayPasswordInput] 3007
+ [realnameSubmit]   [bindcardSuccess]   [bindUnionPaySubmit] 2078
+ [close_start_page]   [WelcomeView]   [TutorialView] 3728
+Round: 4
+ [LoginView]   [registerSubmit]   [registerCode]   [registerPwd] 3610
+ [bindUnionPayConfirm]   [setPayPasswordPg]   [bindUnionPaySucc]   [Certification] 3075
+ [realnameSuccess]   [bindUnionPaySubmit]   [bindUnionPayConfirm]   [setPayPasswordPg] 2107
+ [registerApply]   [LoginView]   [registerSubmit]   [registerCode] 6214
+ [bindUnionPaySubmit]   [bindUnionPayConfirm]   [setPayPasswordPg]   [bindUnionPaySucc] 3181
+ [MinePg]   [registerApply]   [LoginView]   [registerSubmit] 2035
+ [realnameSubmit]   [realnameSuccess]   [bindUnionPaySubmit]   [bindUnionPayConfirm] 4106
+ [Web]   [LoginView]   [loginSuccess]   [SetPatternView] 2929
+ [bindUnionPaySucc]   [Certification]   [setPayPasswordSucc]   [PayPasswordInput] 2757
+ [close_start_page]   [WelcomeView]   [TutorialView]   [city_select] 2520
+ [setPayPasswordPg]   [bindUnionPaySucc]   [Certification]   [setPayPasswordSucc] 2796
+ [myInfoAtMinePg]   [MinePg]   [registerApply]   [LoginView] 2154
+ [bindcardCardno]   [realnameSubmit]   [realnameSuccess]   [bindUnionPaySubmit] 4769
+ [WelcomeView]   [TutorialView]   [city_select]   [MainCityView] 2595
+Round: 5
+ [bindUnionPaySubmit]   [bindUnionPayConfirm]   [setPayPasswordPg]   [bindUnionPaySucc]   [Certification] 2555
+ [realnameSuccess]   [bindUnionPaySubmit]   [bindUnionPayConfirm]   [setPayPasswordPg]   [bindUnionPaySucc] 2105
+ [bindcardCardno]   [realnameSubmit]   [realnameSuccess]   [bindUnionPaySubmit]   [bindUnionPayConfirm] 3832
+ [realnameSubmit]   [realnameSuccess]   [bindUnionPaySubmit]   [bindUnionPayConfirm]   [setPayPasswordPg] 2106
+ [registerApply]   [LoginView]   [registerSubmit]   [registerCode]   [registerPwd] 3555
+ [bindUnionPayConfirm]   [setPayPasswordPg]   [bindUnionPaySucc]   [Certification]   [setPayPasswordSucc] 2794
+ [setPayPasswordPg]   [bindUnionPaySucc]   [Certification]   [setPayPasswordSucc]   [PayPasswordInput] 2757
+ [close_start_page]   [WelcomeView]   [TutorialView]   [city_select]   [MainCityView] 2469
+Round: 6
+ [bindUnionPaySubmit]   [bindUnionPayConfirm]   [setPayPasswordPg]   [bindUnionPaySucc]   [Certification]   [setPayPasswordSucc] 2309
+ [realnameSubmit]   [realnameSuccess]   [bindUnionPaySubmit]   [bindUnionPayConfirm]   [setPayPasswordPg]   [bindUnionPaySucc] 2104
+ [bindUnionPayConfirm]   [setPayPasswordPg]   [bindUnionPaySucc]   [Certification]   [setPayPasswordSucc]   [PayPasswordInput] 2755
+Round: 7
+ [bindUnionPaySubmit]   [bindUnionPayConfirm]   [setPayPasswordPg]   [bindUnionPaySucc]   [Certification]   [setPayPasswordSucc]   [PayPasswordInput] 2275

@@ -7,8 +7,13 @@ import org.apache.spark.SparkContext._
 import scala.collection.immutable.SortedSet
  
 import scala.collection.mutable.ArrayBuffer
- 
-object freqFlow {
+
+import scala.io.Source
+import org.apache.spark.sql.SQLContext;
+
+import scala.util.parsing.json._
+
+object freqFlowJson {
   def main (args: Array[String]){
 
     val conf = new SparkConf()
@@ -17,12 +22,44 @@ object freqFlow {
 
     val sc = new SparkContext(conf)
 
-    val m_ratio = 0.2
+    val m_ratio = 0.6
     val out_dir = "xrli/FreqItem/APPout/"
    
     val lines = sc.textFile("xrli/FreqItem/register_formated.csv")
     
     val startTime = System.currentTimeMillis()
+    
+    val sqlc= new SQLContext(sc);  
+    
+    //val json_path = "hdfs:////nameservice1/user/hdanaly/xrli/FreqItem/map.json"
+    val json_path = "xrli/FreqItem/map.json"
+     
+    val sourceline = sc.textFile(json_path).collect()(0)
+    
+//    val source = Source.fromFile(json_path)  
+//    val sourcelines = source.getLines  
+//    source.close;//记得要关闭source  
+  
+    def regJson(json:Option[Any]) = json match {
+      case Some(map: Map[String, String]) => map
+    }
+    
+    
+    val jsonS = JSON.parseFull(sourceline)  
+    val event_map = regJson(jsonS)
+   
+    
+     
+    //val jsonDF = sqlc.read.json("xrli/FreqItem/map.json").distinct()
+    //val jsonDF = sqlc.jsonFile("xrli/FreqItem/map.json").distinct()
+    //jsonDF.printSchema() 
+    //jsonDF.show()
+    
+    
+//    event_map.foreach{case (k,v) => println("key=" + k+" ,value=" +v)}
+    
+    val eventmap_broad = sc.broadcast(event_map)
+     
 	
 	var arrdata = lines.map(line=>{
 	   val arr = line.split(",")
@@ -69,11 +106,21 @@ object freqFlow {
     while(Lk.count() != 0){
       sign = sign + 1
 //      Lk.saveAsTextFile(out_dir + sign.toString)
-      println("Round: " + sign)
-     
-     val a = Lk.map(p=>p._1.map(x => " [" + x + "] " ).mkString(" ") + p._2.toString())
+      
+     println("Round: " + sign)
+      
+     val a = Lk.map(p=>p._1.map(x =>
+        if(eventmap_broad.value.contains(x))
+           eventmap_broad.value.getOrElse(x, "")+ "-->"
+        else
+           x + "->"
+        )
+      )
+      
      a.collect().foreach { println }  
-    
+        
+        
+        
       
       Lk_last = Lk.map( kv => kv._1)
       val L_k = Lk_last.collect()
