@@ -165,6 +165,8 @@ object AprioriSeq {
 
 
 
+//输入： user, item, time
+
 //最原始根据账号group之后组成的列表是：
 //List(E, C, A)
 //List(C, D, C, A)
